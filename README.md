@@ -35,18 +35,6 @@ pip install -r requirements.txt
 # Run the main file
 python main.py
 
-📊 Model Performance (Example)
-Model	Accuracy	Precision	Recall
-Random Forest	91.2%	89%	92%
-Decision Tree	84.6%	82%	79%
-Logistic Regression	76.5%	74%	72%
-🔍 Key Findings
-
-Attendance and Internal Marks are the top influencing factors
-
-Random Forest provided the best accuracy
-
-Socio-economic features contributed significantly to dropout prediction
 
 🌟 Future Enhancements
 
