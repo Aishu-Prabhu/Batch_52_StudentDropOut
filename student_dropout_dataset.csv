@@ -1,0 +1,2001 @@
+Student_ID,Student_name,Age,Gender,Grade,School,SocialCategory,Area,Attendance_percentage,SocialEconomic status,distance_to_school,previous_year_result,scholarship_status,dropout_score,dropout,DropoutReason
+S0783,Ishaan Singh,15,male,9,private aided,OBC,urban,89.4,Medium,0.15,pass,no,10.21783317,no,
+S0514,Siddharth Sharma,15,female,9,private unaided,general,rural,97.2,Low,8.44,pass,no,21.30848855,yes,Early Marriage
+S0068,Sonal Kumar,14,female,8,private unaided,OBC,urban,74.7,High,0.06,pass,no,13.4889598,no,
+S0775,Aarav Reddy,14,male,8,government,SC,urban,81.5,Medium,2.2,pass,yes,15.66887197,no,
+S1948,Divya Kumar,15,male,9,private aided,SC,urban,60.9,Medium,0.11,pass,no,13.78241464,no,
+S1904,Riya Singh,15,female,9,private aided,SC,urban,63.4,Medium,1.99,pass,yes,13.88897276,no,
+S1737,Neha Gupta,14,male,8,private aided,SC,rural,84.3,Low,0.63,pass,no,15.47546843,no,
+S1930,Ishaan Joseph,16,male,10,private aided,ST,urban,80,Medium,0.65,pass,no,11.31356567,no,
+S1458,Kavya Naik,15,female,9,private unaided,OBC,rural,61.7,Low,1.75,fail,no,28.96709563,yes,Household Work
+S1066,Ishaan Naik,16,male,10,private aided,OBC,urban,70.1,Low,0.23,pass,yes,13.57636249,no,
+S0602,Sonal Patel,15,female,9,private aided,OBC,rural,55,Medium,1.95,fail,no,29.78573785,yes,Lack of Interest
+S1014,Siddharth Singh,15,male,9,private unaided,SC,rural,95.3,Low,0.29,pass,no,13.7656328,no,
+S1703,Sonal Joseph,15,female,9,private aided,SC,urban,68,Low,0.35,pass,no,14.63504198,no,
+S0505,Priya Joseph,15,male,9,private unaided,general,urban,72.9,Low,0.7,pass,no,17.99397438,no,
+S0595,Priya Singh,14,female,8,government,general,rural,81.3,Low,1.61,fail,no,20.88643465,yes,Child Labour
+S0621,Sneha Iyer,14,female,8,government,OBC,rural,59.5,Medium,2.23,fail,no,22.93724309,yes,Household Work
+S1898,Arjun Reddy,14,female,8,private unaided,OBC,urban,77.1,Medium,4.23,pass,no,16.70977277,no,
+S1150,Neha Sharma,14,male,8,private unaided,OBC,rural,59.3,Medium,3.29,fail,no,26.31995705,yes,Early Marriage
+S0658,Anjali Iyer,16,female,10,private aided,general,urban,80.4,Low,0.78,pass,no,11.84190448,no,
+S1115,Arjun Joseph,16,male,10,government,ST,urban,81.3,Medium,1.28,pass,no,10.30566032,no,
+S1461,Maya Joseph,15,male,9,private unaided,SC,urban,74.4,Low,0.61,pass,no,17.16921814,no,
+S0310,Vikram Kumar,16,female,10,government,OBC,rural,81.8,High,2.22,pass,no,11.75078084,no,
+S0350,Vikram Gupta,16,female,10,government,general,rural,63.3,High,0.65,pass,no,7.554883988,no,
+S0757,Aditya Joseph,15,male,9,private aided,general,urban,75.7,Medium,5.06,pass,no,14.7747176,no,
+S0665,Divya Iyer,14,male,8,private aided,general,urban,94.1,High,0.74,pass,no,9.442917209,no,
+S0855,Kavya Singh,16,male,10,government,general,rural,56.7,Medium,6.32,fail,yes,27.48381704,yes,Household Work
+S0616,Siddharth Reddy,14,female,8,private unaided,OBC,urban,89.1,Medium,3.07,pass,no,14.36805355,no,
+S0726,Pooja Iyer,16,male,10,private aided,OBC,urban,58,Medium,0.9,pass,no,15.31794126,no,
+S1022,Rahul Patel,14,male,8,government,OBC,urban,57.5,Low,0.01,pass,no,16.3129268,no,
+S0164,Sonal Kumar,15,male,9,private unaided,ST,rural,57.8,Medium,7.77,fail,no,34.9678325,yes,Household Work
+S0827,Ishaan Sharma,16,female,10,private aided,OBC,rural,80.9,Low,5.99,pass,no,17.55825584,no,
+S1788,Priya Patel,14,male,8,private aided,SC,urban,84.3,Low,3.39,pass,no,15.43962879,no,
+S0363,Aditya Joseph,14,female,8,government,OBC,rural,94.1,Medium,10.89,pass,no,18.10912934,no,
+S1438,Priya Singh,14,female,8,private aided,OBC,urban,59.9,Low,0.38,pass,yes,15.66444603,no,
+S0212,Vikram Naik,16,female,10,government,OBC,urban,71.5,Low,0.19,pass,no,14.7992265,no,
+S0006,Priya Gupta,14,male,8,private unaided,SC,rural,84.2,Low,14.01,pass,no,19.75756727,yes,Other
+S1216,Aarav Kumar,16,female,10,private aided,ST,urban,65.1,High,0.39,pass,yes,12.07740385,no,
+S1576,Kavya Iyer,16,female,10,private unaided,ST,urban,62.5,Medium,0.21,pass,no,13.77165435,no,
+S0805,Aarav Joseph,14,male,8,private unaided,OBC,urban,89.2,Medium,0.46,pass,yes,14.8088843,no,
+S0447,Siddharth Joseph,15,male,9,private unaided,SC,rural,83.5,Medium,2.41,fail,no,23.36901279,yes,Lack of Interest
+S0239,Neha Gupta,14,female,8,private unaided,OBC,rural,75.1,Medium,5.86,fail,no,26.38039794,yes,Other
+S1794,Sneha Naik,14,male,8,private unaided,OBC,urban,71,Medium,0.67,pass,no,9.349513053,no,
+S0873,Anjali Patel,16,male,10,government,OBC,rural,72.3,Medium,2.75,fail,no,23.40074043,yes,Other
+S1155,Ishaan Iyer,14,male,8,private unaided,OBC,urban,80.7,Low,1.21,pass,no,17.98653847,no,
+S1691,Kavya Iyer,16,male,10,government,general,urban,63.6,Medium,0.28,pass,no,12.36211393,no,
+S0074,Divya Singh,16,female,10,private unaided,ST,urban,84,Medium,1.95,pass,no,16.14805956,no,
+S1710,Ananya Naik,15,female,9,private unaided,OBC,rural,70.3,Low,0.19,pass,no,18.99893018,yes,Other
+S1758,Rahul Iyer,15,female,9,private aided,OBC,urban,78,High,0.75,pass,no,15.76744856,no,
+S0061,Siddharth Joseph,16,female,10,private unaided,OBC,rural,58,Low,0.51,fail,no,28.74171151,yes,Early Marriage
+S0720,Manish Gupta,16,male,10,government,SC,urban,79.5,Low,1.66,pass,no,12.08652736,no,
+S1037,Manish Gupta,15,female,9,government,SC,urban,94.3,Medium,0.18,pass,no,12.53082479,no,
+S0413,Aditya Kumar,14,male,8,private aided,ST,rural,50,Medium,0.52,pass,no,23.48421998,yes,Early Marriage
+S1849,Vikram Singh,14,male,8,private aided,SC,rural,64.7,Medium,3.18,pass,no,12.9267298,no,
+S0906,Ishaan Joseph,16,male,10,government,SC,rural,65.3,Low,1.24,fail,no,24.31810367,yes,Household Work
+S0181,Aarav Joseph,15,female,9,government,SC,urban,74.7,Medium,0.7,pass,yes,15.65635138,no,
+S0567,Ananya Patel,16,male,10,private unaided,SC,urban,69.6,High,1.37,pass,no,11.25670731,no,
+S1769,Siddharth Patel,16,female,10,government,OBC,urban,80.7,High,0.7,pass,no,14.03839649,no,
+S0169,Aarav Patel,14,female,8,private unaided,OBC,rural,94,Medium,2.45,pass,no,11.54394189,no,
+S1211,Arjun Singh,15,female,9,government,general,urban,77,Low,2.82,pass,no,14.35314296,no,
+S1405,Divya Reddy,15,female,9,private unaided,SC,rural,98.9,Medium,11.01,pass,no,21.15295414,yes,Financial Issues
+S1608,Kavya Joseph,15,male,9,private unaided,SC,urban,61.8,Low,0.49,pass,no,12.79471992,no,
+S0653,Maya Naik,15,female,9,private unaided,OBC,urban,94.6,Medium,0.17,pass,no,17.14012784,no,
+S0361,Aditya Naik,16,female,10,private aided,OBC,urban,65.5,Low,1.29,pass,no,12.02596808,no,
+S0909,Maya Singh,14,female,8,government,OBC,urban,77.1,Medium,1.18,pass,yes,14.74421066,no,
+S1081,Anjali Gupta,14,male,8,private aided,general,urban,71.9,High,0.51,pass,no,7.297538694,no,
+S1575,Vikram Iyer,16,male,10,private aided,general,urban,60.6,Medium,0.4,pass,no,10.38919592,no,
+S1544,Aditya Patel,15,male,9,private unaided,SC,urban,69.2,Low,1.37,pass,no,15.22849779,no,
+S0252,Vikram Gupta,14,male,8,private aided,OBC,urban,91.4,Medium,0.36,pass,no,12.59322893,no,
+S0685,Siddharth Das,14,female,8,private unaided,ST,rural,63.2,Low,0.8,fail,no,26.93655095,yes,Household Work
+S1903,Anjali Das,14,female,8,private unaided,general,rural,71.6,Low,0.71,pass,no,12.71869139,no,
+S1733,Sonal Singh,16,female,10,private unaided,general,urban,77.7,Low,1.49,pass,no,12.91020658,no,
+S0297,Siddharth Patel,14,male,8,government,OBC,rural,58.2,High,0.16,fail,no,20.75667519,yes,Other
+S1374,Neha Patel,16,female,10,government,OBC,urban,89,Medium,0.02,pass,no,13.13910991,no,
+S1204,Pooja Patel,15,female,9,private aided,ST,rural,81.6,High,1.5,pass,no,14.91187915,no,
+S0456,Anjali Singh,14,female,8,government,OBC,rural,80.5,Low,2.69,pass,no,16.63065365,no,
+S0902,Neha Naik,16,female,10,government,general,rural,59.9,Medium,3.33,fail,no,21.94545601,yes,Other
+S0198,Pooja Gupta,15,male,9,private aided,general,rural,73.2,Medium,0.5,pass,no,12.00821356,no,
+S0304,Sneha Kumar,14,male,8,private unaided,OBC,urban,64.1,Medium,3.01,pass,no,16.33869848,no,
+S1819,Siddharth Kumar,14,female,8,private unaided,general,rural,70,Low,0.02,fail,yes,20.96955935,yes,Household Work
+S0481,Pooja Patel,15,female,9,private aided,general,urban,63,Medium,0.06,pass,no,10.66723836,no,
+S0087,Kavya Iyer,15,female,9,government,ST,rural,55.7,Low,0.15,fail,no,28.90613595,yes,Household Work
+S0053,Vikram Joseph,15,female,9,private unaided,OBC,urban,86,Medium,2.44,pass,yes,15.95429411,no,
+S0330,Rahul Iyer,16,female,10,government,SC,urban,69.9,Low,1.11,pass,no,12.7353643,no,
+S0825,Arjun Sharma,16,male,10,government,general,rural,73,High,5.63,pass,no,12.41855988,no,
+S0033,Vikram Sharma,14,female,8,government,SC,rural,66.9,Low,0.02,pass,yes,11.57061025,no,
+S1104,Sonal Patel,15,female,9,private aided,SC,urban,70.3,Medium,2.37,pass,no,12.7899546,no,
+S1602,Vikram Das,16,female,10,government,SC,urban,71.7,High,0.33,pass,no,10.82626573,no,
+S0850,Riya Joseph,15,female,9,private unaided,general,rural,69.8,Medium,8.37,pass,yes,19.36919024,yes,Financial Issues
+S0327,Anjali Naik,14,male,8,private aided,OBC,rural,79.1,Low,0.9,fail,no,22.89340002,yes,Financial Issues
+S1413,Divya Reddy,15,male,9,private aided,general,urban,71.7,Low,0.11,pass,no,11.83707352,no,
+S1687,Divya Iyer,14,female,8,private aided,ST,rural,73.5,Medium,3.44,pass,no,12.41001057,no,
+S0356,Divya Sharma,14,male,8,private aided,OBC,urban,93,High,4.41,pass,yes,11.32245973,no,
+S1686,Priya Das,14,male,8,private aided,OBC,rural,78.5,Low,0.59,fail,no,24.37966107,yes,Household Work
+S1437,Manish Sharma,15,female,9,private unaided,OBC,rural,66.5,Low,0.45,fail,no,22.52128747,yes,Lack of Interest
+S0592,Neha Gupta,14,female,8,private unaided,ST,urban,77.4,Low,0.09,pass,yes,9.942539726,no,
+S0034,Sonal Iyer,16,female,10,government,general,urban,82.3,Medium,2.53,pass,no,10.53174603,no,
+S0790,Rahul Naik,15,female,9,private unaided,OBC,urban,87.5,High,0.86,pass,no,17.41621831,no,
+S0717,Manish Naik,16,male,10,private unaided,OBC,urban,77.8,High,3.18,pass,no,14.09372682,no,
+S0070,Karan Joseph,15,male,9,private aided,OBC,urban,100,High,0.49,pass,no,12.6378698,no,
+S0524,Maya Sharma,14,male,8,private unaided,OBC,rural,70.3,High,2.83,pass,no,9.233086279,no,
+S0892,Ananya Das,15,male,9,government,OBC,urban,79.4,Low,2.14,pass,no,15.61128946,no,
+S0919,Pooja Gupta,16,male,10,private unaided,OBC,urban,67.2,High,0.27,pass,no,15.20197117,no,
+S0795,Manish Patel,15,male,9,private aided,OBC,rural,90.6,Medium,0.28,fail,yes,20.13720217,yes,Child Labour
+S1786,Aditya Joseph,16,male,10,private unaided,general,rural,70,Medium,0.86,pass,yes,13.30760444,no,
+S1068,Vikram Iyer,16,female,10,government,ST,rural,84.4,Medium,0.1,fail,no,23.76245309,yes,Lack of Interest
+S0961,Kavya Patel,15,female,9,private unaided,ST,urban,79.8,Medium,1.51,pass,no,15.80016425,no,
+S0857,Manish Gupta,15,female,9,private unaided,OBC,urban,68.4,Low,1.54,pass,no,17.63730961,no,
+S1606,Kavya Das,14,male,8,government,OBC,rural,56.8,Medium,1.63,fail,no,23.30764254,yes,Child Labour
+S1483,Pooja Das,16,female,10,private aided,SC,rural,80.5,High,6.09,pass,no,17.67418979,no,
+S0222,Sonal Das,15,male,9,private unaided,OBC,rural,65.8,Medium,3.47,pass,no,18.47508476,yes,Early Marriage
+S1219,Karan Das,15,male,9,private aided,OBC,urban,75.3,High,4.94,pass,no,16.50517542,no,
+S0733,Ananya Joseph,16,male,10,private unaided,general,urban,77.3,Low,0.2,pass,no,13.0547335,no,
+S0555,Sonal Sharma,15,female,9,private unaided,SC,urban,79.1,High,2.21,pass,no,14.97529484,no,
+S0666,Ananya Gupta,15,male,9,private aided,general,rural,64.8,Low,2.38,pass,no,10.87027441,no,
+S0654,Karan Das,14,male,8,private aided,OBC,rural,61.2,Medium,4.29,fail,no,16.61474667,no,
+S1445,Sonal Das,15,female,9,private unaided,OBC,rural,97.5,Low,1.82,pass,no,20.75807238,yes,Child Labour
+S1486,Aditya Das,16,male,10,private unaided,general,rural,91.9,Medium,4.45,pass,no,14.68633638,no,
+S1394,Ananya Kumar,15,female,9,private unaided,SC,urban,80.7,Low,1.18,pass,no,15.28877879,no,
+S0281,Sneha Gupta,14,female,8,private aided,SC,rural,81.9,Low,2.87,fail,no,21.33175148,yes,Lack of Interest
+S0017,Priya Das,15,male,9,private aided,general,urban,67.8,Medium,1.73,pass,no,12.0930356,no,
+S0303,Siddharth Das,16,female,10,private aided,ST,urban,72.1,High,5.23,pass,no,10.5964216,no,
+S1239,Sonal Joseph,15,male,9,private aided,ST,urban,57.9,Medium,0.08,pass,no,14.98871833,no,
+S0777,Ishaan Kumar,16,female,10,government,SC,rural,68.1,Low,0.08,pass,no,14.66072465,no,
+S0133,Sneha Sharma,14,male,8,private unaided,OBC,rural,65.7,Medium,1.3,pass,no,19.10037983,yes,Early Marriage
+S0628,Sneha Patel,14,female,8,government,SC,rural,69.9,Medium,1.84,fail,no,20.63557327,yes,Early Marriage
+S0474,Karan Singh,14,male,8,private unaided,general,urban,87.8,Medium,2.41,pass,no,12.47639972,no,
+S1366,Aditya Naik,14,female,8,private aided,OBC,urban,85,Low,5.03,pass,no,19.55349058,yes,Household Work
+S0111,Neha Iyer,16,female,10,government,general,urban,62.1,Medium,4.23,pass,no,15.77347033,no,
+S1170,Sneha Iyer,14,female,8,private unaided,OBC,urban,77.3,High,3.61,pass,no,14.30887135,no,
+S1886,Siddharth Iyer,14,female,8,private unaided,SC,rural,94.1,Low,10.92,pass,no,20.98192492,yes,Early Marriage
+S1329,Siddharth Singh,16,male,10,private aided,OBC,rural,83.4,Medium,0.79,pass,yes,9.819226468,no,
+S0497,Sonal Singh,14,male,8,private unaided,general,rural,68.4,Medium,1.01,pass,no,10.07988583,no,
+S0534,Anjali Das,15,male,9,private unaided,OBC,urban,77.3,Medium,1.85,pass,no,16.71960297,no,
+S1940,Ananya Das,15,male,9,private unaided,general,urban,94.1,Medium,1.65,pass,no,18.80532064,yes,Early Marriage
+S1382,Kavya Sharma,15,female,9,government,general,urban,84.9,Low,0.85,pass,no,16.24678166,no,
+S0596,Aditya Sharma,15,male,9,government,SC,urban,68.1,Medium,1.03,pass,no,14.15506041,no,
+S0973,Siddharth Patel,14,male,8,private aided,OBC,urban,82.6,High,0.45,pass,yes,7.644262899,no,
+S1245,Maya Singh,16,male,10,government,general,urban,77.3,Medium,5.96,pass,no,9.725285085,no,
+S1661,Priya Patel,14,male,8,private aided,general,urban,87,High,4.11,pass,no,11.53678679,no,
+S1985,Siddharth Naik,14,female,8,private aided,OBC,urban,68,Low,1.66,pass,no,12.48113752,no,
+S0100,Neha Das,15,female,9,private aided,OBC,urban,84.4,Medium,2.06,pass,no,13.63469263,no,
+S1494,Rahul Kumar,14,male,8,government,SC,rural,79.8,Medium,5.04,fail,no,22.32993027,yes,Child Labour
+S0521,Anjali Gupta,16,female,10,private unaided,SC,urban,73,High,0.61,pass,no,11.72411257,no,
+S0957,Priya Iyer,15,male,9,private unaided,OBC,rural,70.3,Low,2.39,pass,no,15.91001322,no,
+S1998,Kavya Singh,16,male,10,private aided,SC,rural,74.6,Medium,2.17,pass,yes,12.36524407,no,
+S0445,Maya Das,15,female,9,government,OBC,urban,74.6,Medium,1.75,pass,yes,18.78675631,yes,Other
+S0533,Maya Reddy,14,male,8,private unaided,OBC,urban,69.6,Low,0.54,pass,yes,17.39316974,no,
+S0897,Ishaan Joseph,15,male,9,private unaided,general,urban,75.8,High,4.14,pass,no,13.94406904,no,
+S1360,Manish Sharma,14,male,8,private aided,OBC,urban,57.6,Medium,0.51,fail,no,23.85194862,yes,Household Work
+S1443,Aarav Iyer,15,male,9,private unaided,OBC,rural,87.3,Medium,2.15,fail,no,26.56282116,yes,Financial Issues
+S1448,Sneha Gupta,14,male,8,private unaided,general,urban,75,Medium,1.5,pass,no,11.54317178,no,
+S0881,Vikram Das,15,male,9,private unaided,general,rural,81.2,Low,2.45,pass,no,15.41382037,no,
+S1393,Aarav Singh,16,male,10,government,SC,rural,81,Low,10.8,pass,no,17.65045767,no,
+S0708,Manish Sharma,15,male,9,private aided,SC,urban,58.6,Medium,1.03,pass,no,14.37441153,no,
+S1361,Neha Joseph,16,female,10,private unaided,OBC,rural,77.5,Medium,3.7,fail,yes,22.326162,yes,Other
+S0669,Aarav Iyer,16,female,10,private unaided,ST,rural,94.7,Low,3.86,fail,yes,26.15487941,yes,Early Marriage
+S1436,Anjali Naik,15,male,9,private unaided,SC,urban,86,High,0.26,pass,no,18.39021927,yes,Other
+S0871,Siddharth Kumar,16,male,10,private aided,OBC,rural,62.7,Medium,4.04,pass,no,11.67281929,no,
+S0495,Sonal Sharma,14,female,8,private unaided,OBC,rural,92,Low,4.76,pass,no,17.99731441,no,
+S1273,Sneha Iyer,16,female,10,private aided,OBC,urban,98.7,High,1.09,pass,no,11.87301029,no,
+S0348,Manish Reddy,14,male,8,private unaided,general,rural,68.9,Low,7.49,pass,no,17.18387941,no,
+S0215,Kavya Reddy,16,female,10,private unaided,general,urban,73.7,Low,0.5,pass,no,16.07940549,no,
+S0719,Divya Kumar,16,female,10,government,general,urban,51.1,High,0.61,fail,no,26.97885197,yes,Child Labour
+S1369,Sonal Naik,16,female,10,private unaided,general,urban,61.5,Medium,1.37,pass,no,14.4467834,no,
+S1658,Riya Patel,16,female,10,private aided,general,rural,92.7,Medium,1.5,pass,yes,8.592974517,no,
+S0589,Priya Sharma,14,male,8,private unaided,general,urban,90.8,Medium,0.9,pass,no,12.85261922,no,
+S1195,Manish Naik,15,male,9,government,OBC,urban,71.1,High,0.69,pass,no,11.32747808,no,
+S0400,Maya Joseph,15,female,9,private aided,OBC,rural,80.9,High,1.09,pass,no,14.04501442,no,
+S0611,Riya Gupta,15,male,9,private unaided,general,rural,92.7,Medium,5.28,fail,yes,24.35245223,yes,Early Marriage
+S1269,Pooja Gupta,14,female,8,private unaided,OBC,rural,75.2,High,1,pass,no,11.05865379,no,
+S1843,Sonal Singh,16,female,10,private unaided,general,rural,85.6,Low,0.5,pass,no,14.62925504,no,
+S0574,Aditya Das,16,male,10,private unaided,OBC,urban,61.1,High,1.82,pass,no,17.13945004,no,
+S0191,Karan Joseph,14,female,8,government,general,rural,65.2,Medium,1.39,pass,no,8.793703036,no,
+S1600,Priya Joseph,14,female,8,private aided,SC,urban,70.6,Medium,0.6,pass,no,10.45159798,no,
+S0372,Aditya Patel,16,male,10,private unaided,ST,urban,55.1,Medium,3.79,pass,yes,20.33122611,yes,Household Work
+S0715,Anjali Patel,16,female,10,private unaided,OBC,rural,75.4,Low,0.28,pass,no,13.57551252,no,
+S1383,Ananya Naik,15,male,9,private unaided,OBC,urban,96,Medium,1.52,pass,no,16.36829545,no,
+S1098,Ishaan Gupta,15,female,9,private aided,general,rural,98.5,Medium,0.9,pass,no,13.44322727,no,
+S1865,Divya Sharma,15,female,9,private aided,SC,rural,96.1,Low,3.86,pass,no,15.82537186,no,
+S1180,Karan Naik,16,female,10,private aided,general,urban,89.4,Medium,0.67,pass,no,11.79881483,no,
+S1362,Ananya Sharma,16,female,10,government,ST,rural,75.8,Low,0.32,pass,no,13.86479313,no,
+S0103,Neha Naik,15,female,9,private unaided,OBC,urban,72.1,Medium,0.46,pass,no,16.34035693,no,
+S0849,Sonal Naik,14,female,8,private aided,general,rural,64.4,Low,1.46,pass,no,10.66743444,no,
+S1468,Neha Das,16,male,10,private unaided,general,urban,75.7,Low,3.15,pass,no,14.2697664,no,
+S0050,Arjun Gupta,15,male,9,private aided,OBC,rural,79.3,Medium,5.63,pass,no,16.22936564,no,
+S1988,Divya Gupta,15,female,9,private aided,OBC,urban,62.4,High,1.29,pass,no,16.96384556,no,
+S1086,Siddharth Naik,15,female,9,government,SC,urban,80.4,High,0.62,pass,no,7.15734815,no,
+S0335,Aarav Naik,16,female,10,private unaided,general,urban,75.2,High,0.4,pass,no,11.77609754,no,
+S0405,Karan Iyer,15,male,9,private aided,ST,rural,82.1,Medium,0.05,pass,yes,14.31366755,no,
+S0201,Priya Patel,16,female,10,private unaided,SC,urban,77.9,Low,0.11,pass,no,14.13149934,no,
+S1046,Arjun Das,14,male,8,government,ST,urban,75.2,Low,3.67,pass,yes,17.77238382,no,
+S0682,Anjali Sharma,14,female,8,private unaided,ST,rural,61.8,Low,3.1,fail,yes,23.05108067,yes,Lack of Interest
+S1906,Sonal Naik,16,male,10,private aided,SC,urban,89.3,Low,1.29,pass,yes,13.21707772,no,
+S0939,Pooja Gupta,15,female,9,private aided,SC,rural,63.5,Low,2.32,fail,no,23.86333554,yes,Early Marriage
+S1346,Aarav Singh,14,male,8,private aided,OBC,rural,54.5,Low,1.62,fail,no,30.52958104,yes,Financial Issues
+S0067,Siddharth Joseph,16,female,10,private aided,general,urban,52,Low,0.5,pass,yes,19.6042811,yes,Early Marriage
+S1119,Kavya Gupta,14,female,8,private aided,OBC,rural,82.1,Medium,3.94,pass,no,14.674521,no,
+S0698,Divya Das,15,female,9,private unaided,ST,urban,66.7,Medium,0.48,pass,no,15.95933693,no,
+S1185,Kavya Kumar,16,female,10,private unaided,OBC,rural,69.6,Low,6.91,pass,yes,17.06595641,no,
+S1696,Maya Joseph,14,male,8,private unaided,general,urban,64.7,Medium,0.08,pass,no,12.44577896,no,
+S1569,Siddharth Reddy,16,male,10,private aided,OBC,rural,72.9,High,1.25,pass,no,10.08475903,no,
+S0972,Aditya Joseph,16,male,10,private unaided,OBC,rural,77.2,Medium,5.81,pass,no,18.82458614,yes,Lack of Interest
+S0494,Divya Iyer,15,female,9,government,OBC,urban,89.3,Low,5.22,pass,no,25.21130889,yes,Child Labour
+S0563,Ananya Das,15,female,9,private unaided,ST,rural,76.5,Low,1.25,pass,yes,16.9146025,no,
+S0635,Manish Reddy,16,female,10,private aided,SC,urban,74.1,Medium,1.14,fail,no,20.30074939,yes,Lack of Interest
+S0735,Kavya Sharma,14,male,8,government,OBC,urban,83.5,Medium,0.06,fail,no,23.80426203,yes,Child Labour
+S1100,Neha Kumar,16,female,10,government,general,urban,73.7,Medium,1.17,pass,yes,12.79881428,no,
+S1327,Vikram Das,15,male,9,private aided,SC,urban,81,High,0.08,pass,no,13.48556443,no,
+S1251,Riya Gupta,15,male,9,private unaided,SC,urban,63.5,Medium,1.25,pass,no,14.8745065,no,
+S1894,Ananya Iyer,14,female,8,private unaided,general,rural,54.8,Medium,8.59,fail,no,35.48033859,yes,Early Marriage
+S1017,Priya Sharma,16,male,10,government,general,urban,69.8,High,5.34,pass,no,11.06117718,no,
+S1763,Manish Reddy,15,female,9,private unaided,general,rural,52.1,Medium,0.12,fail,no,29.18191758,yes,Household Work
+S0243,Ishaan Kumar,15,male,9,government,OBC,urban,76.4,Medium,0.39,fail,no,22.75532959,yes,Other
+S1073,Ananya Patel,15,female,9,private aided,OBC,rural,60.2,Low,17.7,pass,no,24.73562183,yes,Household Work
+S0507,Riya Reddy,15,male,9,private unaided,OBC,urban,74.6,Medium,0.13,pass,no,17.02780048,no,
+S0927,Sneha Sharma,14,male,8,private aided,general,rural,78.6,Medium,6.91,pass,no,10.70695412,no,
+S1453,Pooja Sharma,15,male,9,private aided,OBC,urban,85.3,High,0.34,pass,no,14.5509653,no,
+S0415,Sneha Joseph,15,male,9,private unaided,OBC,urban,68.5,Medium,3.04,pass,no,21.30455022,yes,Lack of Interest
+S0606,Vikram Naik,14,male,8,government,general,urban,87.6,Medium,1.94,fail,no,20.28233646,yes,Child Labour
+S0491,Aarav Gupta,14,female,8,private aided,OBC,urban,67.3,Medium,0.37,pass,yes,14.03686974,no,
+S1471,Aarav Reddy,14,female,8,government,general,urban,67.7,Medium,0.71,pass,no,15.530173,no,
+S1561,Manish Singh,15,female,9,government,ST,rural,82.6,Low,1.35,fail,no,24.59163958,yes,Other
+S1392,Vikram Singh,14,female,8,private aided,general,rural,77.9,Low,7.29,pass,no,18.00412364,no,
+S1006,Arjun Reddy,15,male,9,private unaided,general,rural,91.5,High,2.34,pass,no,14.56480766,no,
+S0463,Ananya Reddy,15,male,9,private aided,general,urban,86.3,Medium,0.06,pass,yes,10.72433242,no,
+S1962,Karan Das,15,female,9,private aided,general,rural,74.2,Medium,0.78,pass,no,9.080060438,no,
+S0529,Priya Singh,14,male,8,private aided,SC,rural,78,High,13.19,pass,yes,20.02134935,yes,Household Work
+S1489,Manish Singh,15,male,9,private unaided,ST,urban,78.6,Low,3.58,fail,yes,27.45722847,yes,Lack of Interest
+S1262,Priya Iyer,15,female,9,private aided,general,urban,72.8,Medium,0.07,pass,no,11.79649516,no,
+S0754,Sneha Sharma,14,male,8,private aided,general,rural,59.3,Medium,0.63,fail,no,20.63191101,yes,Other
+S0340,Riya Joseph,16,female,10,private aided,SC,urban,88.7,Medium,2.37,pass,no,9.055995726,no,
+S1000,Anjali Singh,16,male,10,private unaided,SC,urban,77.9,Low,3.61,fail,no,24.08368655,yes,Child Labour
+S1420,Manish Joseph,15,male,9,private aided,OBC,urban,89.9,Low,0.65,pass,yes,11.66820424,no,
+S1427,Divya Kumar,15,female,9,private aided,OBC,urban,79.4,Medium,1.69,pass,no,12.66806714,no,
+S0742,Vikram Kumar,14,male,8,private unaided,OBC,urban,100,Medium,1.03,pass,yes,10.91366429,no,
+S1280,Divya Naik,14,male,8,private unaided,ST,rural,74.9,High,0.82,fail,no,21.48147757,yes,Lack of Interest
+S0066,Pooja Singh,14,female,8,private unaided,SC,rural,74.1,Medium,1.16,pass,no,15.03529438,no,
+S0253,Sneha Naik,15,female,9,private unaided,ST,urban,87.7,Medium,0.75,pass,no,15.7694275,no,
+S1246,Kavya Singh,14,male,8,government,OBC,urban,67.1,Medium,0.32,pass,no,13.42036099,no,
+S0707,Pooja Sharma,15,female,9,private unaided,OBC,rural,68.3,High,3.61,pass,no,18.41126415,yes,Lack of Interest
+S0113,Sonal Reddy,15,female,9,private unaided,SC,urban,72.3,Medium,0.02,pass,no,16.72476051,no,
+S0045,Aditya Reddy,16,male,10,private unaided,general,rural,74.6,High,2.96,pass,no,12.49828993,no,
+S0625,Ishaan Kumar,14,male,8,private unaided,ST,urban,75.9,Low,0.62,pass,yes,18.5488154,yes,Lack of Interest
+S1531,Sneha Das,16,female,10,government,OBC,urban,70.8,Medium,1.84,pass,yes,15.66659,no,
+S0656,Manish Singh,15,female,9,private aided,OBC,urban,78.9,Medium,2.29,pass,yes,13.17189208,no,
+S0772,Pooja Iyer,15,male,9,government,ST,urban,57.2,High,0.83,fail,no,26.78060578,yes,Other
+S0886,Priya Naik,14,male,8,private unaided,OBC,rural,80.6,Low,0.58,pass,yes,16.09828607,no,
+S1031,Neha Patel,14,female,8,private aided,general,urban,66.5,High,0.82,pass,no,9.06547733,no,
+S1096,Vikram Joseph,15,female,9,private aided,OBC,rural,64,Low,2.06,pass,no,16.22723534,no,
+S0077,Aditya Joseph,16,female,10,private unaided,general,urban,63.1,Medium,0.06,pass,no,13.67888228,no,
+S1268,Siddharth Sharma,16,female,10,private unaided,ST,rural,85.7,Low,1.1,pass,no,15.14229221,no,
+S0420,Aarav Sharma,15,male,9,private aided,OBC,rural,54.5,Low,1.19,pass,yes,22.3373954,yes,Financial Issues
+S0343,Ishaan Singh,15,male,9,private aided,general,urban,69.5,Medium,0.43,pass,no,14.69490906,no,
+S1745,Pooja Patel,15,male,9,private aided,OBC,rural,73.9,Low,5.21,pass,no,19.36864572,yes,Lack of Interest
+S1556,Sonal Das,14,male,8,private aided,OBC,rural,93.9,Low,0.21,pass,no,13.03816509,no,
+S1990,Pooja Reddy,15,female,9,government,OBC,urban,60.1,Medium,1.27,pass,no,14.81675906,no,
+S0337,Aarav Das,16,female,10,government,OBC,urban,85,Low,3.55,pass,no,18.16571517,yes,Household Work
+S1305,Anjali Gupta,16,female,10,government,OBC,urban,80,Low,4.56,pass,yes,17.64738005,no,
+S1419,Priya Iyer,14,male,8,private aided,OBC,rural,100,Medium,1.77,pass,no,9.795102535,no,
+S0950,Siddharth Iyer,14,female,8,private unaided,OBC,urban,90.8,High,0.57,pass,yes,13.91799782,no,
+S0322,Pooja Patel,15,female,9,private aided,OBC,urban,72.6,Medium,5.03,fail,yes,28.45179867,yes,Migration
+S1537,Aarav Reddy,16,male,10,private unaided,OBC,urban,82.5,High,1.35,pass,no,9.618479444,no,
+S1039,Siddharth Iyer,16,male,10,government,ST,urban,49.2,Medium,0.19,fail,no,34.41557343,yes,Other
+S1978,Maya Iyer,14,female,8,private aided,OBC,urban,80.7,Low,0.09,pass,no,12.50565655,no,
+S0173,Anjali Iyer,14,female,8,private aided,OBC,urban,78.4,Low,0.11,pass,no,15.00974718,no,
+S0248,Maya Das,15,male,9,government,OBC,urban,76.4,Medium,2.87,pass,no,12.37145779,no,
+S0800,Arjun Naik,15,female,9,private unaided,general,rural,77.2,Low,0.05,fail,yes,21.3342122,yes,Lack of Interest
+S0750,Siddharth Iyer,14,female,8,government,SC,rural,74.9,Medium,6.91,fail,no,25.50285583,yes,Other
+S0764,Riya Iyer,14,female,8,private aided,general,rural,92.9,Medium,21.09,pass,no,24.45981799,yes,Lack of Interest
+S0749,Manish Singh,14,female,8,private unaided,OBC,urban,75.3,Low,1.54,pass,no,14.92575631,no,
+S1106,Aditya Reddy,14,female,8,private unaided,SC,rural,70.6,Low,0.64,pass,no,13.32943995,no,
+S0925,Pooja Naik,14,female,8,government,ST,urban,85.6,High,1.16,pass,yes,8.257009862,no,
+S1367,Sneha Sharma,15,male,9,private aided,SC,urban,84.7,Low,1.84,pass,no,19.08146566,yes,Lack of Interest
+S0241,Siddharth Kumar,16,female,10,private aided,ST,urban,69.6,Medium,0.9,pass,no,12.00576037,no,
+S1085,Vikram Singh,16,male,10,private unaided,general,rural,73.7,Medium,1.95,pass,no,8.385322404,no,
+S0390,Sonal Das,14,male,8,private unaided,SC,rural,93,Medium,2.32,pass,no,8.561391265,no,
+S0999,Neha Iyer,15,male,9,government,OBC,urban,63.9,Low,0.15,pass,no,17.6856487,no,
+S0679,Pooja Reddy,15,male,9,private aided,general,urban,66,Medium,1,fail,no,20.02828472,yes,Financial Issues
+S0383,Pooja Naik,14,female,8,private aided,general,urban,100,Medium,0.1,pass,no,12.7090098,no,
+S1013,Karan Singh,14,male,8,private unaided,SC,urban,75.5,Medium,1.51,fail,yes,24.16093729,yes,Early Marriage
+S1281,Aditya Patel,16,male,10,private unaided,ST,urban,85.6,Medium,0.35,pass,no,9.237366217,no,
+S1864,Pooja Reddy,15,male,9,private unaided,general,rural,87.7,High,8.25,pass,yes,12.8480734,no,
+S0057,Ishaan Kumar,15,female,9,private unaided,SC,urban,66.6,Low,0.39,pass,no,17.55205482,no,
+S0910,Kavya Patel,15,male,9,government,general,urban,70.6,High,0.13,pass,no,13.25367716,no,
+S1764,Neha Kumar,15,male,9,private aided,SC,rural,90.8,Medium,3.5,pass,no,13.70892354,no,
+S0041,Arjun Gupta,15,male,9,private aided,OBC,rural,84.8,Medium,8.73,fail,no,29.60646648,yes,Early Marriage
+S0839,Rahul Sharma,16,female,10,government,general,urban,73.3,Low,0.01,fail,no,22.50468042,yes,Household Work
+S0826,Ishaan Das,16,female,10,private unaided,general,urban,78.4,Medium,0.93,pass,no,11.45500172,no,
+S1654,Vikram Singh,15,female,9,private aided,OBC,rural,69.5,Low,8.65,fail,no,28.6280676,yes,Lack of Interest
+S0543,Priya Gupta,15,female,9,private aided,ST,urban,62.7,Low,0.13,fail,no,25.5189818,yes,Financial Issues
+S1678,Siddharth Singh,15,male,9,private aided,ST,rural,68.2,Medium,1.36,pass,no,13.87831531,no,
+S0662,Kavya Sharma,14,female,8,private unaided,general,urban,91.5,High,0.19,pass,no,12.18067285,no,
+S0676,Divya Patel,16,male,10,private unaided,general,urban,81.8,Medium,1.9,pass,yes,13.00711216,no,
+S1634,Priya Patel,14,male,8,private unaided,OBC,rural,100,High,0.14,pass,yes,12.06161759,no,
+S0675,Ishaan Kumar,15,male,9,government,OBC,urban,91.6,Low,2.51,pass,no,17.90916301,no,
+S1233,Siddharth Das,15,female,9,private unaided,OBC,urban,55.7,High,1.04,pass,no,22.09591795,yes,Migration
+S1651,Rahul Iyer,16,female,10,private unaided,OBC,rural,73.6,Low,3.78,fail,no,31.68142706,yes,Other
+S0242,Arjun Das,14,female,8,private unaided,SC,urban,82.5,High,0.21,pass,no,11.4247779,no,
+S0573,Arjun Iyer,16,female,10,government,OBC,urban,75,High,1.44,pass,no,10.55249182,no,
+S0460,Sneha Reddy,16,male,10,private unaided,general,rural,87.6,Medium,14.17,pass,no,20.14936002,yes,Lack of Interest
+S1797,Aarav Kumar,14,male,8,private aided,ST,rural,85.7,Low,8.04,pass,no,18.00154171,no,
+S0428,Neha Iyer,15,female,9,private unaided,general,urban,80.7,Low,0.02,fail,no,28.54322913,yes,Early Marriage
+S0437,Sneha Das,14,male,8,private unaided,general,rural,63.3,Medium,3.34,pass,no,9.575633924,no,
+S1091,Neha Joseph,15,female,9,private aided,general,rural,65.5,Medium,0.24,pass,no,13.06864937,no,
+S0693,Neha Singh,14,female,8,government,general,rural,76.5,Low,6.84,pass,no,16.38258953,no,
+S0430,Ananya Das,14,male,8,government,SC,rural,86.8,High,4.37,pass,no,9.525011934,no,
+S0701,Sneha Reddy,14,female,8,private unaided,SC,urban,65,Medium,1.33,pass,yes,14.41569605,no,
+S1350,Aditya Sharma,16,male,10,private unaided,general,urban,92.4,Low,0.81,pass,no,13.58946351,no,
+S0745,Aarav Iyer,15,female,9,private aided,OBC,urban,78.2,Low,2.34,pass,no,15.48469043,no,
+S1743,Manish Joseph,15,female,9,private unaided,OBC,urban,51.6,High,1.28,fail,no,34.85714707,yes,Lack of Interest
+S0980,Aarav Gupta,16,female,10,private aided,OBC,urban,73.9,Low,3.75,pass,no,14.7430524,no,
+S0178,Rahul Joseph,15,female,9,private aided,general,urban,78.7,Medium,2.44,pass,no,12.05760745,no,
+S0536,Arjun Iyer,14,female,8,private unaided,SC,rural,66.6,Medium,3.88,pass,no,14.10327607,no,
+S1499,Ananya Singh,16,female,10,private unaided,OBC,urban,64.1,High,2.59,pass,no,15.28732046,no,
+S0928,Vikram Das,16,male,10,private unaided,OBC,rural,66,Medium,1.91,pass,yes,14.76760657,no,
+S0027,Priya Gupta,16,female,10,private aided,OBC,urban,73.6,Low,0.74,pass,no,18.94354281,yes,Household Work
+S1935,Sonal Das,15,male,9,private unaided,general,urban,100,Medium,0.37,pass,no,12.44907561,no,
+S0158,Priya Sharma,14,male,8,private unaided,OBC,rural,84.3,Low,0.41,pass,no,12.36436837,no,
+S1517,Divya Das,16,male,10,private unaided,ST,urban,79,Medium,0.43,pass,no,10.75015302,no,
+S1662,Siddharth Naik,14,female,8,private aided,SC,urban,69.4,Medium,0.31,pass,no,12.34457571,no,
+S0598,Karan Sharma,15,male,9,private unaided,SC,rural,80.2,Low,22.43,pass,no,31.7635605,yes,Financial Issues
+S0976,Siddharth Iyer,14,female,8,private unaided,general,urban,97.8,Medium,0.89,pass,no,11.58203639,no,
+S0572,Aarav Sharma,15,male,9,private unaided,ST,rural,74.4,Medium,6.48,fail,no,25.34696122,yes,Lack of Interest
+S1679,Priya Das,15,female,9,private unaided,general,rural,52.1,Medium,1.36,pass,no,22.4339384,yes,Child Labour
+S1999,Sonal Joseph,14,male,8,private unaided,OBC,rural,79.2,Low,1.36,pass,yes,15.22074173,no,
+S1631,Divya Joseph,16,female,10,private unaided,ST,rural,76.7,Low,1.43,pass,no,18.38886179,yes,Lack of Interest
+S0375,Pooja Naik,16,male,10,private unaided,SC,urban,71.9,High,0.23,pass,no,9.429261757,no,
+S1302,Siddharth Kumar,15,male,9,government,general,urban,92.1,Medium,1.62,pass,no,17.70930811,no,
+S1878,Riya Kumar,14,female,8,government,OBC,urban,81.9,Medium,1.54,pass,no,12.03957551,no,
+S1024,Priya Joseph,14,male,8,private aided,general,rural,66,Low,3.39,pass,no,16.62508782,no,
+S0014,Anjali Gupta,15,male,9,private unaided,ST,rural,72.3,Low,2.89,pass,no,19.93263603,yes,Migration
+S0189,Manish Reddy,15,male,9,private unaided,SC,urban,78.9,Medium,4.51,pass,no,17.99935708,no,
+S0743,Riya Singh,15,male,9,private unaided,OBC,urban,76,High,0.72,pass,yes,12.57182126,no,
+S1947,Anjali Sharma,14,male,8,private aided,general,rural,75.2,High,0.1,fail,no,18.81628508,yes,Lack of Interest
+S0835,Aditya Sharma,14,female,8,private aided,OBC,rural,77.9,Medium,1.41,fail,no,21.48767294,yes,Lack of Interest
+S0823,Priya Singh,15,female,9,private aided,general,urban,85.3,Low,2.96,pass,yes,11.28268128,no,
+S1538,Priya Joseph,16,male,10,private unaided,general,rural,85.6,Low,0.22,fail,no,20.97045303,yes,Lack of Interest
+S0467,Sonal Naik,14,male,8,private unaided,SC,rural,90.1,High,0.1,fail,no,24.74987318,yes,Child Labour
+S0207,Riya Iyer,15,female,9,government,general,urban,66.4,Medium,2.25,pass,no,14.64416462,no,
+S0776,Siddharth Patel,14,female,8,private unaided,SC,urban,84.1,High,0.02,pass,no,11.15840995,no,
+S0948,Sonal Kumar,16,male,10,private aided,OBC,rural,70.8,Medium,7.81,pass,no,13.03098262,no,
+S0888,Sonal Naik,16,female,10,private unaided,SC,rural,89.7,Medium,0.29,fail,no,22.47030611,yes,Financial Issues
+S0578,Riya Gupta,14,female,8,private aided,general,rural,66.8,Medium,0.33,pass,no,9.752575872,no,
+S0792,Riya Kumar,14,female,8,private unaided,OBC,urban,69.1,Medium,3.48,pass,no,16.09262676,no,
+S1524,Sneha Patel,15,male,9,private unaided,OBC,rural,92.2,Medium,1.59,pass,yes,18.4783178,yes,Lack of Interest
+S1629,Aarav Gupta,14,male,8,government,ST,urban,68.7,Medium,2.64,pass,yes,12.1327214,no,
+S0691,Siddharth Joseph,15,male,9,private aided,OBC,rural,77.7,High,0.07,fail,no,21.34242174,yes,Household Work
+S0915,Siddharth Das,14,female,8,private aided,general,urban,82.4,High,0.1,pass,no,9.224888749,no,
+S1157,Manish Joseph,15,male,9,private unaided,general,rural,79.7,Medium,1.27,pass,no,12.59529847,no,
+S0028,Vikram Gupta,16,female,10,private unaided,general,rural,71.4,Medium,1.27,pass,no,15.27467812,no,
+S0661,Riya Reddy,14,male,8,private aided,SC,rural,71.4,Low,6.81,fail,no,25.12698295,yes,Lack of Interest
+S1224,Sneha Sharma,15,male,9,private unaided,ST,rural,81.7,Low,0.24,pass,no,19.1989025,yes,Health Issues
+S0434,Aditya Singh,14,female,8,government,general,rural,66.3,Low,3.7,pass,no,13.0735994,no,
+S0583,Ananya Singh,14,male,8,private unaided,OBC,urban,91.8,High,0.05,pass,yes,12.0681591,no,
+S1551,Ananya Kumar,15,female,9,government,ST,rural,75.5,Low,2.68,fail,no,26.45847171,yes,Child Labour
+S1376,Neha Reddy,15,female,9,private unaided,ST,urban,81.2,Medium,4.74,pass,no,17.80748217,no,
+S1599,Divya Gupta,14,male,8,private aided,SC,urban,86.4,High,0.78,pass,no,10.8542034,no,
+S0785,Ishaan Patel,14,female,8,private unaided,general,urban,69.7,Low,2.01,pass,no,11.2291937,no,
+S0841,Ananya Iyer,14,male,8,private aided,OBC,urban,72.5,High,2.41,pass,yes,13.27532773,no,
+S0287,Rahul Singh,15,male,9,private unaided,OBC,urban,67.2,Medium,0.19,pass,yes,14.33535371,no,
+S1090,Divya Gupta,15,female,9,private aided,OBC,rural,81,Low,0.54,pass,no,19.15204873,yes,Lack of Interest
+S1263,Neha Singh,16,female,10,government,general,rural,67.2,High,0.75,fail,no,21.74082802,yes,Financial Issues
+S1358,Manish Iyer,14,male,8,private unaided,general,rural,63.8,Low,1.23,pass,no,16.33855218,no,
+S1019,Manish Naik,16,male,10,private aided,ST,rural,58.1,Medium,1.42,fail,no,24.59983854,yes,Early Marriage
+S1129,Siddharth Patel,14,male,8,private unaided,OBC,urban,83.7,Medium,2.02,pass,no,17.50406938,no,
+S0812,Aditya Kumar,14,male,8,private unaided,OBC,rural,100,High,5.19,pass,yes,19.45987868,yes,Early Marriage
+S1145,Kavya Iyer,16,female,10,government,general,urban,85,Medium,0.58,pass,no,11.4506284,no,
+S1406,Aditya Naik,15,male,9,private unaided,general,rural,65.8,High,0.26,fail,yes,22.01218074,yes,Early Marriage
+S0298,Riya Naik,14,female,8,private unaided,SC,urban,81.8,Medium,0.25,pass,no,14.2873097,no,
+S0231,Neha Patel,16,male,10,private aided,general,rural,59.2,Medium,4.05,fail,yes,23.16873973,yes,Financial Issues
+S1311,Aditya Naik,15,female,9,private aided,general,urban,82.3,High,2.64,pass,no,12.4822571,no,
+S0078,Siddharth Kumar,16,male,10,government,ST,urban,68.2,Medium,1.34,pass,yes,10.7854283,no,
+S0355,Siddharth Das,16,male,10,private unaided,general,rural,53.7,High,0.93,fail,no,28.9398084,yes,Migration
+S0515,Arjun Naik,14,female,8,private aided,OBC,urban,82.1,Medium,2.85,pass,yes,11.28153507,no,
+S0030,Vikram Singh,14,male,8,private unaided,OBC,rural,87.7,Medium,3.13,pass,no,12.18220996,no,
+S0786,Sonal Reddy,15,female,9,private aided,SC,rural,64.4,High,2.59,pass,no,12.36929902,no,
+S0554,Divya Naik,15,female,9,private unaided,OBC,rural,92.3,Medium,0.96,pass,no,19.33916677,yes,Other
+S1229,Ananya Iyer,14,female,8,private aided,general,rural,86.8,Low,4.92,pass,no,11.12065674,no,
+S1422,Divya Iyer,14,female,8,private aided,general,urban,81.6,Medium,3.68,pass,no,9.61033035,no,
+S0528,Anjali Patel,16,female,10,private unaided,OBC,urban,100,Medium,0.17,pass,no,12.95560065,no,
+S0486,Sonal Iyer,14,male,8,private unaided,OBC,rural,72.4,Medium,2.52,pass,no,12.88422891,no,
+S1565,Sonal Sharma,16,female,10,government,SC,rural,68.8,High,14.81,pass,yes,15.77114405,no,
+S0830,Karan Patel,15,female,9,private unaided,general,rural,59.4,High,11.08,pass,no,20.21383333,yes,Household Work
+S1648,Vikram Gupta,16,female,10,private unaided,general,urban,90.6,Medium,0.4,pass,no,11.66967837,no,
+S1319,Riya Kumar,16,female,10,private aided,OBC,urban,80.3,Low,1.95,pass,no,12.930915,no,
+S0636,Kavya Gupta,16,male,10,private unaided,general,rural,74.6,High,11.03,pass,no,16.54175397,no,
+S1370,Ishaan Gupta,16,female,10,private unaided,OBC,urban,64,Medium,3.02,pass,no,18.89037458,yes,Lack of Interest
+S0974,Maya Kumar,14,female,8,government,general,urban,88.3,High,3.57,pass,no,13.0197207,no,
+S0163,Ishaan Das,14,female,8,government,general,urban,92.3,Medium,1.05,pass,no,17.66618594,no,
+S0773,Priya Joseph,14,female,8,government,SC,rural,58.6,Medium,1.83,pass,no,12.53693013,no,
+S0889,Neha Kumar,14,male,8,private aided,general,urban,73.8,Medium,0.46,pass,no,10.92977194,no,
+S1387,Neha Kumar,16,male,10,private aided,OBC,rural,65.6,High,1.26,pass,no,11.78052483,no,
+S0450,Neha Singh,14,female,8,private unaided,general,urban,56.2,Low,0.14,pass,no,19.73926069,yes,Early Marriage
+S1912,Arjun Joseph,15,female,9,private aided,OBC,urban,74.1,Low,1.36,pass,yes,16.82351044,no,
+S0128,Rahul Kumar,15,female,9,private unaided,general,rural,81.2,Medium,9.78,pass,no,18.73094029,yes,Other
+S1087,Manish Gupta,14,female,8,government,OBC,rural,60.7,Medium,3.23,pass,no,15.31596172,no,
+S1197,Anjali Reddy,15,male,9,private aided,SC,rural,75.5,High,1.25,pass,yes,13.80786709,no,
+S0203,Arjun Gupta,16,female,10,private aided,SC,rural,69.3,Medium,0.35,pass,yes,11.26687626,no,
+S1801,Sneha Joseph,14,female,8,government,ST,urban,83.6,Low,2.85,fail,yes,23.18081756,yes,Child Labour
+S0367,Aarav Patel,15,male,9,private unaided,SC,rural,75.7,High,3.58,pass,no,18.70900663,yes,Lack of Interest
+S0710,Maya Joseph,16,female,10,private unaided,SC,rural,94.7,Medium,5.06,pass,no,15.30248274,no,
+S1071,Priya Iyer,15,male,9,private unaided,ST,rural,54.8,Medium,4.52,pass,no,23.71450558,yes,Child Labour
+S1511,Priya Reddy,15,male,9,private unaided,SC,urban,62.9,Medium,0.05,pass,no,16.16730355,no,
+S0477,Sonal Gupta,16,male,10,private unaided,SC,urban,69.7,Low,0.82,pass,no,17.06644702,no,
+S1442,Maya Gupta,15,female,9,government,OBC,rural,68.2,High,12.86,pass,no,20.26806994,yes,Migration
+S1134,Siddharth Patel,15,female,9,private unaided,OBC,urban,87.8,Medium,1,pass,yes,14.74987301,no,
+S1954,Rahul Patel,15,male,9,government,general,urban,72.4,High,0.2,pass,no,5.906461367,no,
+S0581,Ananya Patel,15,female,9,private aided,SC,urban,68.1,High,0.27,fail,no,20.99037488,yes,Household Work
+S1960,Neha Iyer,14,female,8,private aided,OBC,urban,91.6,Low,1.01,pass,yes,15.07353961,no,
+S1478,Ananya Joseph,14,female,8,government,SC,urban,90.3,Medium,0.01,pass,no,14.06467672,no,
+S0683,Sneha Singh,14,female,8,private unaided,OBC,urban,86,Medium,1.89,pass,no,17.9541748,no,
+S0058,Aditya Iyer,15,female,9,private aided,OBC,urban,71.1,Low,0.84,pass,no,16.7767452,no,
+S0811,Siddharth Joseph,15,male,9,private aided,OBC,urban,80.5,High,0.06,pass,no,11.09274188,no,
+S0832,Vikram Reddy,15,female,9,private aided,OBC,urban,67.2,Low,0.36,pass,no,15.45727601,no,
+S0393,Anjali Patel,16,female,10,private unaided,general,rural,58.1,Low,4.13,fail,no,28.68325981,yes,Financial Issues
+S1907,Pooja Singh,16,female,10,private unaided,general,urban,88.3,Medium,1.17,pass,no,13.07882005,no,
+S0878,Aarav Iyer,15,female,9,private aided,OBC,rural,53.8,Medium,11.3,pass,yes,23.20906396,yes,Financial Issues
+S0821,Ishaan Iyer,15,male,9,private unaided,OBC,urban,72.3,Low,3.27,fail,no,30.40089475,yes,Household Work
+S1665,Karan Gupta,15,female,9,government,OBC,urban,78.9,Low,0.24,fail,no,24.56619875,yes,Household Work
+S0213,Priya Gupta,14,female,8,private aided,general,rural,78.9,Medium,5.48,pass,yes,10.88726795,no,
+S1168,Neha Das,15,female,9,private unaided,OBC,urban,65.2,Medium,0.56,pass,no,17.42198955,no,
+S1854,Sneha Reddy,14,male,8,private aided,general,rural,71.5,Medium,17.48,pass,no,21.73853479,yes,Lack of Interest
+S1861,Manish Joseph,16,female,10,government,OBC,urban,79.1,Low,0.21,pass,no,13.35713769,no,
+S1109,Ananya Kumar,14,female,8,private aided,SC,urban,53.7,Medium,0.5,pass,yes,17.87884726,no,
+S1751,Sneha Das,15,female,9,government,general,urban,94.8,Medium,1.75,pass,no,13.1854,no,
+S1097,Karan Sharma,15,male,9,private aided,general,urban,88.2,High,1.45,pass,no,10.82276829,no,
+S1373,Vikram Joseph,15,female,9,private unaided,SC,urban,87.6,High,0.79,pass,no,13.62691433,no,
+S1466,Aarav Iyer,14,male,8,government,OBC,rural,74.2,High,6.51,pass,no,14.65229453,no,
+S1056,Rahul Sharma,15,female,9,private unaided,OBC,rural,80.1,Medium,2.25,pass,yes,15.12221465,no,
+S1247,Arjun Iyer,14,male,8,government,SC,rural,80.1,High,5.66,pass,no,13.56004054,no,
+S1143,Sneha Naik,14,male,8,government,OBC,urban,55.7,Low,0.4,pass,yes,20.17031494,yes,Early Marriage
+S0997,Neha Iyer,14,male,8,private aided,general,urban,75.8,Medium,0.1,pass,yes,12.39636252,no,
+S1112,Priya Reddy,16,female,10,private unaided,SC,urban,91.5,Medium,1.02,pass,yes,13.74650603,no,
+S1780,Kavya Naik,15,female,9,private aided,OBC,urban,76.3,Medium,2.46,pass,yes,17.91262201,no,
+S1585,Anjali Naik,14,male,8,government,SC,urban,79.2,High,0.48,pass,yes,8.653298452,no,
+S0055,Kavya Sharma,16,male,10,government,general,urban,76.2,High,2.47,pass,yes,7.832847577,no,
+S0260,Sonal Singh,15,male,9,government,general,urban,74.3,High,5.87,pass,no,14.56734075,no,
+S0094,Ishaan Joseph,14,female,8,private unaided,OBC,urban,77.8,High,3.43,pass,yes,15.23347955,no,
+S0741,Aarav Gupta,15,male,9,government,OBC,urban,79.7,Low,3.78,pass,yes,20.53121631,yes,Child Labour
+S0629,Sonal Patel,15,female,9,private aided,general,urban,70.8,Low,0.06,pass,yes,12.59328056,no,
+S0364,Kavya Gupta,15,female,9,private aided,SC,rural,68.9,Medium,10.39,pass,no,19.98063926,yes,Lack of Interest
+S1266,Divya Naik,14,female,8,private unaided,OBC,urban,87.1,Low,0.43,fail,yes,24.64898507,yes,Household Work
+S0642,Aditya Joseph,14,female,8,private unaided,OBC,urban,73.3,Medium,0.05,pass,no,12.98824366,no,
+S1330,Priya Sharma,16,female,10,private unaided,SC,rural,80.1,Medium,6.44,pass,no,17.66473122,no,
+S1028,Manish Reddy,15,female,9,private unaided,general,rural,66,Medium,1.69,pass,no,12.6949319,no,
+S1543,Manish Iyer,16,female,10,private unaided,general,rural,66.1,Low,4.04,pass,no,18.05230765,no,
+S0384,Vikram Kumar,15,male,9,private unaided,SC,urban,75.7,Low,2.08,pass,yes,15.23244521,no,
+S1552,Neha Joseph,14,female,8,private aided,general,urban,81.7,Low,0.77,pass,yes,13.01530581,no,
+S0584,Anjali Iyer,16,male,10,private unaided,general,urban,86.1,Low,4.13,pass,no,17.00391506,no,
+S1719,Aarav Das,14,female,8,private unaided,OBC,urban,68,Low,0.66,pass,no,13.94654947,no,
+S1465,Riya Reddy,15,female,9,private unaided,general,urban,65.4,Low,0.74,fail,no,26.00465,yes,Financial Issues
+S1901,Rahul Sharma,14,male,8,government,SC,urban,92.4,Medium,0.77,pass,no,13.36408144,no,
+S1151,Riya Singh,15,female,9,private aided,SC,rural,38.8,Medium,3.53,fail,no,50.36272705,yes,Child Labour
+S1505,Karan Patel,16,female,10,private unaided,general,rural,82.2,Low,0.99,pass,no,14.16697551,no,
+S1889,Rahul Naik,15,female,9,government,general,urban,67.9,High,0.62,pass,no,10.12077349,no,
+S1084,Manish Kumar,16,male,10,private aided,SC,rural,71,Medium,7.01,pass,no,12.01535862,no,
+S1315,Ishaan Patel,14,female,8,private unaided,ST,urban,83,High,0.48,fail,yes,21.5318706,yes,Child Labour
+S1069,Arjun Das,16,female,10,private unaided,general,urban,90.7,Medium,0.62,pass,no,11.04734108,no,
+S0254,Priya Joseph,14,male,8,private aided,general,rural,53.9,High,2.3,pass,no,12.51299157,no,
+S1473,Sonal Singh,16,female,10,private unaided,ST,rural,52.5,High,0.99,pass,no,19.18006743,yes,Child Labour
+S0258,Pooja Sharma,15,male,9,government,OBC,rural,58.4,Medium,11.94,pass,no,23.17438309,yes,Lack of Interest
+S1029,Vikram Singh,16,female,10,government,general,rural,87.9,Medium,2.72,fail,no,20.87009058,yes,Child Labour
+S0299,Sneha Singh,14,female,8,private aided,OBC,urban,67.2,Low,0.31,pass,no,16.72812612,no,
+S0848,Neha Iyer,14,male,8,private unaided,SC,urban,82.8,Medium,0.69,pass,no,15.10785973,no,
+S0576,Neha Patel,15,male,9,private aided,OBC,rural,75.3,Low,2.92,pass,no,19.9144165,yes,Child Labour
+S0843,Divya Reddy,14,female,8,private unaided,general,rural,95,Low,3.83,fail,no,23.04665723,yes,Child Labour
+S0599,Neha Kumar,16,male,10,private unaided,OBC,rural,75.5,Low,0.89,fail,no,24.75622174,yes,Lack of Interest
+S0388,Anjali Reddy,16,female,10,private unaided,ST,rural,68.5,Medium,0.27,pass,no,15.47244435,no,
+S0376,Sonal Reddy,14,female,8,private aided,OBC,rural,57,High,0.78,fail,no,23.56250877,yes,Lack of Interest
+S1519,Manish Das,14,male,8,private unaided,SC,urban,84.1,Medium,2.93,pass,yes,15.52705209,no,
+S0561,Riya Kumar,15,male,9,private unaided,ST,rural,66.9,Low,0.9,pass,no,19.84928426,yes,Financial Issues
+S1423,Sneha Singh,15,female,9,government,general,rural,73.5,Low,1.75,pass,yes,17.85693925,no,
+S0121,Karan Singh,15,male,9,private unaided,OBC,urban,64.4,Medium,1.43,pass,yes,16.17862279,no,
+S1555,Divya Singh,16,male,10,private unaided,OBC,urban,96.1,Low,0.66,pass,no,13.89862268,no,
+S0483,Arjun Iyer,16,male,10,government,SC,rural,74.6,High,1.94,pass,no,11.64789303,no,
+S1728,Siddharth Kumar,16,female,10,private unaided,OBC,urban,70.3,Low,2.63,pass,yes,19.14610869,yes,Lack of Interest
+S0272,Karan Patel,14,male,8,private unaided,OBC,urban,75.4,Medium,2.41,pass,no,17.13943583,no,
+S1285,Riya Singh,15,male,9,private unaided,SC,rural,89.8,Medium,5.9,pass,no,20.29170466,yes,Lack of Interest
+S1364,Riya Patel,14,male,8,government,SC,rural,71.7,Low,3.91,fail,no,22.94473267,yes,Financial Issues
+S0721,Sneha Iyer,14,female,8,private unaided,OBC,rural,95.1,Low,2.5,pass,no,12.80640272,no,
+S1829,Aarav Joseph,14,female,8,private unaided,general,rural,80.3,Medium,1.39,pass,no,10.56646066,no,
+S1772,Kavya Patel,16,female,10,government,OBC,urban,67.8,High,2.46,pass,no,12.90763529,no,
+S1306,Priya Singh,16,female,10,government,OBC,urban,91.8,Low,0.07,fail,no,23.40894849,yes,Financial Issues
+S0970,Karan Patel,15,male,9,government,OBC,urban,66.9,Low,0.54,pass,no,20.32413008,yes,Household Work
+S1862,Maya Singh,16,female,10,private aided,general,rural,63.7,Medium,3.46,pass,no,13.21519086,no,
+S0291,Aditya Joseph,14,female,8,private aided,general,rural,75.9,High,3.54,pass,no,13.69156171,no,
+S0440,Arjun Gupta,15,male,9,private unaided,OBC,rural,77.2,Medium,0.97,pass,no,16.93419891,no,
+S0311,Anjali Reddy,15,male,9,private unaided,OBC,urban,55.5,Low,0.18,pass,no,22.21428424,yes,Financial Issues
+S1611,Siddharth Kumar,16,female,10,private aided,ST,rural,61.7,Low,1.88,pass,no,15.56720077,no,
+S0943,Ishaan Singh,15,female,9,government,general,urban,62.3,High,3.2,fail,no,20.7596565,yes,Lack of Interest
+S1874,Pooja Kumar,14,male,8,private aided,OBC,rural,80.7,Medium,2.76,pass,no,12.3658025,no,
+S0051,Aditya Iyer,15,female,9,private aided,OBC,rural,65.3,High,10.62,pass,no,20.18626,yes,Lack of Interest
+S1699,Kavya Gupta,14,female,8,government,general,urban,80.8,Medium,0.67,pass,no,10.01848238,no,
+S0424,Riya Kumar,15,female,9,government,SC,urban,65.7,Medium,3.69,pass,no,18.7586114,yes,Lack of Interest
+S1158,Karan Gupta,16,female,10,private unaided,general,rural,68.9,Low,2.75,pass,no,16.68506061,no,
+S1924,Priya Das,16,male,10,private unaided,OBC,urban,70.2,Low,1.55,pass,no,16.54041131,no,
+S1295,Rahul Reddy,16,male,10,private aided,general,rural,83.2,Low,5.42,pass,no,13.3783158,no,
+S1649,Rahul Gupta,16,male,10,private unaided,SC,rural,72.7,Medium,13.03,pass,no,20.36691218,yes,Financial Issues
+S1826,Maya Iyer,14,male,8,private aided,ST,urban,86.3,Low,1.04,pass,no,12.05973885,no,
+S0541,Divya Joseph,14,male,8,private unaided,general,urban,57.6,Medium,0.27,pass,no,17.06150383,no,
+S1118,Karan Joseph,14,male,8,government,OBC,rural,73.2,Low,2.31,pass,no,11.27332978,no,
+S1604,Kavya Kumar,16,male,10,private aided,OBC,urban,94.5,Medium,1.55,pass,no,18.41634711,yes,Household Work
+S1507,Siddharth Joseph,15,female,9,government,general,rural,85.2,Medium,6.75,pass,no,15.48962231,no,
+S0309,Sneha Das,16,female,10,government,general,urban,67,Low,0.59,pass,no,13.18991003,no,
+S0550,Kavya Iyer,16,male,10,private aided,SC,rural,66.7,High,2.11,pass,no,12.08838238,no,
+S0962,Divya Das,14,female,8,private aided,SC,rural,74.7,Medium,0.54,pass,no,9.048378161,no,
+S0740,Siddharth Reddy,14,female,8,government,OBC,rural,81.1,Medium,2.37,pass,yes,12.75506358,no,
+S0968,Divya Reddy,14,female,8,private aided,SC,rural,58.8,Medium,2.88,fail,no,24.86666601,yes,Early Marriage
+S0021,Priya Reddy,16,male,10,government,SC,urban,84.9,Medium,0.56,pass,yes,9.045877823,no,
+S0409,Neha Gupta,15,female,9,private aided,general,rural,68.7,Low,1.2,pass,no,14.46861666,no,
+S1470,Ishaan Patel,16,male,10,government,OBC,urban,48,Low,0.1,pass,yes,25.31121048,yes,
+S1138,Aarav Kumar,15,male,9,private unaided,general,rural,71.3,Low,11.8,pass,yes,22.61618346,yes,Household Work
+S1784,Ananya Patel,15,male,9,government,OBC,urban,54,High,0.09,pass,no,18.30094482,yes,Financial Issues
+S1590,Neha Joseph,14,male,8,private unaided,ST,urban,67.4,Medium,1.94,pass,no,12.89907979,no,
+S1836,Aarav Naik,14,male,8,private unaided,SC,rural,66.5,Medium,4.02,pass,no,10.00606454,no,
+S1950,Neha Patel,16,male,10,private unaided,general,urban,97.8,Low,1.22,pass,no,11.81796486,no,
+S1467,Pooja Joseph,15,female,9,private unaided,OBC,urban,74.5,Medium,0.1,pass,no,15.9941845,no,
+S0591,Arjun Reddy,15,male,9,private unaided,OBC,rural,95.8,Low,0.34,fail,no,23.01617835,yes,Financial Issues
+S0296,Aarav Sharma,16,female,10,private aided,SC,urban,97.9,Medium,6.46,pass,no,12.45969637,no,
+S0964,Arjun Reddy,15,male,9,private unaided,OBC,urban,89.3,High,0.11,pass,no,15.00410784,no,
+S0917,Ananya Naik,14,male,8,private aided,ST,urban,72.8,Medium,0.08,pass,no,11.24437096,no,
+S0132,Rahul Gupta,15,female,9,government,OBC,rural,82.8,High,1.65,fail,yes,20.93892944,yes,Early Marriage
+S1957,Arjun Gupta,16,male,10,private unaided,general,rural,86.7,Medium,0.32,pass,no,11.71312683,no,
+S1905,Sneha Patel,15,male,9,private unaided,SC,rural,100,Medium,8.22,pass,no,16.90938151,no,
+S1400,Kavya Das,15,female,9,government,OBC,urban,100,Medium,0.69,pass,no,16.80313805,no,
+S1182,Sneha Joseph,15,male,9,private unaided,general,rural,82.2,Medium,2.45,pass,no,16.43567926,no,
+S1296,Riya Iyer,15,female,9,private unaided,general,urban,61.2,Low,2.83,pass,yes,18.90672191,yes,Early Marriage
+S0613,Vikram Sharma,16,female,10,private unaided,OBC,urban,80.9,High,0.3,fail,no,21.63524784,yes,Migration
+S1548,Rahul Kumar,16,male,10,private aided,OBC,urban,79.1,Low,2.27,pass,no,16.01537009,no,
+S1959,Sneha Joseph,16,female,10,private aided,OBC,urban,88.8,Medium,0.79,pass,no,13.99921162,no,
+S0624,Kavya Patel,15,female,9,private aided,general,urban,80.7,Low,0.11,pass,no,14.92996215,no,
+S1409,Karan Singh,14,female,8,private aided,general,rural,75.3,Medium,0.23,pass,no,9.441311872,no,
+S1856,Pooja Singh,15,female,9,private unaided,general,urban,45.1,Medium,8.13,pass,no,39.24509989,yes,Household Work
+S0039,Manish Patel,15,female,9,private aided,SC,urban,69.2,High,0.56,pass,no,16.9932775,no,
+S1976,Karan Gupta,16,female,10,private unaided,general,rural,64.5,Low,3.45,pass,yes,15.699989,no,
+S1221,Neha Naik,14,female,8,private unaided,SC,urban,59.9,High,0.33,pass,yes,7.627368804,no,
+S1810,Anjali Joseph,14,female,8,private unaided,OBC,rural,93.3,High,3.43,pass,no,12.35289334,no,
+S1487,Kavya Reddy,16,male,10,private unaided,SC,rural,91.8,Low,0.74,pass,no,15.69219163,no,
+S1690,Divya Gupta,15,female,9,private unaided,general,rural,82.2,Low,4.3,pass,no,19.53886205,yes,Child Labour
+S0443,Siddharth Naik,16,male,10,private unaided,general,urban,88.8,Medium,0.17,pass,no,7.79637636,no,
+S1700,Divya Joseph,15,female,9,government,general,urban,56.4,Medium,2.6,fail,yes,24.56403114,yes,Other
+S0422,Sonal Naik,14,female,8,private unaided,ST,urban,72.8,Medium,1.12,pass,yes,14.20515479,no,
+S1303,Neha Kumar,16,male,10,government,OBC,urban,76,Medium,1.85,pass,no,14.90149329,no,
+S0781,Manish Naik,14,female,8,private unaided,OBC,rural,74.8,Medium,0.46,pass,no,14.57207656,no,
+S1171,Arjun Iyer,14,male,8,private aided,OBC,urban,79.7,Low,0.14,pass,no,13.27216532,no,
+S0366,Neha Iyer,16,male,10,private unaided,OBC,urban,73.5,Medium,2.74,pass,no,15.17516964,no,
+S1749,Aditya Kumar,14,female,8,private unaided,general,urban,66.5,High,6.96,pass,no,16.84179765,no,
+S0752,Anjali Naik,14,male,8,private aided,OBC,rural,84.8,Medium,5.79,pass,yes,11.02825573,no,
+S0751,Siddharth Reddy,15,male,9,private aided,ST,urban,74.7,High,1.4,pass,no,9.675260436,no,
+S0471,Sneha Sharma,14,female,8,private aided,OBC,rural,78.2,Medium,1.06,pass,no,10.62871388,no,
+S0559,Sneha Das,16,male,10,private aided,general,rural,77.4,Low,6.37,pass,no,18.18957837,yes,Financial Issues
+S0338,Maya Singh,15,female,9,private aided,SC,rural,48.5,Low,3.92,pass,no,31.96714264,yes,Other
+S0015,Karan Patel,16,female,10,government,OBC,urban,68.5,Medium,1.4,fail,yes,22.93867931,yes,Early Marriage
+S0236,Kavya Joseph,15,male,9,private aided,general,urban,91.2,High,2.77,pass,no,14.71855607,no,
+S1815,Maya Reddy,15,male,9,private unaided,OBC,rural,78.4,Medium,7.57,fail,no,27.41422776,yes,Early Marriage
+S1624,Aarav Patel,15,male,9,private unaided,general,urban,67,Low,3.59,pass,no,14.09796303,no,
+S1808,Ananya Patel,14,male,8,private aided,OBC,urban,80.4,High,1.69,pass,no,11.39220298,no,
+S1136,Manish Das,16,female,10,private aided,SC,urban,66.1,Medium,0.1,pass,yes,10.54418032,no,
+S1146,Pooja Iyer,15,female,9,private unaided,OBC,rural,72.7,Low,2.59,fail,yes,27.06573829,yes,Early Marriage
+S0875,Riya Gupta,16,male,10,private unaided,SC,urban,97.6,High,0.31,pass,no,12.04096928,no,
+S1492,Rahul Singh,16,female,10,private unaided,SC,rural,87.9,Low,3.46,pass,yes,19.068161,yes,Other
+S0489,Priya Joseph,14,male,8,government,general,urban,77,Medium,1.4,pass,yes,7.558226425,no,
+S0470,Kavya Das,14,male,8,private unaided,OBC,urban,77.4,Medium,1.47,pass,no,15.79917933,no,
+S1240,Kavya Naik,15,female,9,private aided,general,rural,71.8,Medium,7.42,pass,no,16.63053654,no,
+S0120,Sneha Gupta,14,male,8,government,OBC,rural,60.1,Low,4.76,pass,yes,17.64631637,no,
+S0371,Anjali Reddy,14,female,8,private unaided,OBC,rural,62.9,Medium,3.08,pass,no,14.67268096,no,
+S1493,Vikram Kumar,16,female,10,government,OBC,urban,62.6,Medium,0.96,pass,no,9.077027298,no,
+S0336,Siddharth Iyer,16,female,10,private unaided,general,urban,95.1,Medium,3.45,pass,no,16.21922398,no,
+S1774,Pooja Sharma,14,female,8,private aided,general,urban,66.5,Low,4,pass,yes,14.98560468,no,
+S1232,Aarav Joseph,15,female,9,private aided,SC,rural,100,Medium,12.67,fail,no,28.64077877,yes,Child Labour
+S1639,Aarav Singh,16,male,10,private unaided,general,urban,68.2,Medium,1.41,pass,no,13.80804419,no,
+S0963,Arjun Sharma,14,male,8,private unaided,SC,rural,60.9,Medium,4.64,pass,no,13.89913924,no,
+S1693,Rahul Singh,14,female,8,private unaided,SC,urban,79,Medium,2.56,pass,no,13.48635595,no,
+S0664,Manish Singh,15,male,9,private unaided,SC,urban,75.2,High,0.68,pass,no,12.89446806,no,
+S0485,Priya Joseph,15,male,9,private unaided,SC,urban,86.8,Low,4.34,pass,no,19.20939943,yes,Financial Issues
+S1863,Ananya Iyer,15,female,9,private aided,OBC,rural,88.2,High,5.6,pass,no,14.8450952,no,
+S0513,Riya Iyer,14,female,8,government,general,urban,83.2,High,0.47,fail,yes,19.01065661,yes,Lack of Interest
+S1729,Ananya Das,15,male,9,government,ST,urban,73.9,High,0.28,pass,no,14.07178924,no,
+S1616,Ishaan Gupta,16,female,10,private aided,OBC,urban,80.8,Medium,0.37,pass,yes,10.21587489,no,
+S0069,Aditya Singh,15,male,9,private aided,general,rural,75.7,Medium,0.21,pass,no,7.219549501,no,
+S1122,Ishaan Iyer,14,female,8,government,ST,urban,70.3,Low,1.92,pass,yes,12.77669798,no,
+S0285,Divya Iyer,16,male,10,government,OBC,urban,65.9,Medium,0.03,pass,no,10.13190848,no,
+S1282,Rahul Singh,15,male,9,private aided,ST,urban,70,Medium,0.11,pass,yes,12.90195849,no,
+S0022,Karan Reddy,14,female,8,private aided,OBC,urban,60.3,Medium,1.1,fail,no,22.18391171,yes,Lack of Interest
+S0509,Priya Patel,16,male,10,government,ST,rural,68.8,Low,7.62,pass,no,15.32017854,no,
+S1532,Siddharth Reddy,14,male,8,private unaided,OBC,urban,93.8,Low,0.74,pass,no,20.44334661,yes,Child Labour
+S0026,Arjun Joseph,15,male,9,private aided,OBC,urban,77.1,Low,0.33,pass,no,13.51553014,no,
+S0234,Arjun Iyer,16,female,10,private unaided,ST,urban,69.4,Medium,0.24,pass,yes,11.82350263,no,
+S1949,Maya Gupta,15,male,9,private unaided,OBC,rural,95.3,Low,8.42,pass,no,22.23280732,yes,Financial Issues
+S0684,Maya Sharma,16,female,10,government,general,urban,56.2,Medium,0.48,fail,no,24.00339542,yes,Lack of Interest
+S0747,Divya Das,16,female,10,private unaided,general,rural,72.9,High,0.76,pass,no,10.25880284,no,
+S0557,Anjali Sharma,14,male,8,private unaided,SC,urban,82.7,Low,0.21,pass,no,16.96806029,no,
+S1853,Ananya Joseph,14,female,8,private unaided,general,rural,67.5,Medium,0.78,pass,no,8.95492937,no,
+S1798,Kavya Gupta,16,male,10,government,general,rural,97,Low,1.37,pass,yes,13.22291172,no,
+S0262,Maya Reddy,16,female,10,private unaided,OBC,urban,73.9,Medium,0.41,pass,no,10.90978709,no,
+S1722,Kavya Das,14,female,8,government,OBC,urban,71,Low,1.42,fail,no,25.76871742,yes,Other
+S0478,Sonal Singh,15,male,9,government,general,urban,92.4,Low,2.01,pass,yes,12.42354589,no,
+S0357,Ananya Singh,15,male,9,government,general,urban,78.4,High,1.06,pass,no,8.655465616,no,
+S1209,Riya Das,16,male,10,private unaided,general,urban,76.2,Low,0.64,pass,yes,15.57788922,no,
+S0412,Kavya Reddy,15,female,9,private unaided,general,urban,82.3,Medium,0.79,pass,no,15.45023126,no,
+S1813,Karan Patel,16,male,10,private unaided,OBC,urban,62.4,High,1.47,pass,no,16.05845795,no,
+S0765,Karan Patel,15,female,9,private aided,OBC,urban,76.8,Medium,6.17,pass,no,18.06098733,no,
+S1913,Sonal Sharma,14,female,8,private unaided,general,rural,81.1,Low,7.05,pass,yes,18.36707506,yes,Lack of Interest
+S1942,Maya Iyer,15,female,9,government,OBC,urban,65.3,Low,0.31,pass,no,14.08463468,no,
+S1181,Aditya Singh,15,female,9,private aided,general,urban,75,Medium,0.85,pass,no,13.34189473,no,
+S1337,Kavya Joseph,14,male,8,government,SC,urban,89.5,Low,3.55,pass,yes,13.43584798,no,
+S0828,Sneha Sharma,14,male,8,private unaided,OBC,rural,83.8,High,4.27,pass,no,14.46437965,no,
+S0728,Sonal Joseph,14,male,8,private unaided,SC,urban,89.8,Low,2.38,pass,no,12.95423316,no,
+S1676,Manish Joseph,15,female,9,private unaided,ST,rural,62.3,Low,7.11,pass,yes,22.83186411,yes,Child Labour
+S1411,Sonal Gupta,16,male,10,private unaided,OBC,urban,69.1,High,1.6,pass,yes,12.09862456,no,
+S0737,Anjali Joseph,15,male,9,private unaided,OBC,rural,65.6,High,0.37,pass,no,14.88921675,no,
+S0097,Siddharth Kumar,15,female,9,private unaided,OBC,urban,97.4,Medium,1.58,pass,yes,17.81410569,no,
+S1208,Arjun Iyer,15,female,9,private aided,OBC,rural,82.1,Medium,1.23,pass,no,15.52568026,no,
+S0594,Anjali Kumar,15,female,9,private aided,OBC,urban,69.2,High,0.37,pass,no,12.88235154,no,
+S0819,Rahul Kumar,14,female,8,government,ST,urban,62.5,Low,0.87,pass,no,11.8877576,no,
+S0038,Ananya Singh,14,female,8,private aided,general,urban,71.3,Medium,1.46,pass,no,12.23424178,no,
+S0391,Arjun Patel,16,male,10,private unaided,OBC,urban,90,Low,0.25,pass,no,14.97555851,no,
+S0397,Ishaan Reddy,15,female,9,private unaided,general,urban,83.7,High,0.03,pass,yes,14.09858864,no,
+S0184,Kavya Das,15,female,9,private unaided,OBC,urban,72.6,Medium,0.84,pass,no,16.23527554,no,
+S0123,Siddharth Singh,15,male,9,private unaided,general,urban,75.7,Medium,3.15,pass,no,15.68639398,no,
+S0294,Pooja Joseph,14,female,8,private unaided,general,urban,72.7,Medium,0.68,pass,no,11.63212098,no,
+S1821,Riya Naik,15,male,9,government,general,rural,62.1,Medium,3.18,pass,no,14.22126326,no,
+S0558,Aarav Patel,15,female,9,private unaided,OBC,urban,90.9,Low,0.05,pass,no,16.52525703,no,
+S1655,Aarav Reddy,16,female,10,private aided,general,urban,64.3,Medium,0.5,fail,no,17.69826379,no,
+S1310,Maya Patel,14,female,8,private aided,general,urban,78,High,1.07,pass,no,6.890888071,no,
+S1670,Karan Reddy,15,male,9,private aided,OBC,urban,84.3,Medium,1.29,pass,no,12.36641584,no,
+S0312,Karan Gupta,15,male,9,private aided,general,urban,75.6,Low,1.41,pass,no,13.03907676,no,
+S1734,Sonal Kumar,14,male,8,government,OBC,rural,83.3,Medium,2.06,pass,yes,15.11275303,no,
+S0877,Karan Patel,14,male,8,private aided,OBC,urban,76.7,Low,0.53,fail,no,19.10568317,yes,Lack of Interest
+S0449,Kavya Das,14,female,8,private unaided,ST,urban,82.5,Medium,0.67,pass,no,13.58803374,no,
+S1274,Ananya Das,14,female,8,private aided,OBC,rural,56.2,Low,5.69,pass,no,22.9199891,yes,Early Marriage
+S1702,Vikram Singh,15,female,9,private aided,general,urban,90.9,Medium,0.68,pass,no,10.39033929,no,
+S0837,Riya Gupta,16,female,10,private aided,SC,urban,84,High,1.52,fail,yes,21.19176719,yes,Health Issues
+S0276,Sneha Naik,16,female,10,private aided,general,urban,72.3,Low,2.07,pass,no,14.65381619,no,
+S0142,Rahul Joseph,14,male,8,private unaided,SC,urban,67.2,Low,1.52,fail,no,23.83182654,yes,Household Work
+S1653,Riya Kumar,15,male,9,private unaided,ST,urban,85.4,High,4.41,pass,no,18.41567993,yes,Financial Issues
+S1845,Kavya Sharma,15,male,9,private aided,general,urban,64,Low,0.44,pass,no,10.12847564,no,
+S1012,Pooja Das,15,female,9,private aided,general,urban,72.9,High,1.38,pass,no,10.73671914,no,
+S1752,Manish Kumar,14,male,8,private unaided,general,rural,87.8,Low,0.51,fail,no,24.42022463,yes,Financial Issues
+S1169,Maya Das,15,male,9,government,OBC,urban,78.2,High,0.85,pass,no,13.21240951,no,
+S1060,Siddharth Kumar,15,male,9,private aided,general,urban,72,Medium,2.92,pass,no,12.37725152,no,
+S0408,Riya Gupta,14,female,8,private unaided,general,rural,60,Medium,8.93,fail,no,29.68888137,yes,Early Marriage
+S0944,Arjun Das,15,female,9,government,general,rural,80.1,Low,2.23,pass,no,17.54169629,no,
+S1177,Sonal Patel,16,female,10,government,SC,urban,76.1,High,0.53,pass,no,8.590073161,no,
+S1698,Aditya Singh,16,female,10,private aided,general,urban,97.7,Medium,1.43,pass,no,10.23085265,no,
+S0903,Siddharth Reddy,14,male,8,private aided,OBC,rural,80.6,Medium,3.75,pass,no,10.68576676,no,
+S1277,Sneha Das,14,female,8,private aided,general,urban,72.7,High,2.27,fail,no,21.049545,yes,Other
+S1041,Maya Iyer,14,male,8,government,general,urban,73.4,Medium,0.13,fail,no,19.0117736,yes,Household Work
+S1892,Aditya Joseph,15,female,9,private aided,OBC,rural,63.2,Medium,2.4,pass,yes,14.44622346,no,
+S0095,Neha Joseph,15,male,9,private unaided,general,rural,78.5,Medium,0.02,pass,no,14.62774747,no,
+S1546,Neha Gupta,15,male,9,government,general,urban,64.4,High,1.65,pass,no,11.97614454,no,
+S1750,Divya Gupta,15,female,9,private unaided,general,urban,85.3,High,0.04,pass,yes,14.18113906,no,
+S1189,Divya Reddy,16,male,10,private aided,OBC,urban,83,Low,1.4,pass,no,14.49323806,no,
+S1460,Riya Kumar,14,female,8,government,ST,rural,96.1,Medium,6.89,pass,no,14.60863337,no,
+S1203,Neha Naik,14,female,8,private unaided,general,urban,75.3,Low,1.7,pass,no,12.17548471,no,
+S1475,Manish Iyer,14,male,8,private unaided,SC,rural,67.5,Low,1.85,fail,no,26.63615145,yes,Household Work
+S1218,Manish Patel,14,male,8,government,SC,urban,55.3,High,0.96,pass,yes,14.01638685,no,
+S0891,Manish Kumar,14,female,8,government,ST,urban,72.3,High,0.48,pass,no,6.764494595,no,
+S1391,Priya Das,15,male,9,private aided,SC,urban,68,Medium,4.54,pass,no,18.87027414,yes,Household Work
+S1792,Maya Reddy,15,female,9,private unaided,SC,urban,81.2,High,2.61,pass,yes,18.96571935,yes,Child Labour
+S0488,Ananya Iyer,15,male,9,private unaided,OBC,urban,79.6,Low,0.4,fail,no,28.22175656,yes,Child Labour
+S1042,Riya Reddy,15,female,9,private unaided,OBC,rural,75.9,High,1.75,pass,yes,15.61617845,no,
+S1101,Sonal Joseph,16,male,10,private unaided,OBC,rural,78,High,3.05,pass,no,15.08688027,no,
+S0612,Priya Das,16,female,10,private aided,general,rural,91.6,Medium,0.56,fail,no,20.77363693,yes,Early Marriage
+S1390,Ishaan Naik,15,female,9,government,SC,urban,66.4,Low,1.4,pass,no,15.0336562,no,
+S1501,Manish Sharma,14,male,8,government,SC,urban,67.1,Low,1.77,pass,yes,11.57883839,no,
+S0953,Vikram Gupta,15,female,9,private unaided,SC,rural,90.6,Low,1.63,fail,no,28.00894537,yes,Lack of Interest
+S1680,Karan Kumar,16,male,10,private aided,OBC,urban,74.2,Medium,0.85,pass,yes,11.64610975,no,
+S0152,Priya Sharma,14,male,8,private aided,general,rural,86,Medium,5.36,fail,no,21.78122534,yes,Lack of Interest
+S0377,Manish Das,16,male,10,private aided,OBC,urban,42.6,Medium,3.69,fail,no,45.08706234,yes,Household Work
+S0365,Manish Naik,16,female,10,private aided,OBC,urban,63.1,High,6.28,pass,no,16.71718914,no,
+S1476,Kavya Das,16,male,10,private unaided,general,urban,72.8,Medium,0.94,pass,no,12.443018,no,
+S0831,Sneha Naik,14,male,8,private unaided,OBC,rural,79.8,Medium,6.81,pass,no,15.62105542,no,
+S0076,Neha Singh,15,female,9,private aided,general,urban,58.2,Low,1.15,pass,yes,15.83448994,no,
+S0429,Ishaan Gupta,16,male,10,private unaided,general,rural,78.1,Medium,3.67,pass,no,19.75611347,yes,Lack of Interest
+S1827,Vikram Naik,16,male,10,government,OBC,urban,55,Medium,3.74,pass,yes,19.1211697,yes,Early Marriage
+S0938,Vikram Kumar,16,female,10,government,OBC,urban,70.2,Medium,3.37,pass,yes,12.75686209,no,
+S0774,Aarav Gupta,14,male,8,private unaided,general,urban,72.3,Medium,0.8,fail,no,22.83106615,yes,Health Issues
+S1961,Anjali Das,15,male,9,private aided,ST,rural,70.7,Medium,1.63,pass,yes,15.41906278,no,
+S1841,Anjali Gupta,14,female,8,government,general,rural,77.8,Medium,0.44,pass,no,7.391886338,no,
+S0331,Vikram Das,16,male,10,private aided,SC,rural,85.5,Low,1.99,pass,no,13.31584447,no,
+S0134,Maya Joseph,14,female,8,private unaided,OBC,urban,72.2,Medium,0.05,pass,no,14.50955062,no,
+S0306,Anjali Reddy,14,male,8,private unaided,OBC,rural,84.1,Low,4.42,pass,no,17.0112193,no,
+S0211,Neha Das,14,male,8,private aided,OBC,rural,74.8,Medium,0.23,pass,no,11.33952305,no,
+S1838,Siddharth Iyer,15,male,9,government,general,urban,75.6,High,0.59,pass,no,11.52739705,no,
+S1236,Sonal Patel,16,female,10,private aided,SC,rural,70.7,Medium,2.46,pass,no,11.98548351,no,
+S0282,Karan Singh,16,female,10,private aided,OBC,urban,78.7,Medium,1.14,pass,no,12.13888447,no,
+S1822,Ananya Naik,16,female,10,government,general,urban,97.9,Medium,0.29,pass,yes,12.50335094,no,
+S1055,Riya Das,16,female,10,government,SC,urban,86.6,High,1.77,pass,no,13.08470711,no,
+S0771,Karan Gupta,14,male,8,private unaided,OBC,rural,86.4,High,2.99,pass,no,11.81896152,no,
+S1718,Sneha Naik,14,male,8,government,OBC,rural,72.5,High,11.15,pass,no,21.81581795,yes,Lack of Interest
+S1540,Vikram Patel,14,female,8,private unaided,OBC,rural,68.9,Low,1.87,pass,no,19.88020416,yes,Household Work
+S0007,Divya Kumar,15,male,9,government,OBC,urban,69.4,Low,0.3,pass,yes,16.49557349,no,
+S1622,Sneha Gupta,14,female,8,private aided,general,rural,68,Medium,2.66,pass,yes,14.7488602,no,
+S1941,Ananya Sharma,14,female,8,private unaided,ST,urban,73.7,Medium,0.27,pass,no,14.17372484,no,
+S1166,Sneha Joseph,15,male,9,government,general,rural,64.6,Medium,0.43,pass,no,11.93159832,no,
+S0286,Manish Sharma,16,male,10,private unaided,general,rural,57.9,Low,1.55,fail,yes,25.07938459,yes,Child Labour
+S1683,Arjun Sharma,15,female,9,private aided,OBC,rural,81.5,High,6.88,pass,no,13.58238904,no,
+S1503,Neha Naik,15,female,9,private unaided,SC,urban,77.1,Medium,0.59,pass,no,17.02270503,no,
+S1398,Anjali Das,14,female,8,private unaided,general,urban,75.5,Low,3.8,fail,yes,27.93626565,yes,Lack of Interest
+S0229,Karan Das,16,male,10,private aided,general,urban,64.2,Medium,3.63,pass,no,9.942844611,no,
+S0605,Karan Reddy,16,male,10,private aided,SC,urban,77.7,High,0.87,pass,no,8.872346229,no,
+S0432,Ananya Singh,14,female,8,government,OBC,urban,59.6,Low,0.07,fail,no,19.70780259,yes,Lack of Interest
+S0005,Ishaan Joseph,14,male,8,private unaided,SC,rural,94,High,0.08,pass,no,10.57174389,no,
+S0168,Manish Kumar,15,female,9,private aided,OBC,rural,70.4,Low,3.43,fail,yes,29.91434522,yes,Lack of Interest
+S0295,Siddharth Kumar,14,male,8,private unaided,SC,urban,86.1,Medium,0.66,pass,yes,12.64611856,no,
+S0630,Priya Joseph,15,female,9,private aided,OBC,rural,70.8,Low,5.33,pass,no,17.47818469,no,
+S1630,Arjun Gupta,15,female,9,private unaided,general,urban,91.7,Low,0.28,pass,no,17.15302082,no,
+S1291,Priya Kumar,15,male,9,private unaided,general,rural,66.9,Medium,14.46,pass,no,24.05874109,yes,Other
+S0257,Ishaan Das,16,male,10,private unaided,OBC,rural,94.5,Low,7.93,fail,no,26.82027465,yes,Financial Issues
+S1574,Ishaan Reddy,15,male,9,government,OBC,urban,80.8,Medium,2.4,pass,no,15.26145929,no,
+S1793,Aditya Naik,16,female,10,private aided,ST,urban,61.8,Low,2.01,pass,no,14.10639539,no,
+S0922,Maya Kumar,16,female,10,private aided,OBC,urban,94.5,Medium,3.15,pass,no,15.1681251,no,
+S1534,Ananya Singh,16,male,10,private unaided,general,urban,58.2,High,3.97,fail,yes,25.20204218,yes,Lack of Interest
+S0373,Arjun Joseph,15,female,9,government,general,urban,59.5,Medium,2.01,pass,no,16.37660959,no,
+S0862,Manish Naik,14,female,8,private unaided,SC,rural,82.1,Medium,6.97,pass,no,17.94981071,no,
+S1250,Ananya Joseph,14,female,8,private aided,OBC,rural,72.7,Medium,4.09,pass,no,12.38817812,no,
+S1331,Aditya Singh,16,male,10,private unaided,SC,urban,49.2,Low,0.21,fail,no,38.20090843,yes,Early Marriage
+S1323,Karan Sharma,16,female,10,private unaided,ST,urban,83.3,Medium,0.73,fail,no,20.20785586,yes,Lack of Interest
+S1593,Arjun Joseph,16,male,10,government,OBC,urban,79.7,Medium,2.75,pass,no,13.45142845,no,
+S0040,Rahul Gupta,15,female,9,government,OBC,rural,72.8,Low,1.57,fail,no,22.83311155,yes,Household Work
+S0770,Aditya Kumar,14,female,8,government,SC,urban,75,Low,1.43,pass,no,12.25464175,no,
+S1463,Priya Joseph,15,female,9,government,general,urban,59.2,Medium,2.9,fail,no,20.14050099,yes,Early Marriage
+S0859,Priya Gupta,14,male,8,private aided,OBC,rural,93.5,Low,3.29,pass,no,12.60711873,no,
+S1381,Aarav Singh,16,female,10,private unaided,OBC,urban,73.4,Medium,0.45,pass,no,13.60047077,no,
+S0052,Anjali Reddy,15,male,9,private unaided,OBC,rural,69,Medium,6.6,pass,no,17.22820124,no,
+S0912,Neha Patel,16,male,10,government,general,urban,39.9,Medium,4.37,pass,yes,34.67916837,yes,Child Labour
+S0992,Rahul Sharma,15,male,9,private unaided,OBC,urban,62.2,High,0.07,pass,no,15.46062833,no,
+S1872,Ishaan Das,14,male,8,private unaided,OBC,urban,64.2,Low,0.4,pass,no,16.90178428,no,
+S1615,Sneha Kumar,15,male,9,private unaided,SC,rural,68.6,Medium,4.47,pass,no,15.19975834,no,
+S1921,Sneha Naik,16,female,10,private aided,OBC,rural,72.3,Medium,6.64,fail,yes,24.29429528,yes,Early Marriage
+S1365,Aarav Naik,14,male,8,private unaided,OBC,rural,59.4,Medium,0.06,pass,yes,16.20822818,no,
+S1672,Sneha Reddy,16,female,10,private unaided,OBC,urban,96,High,3.24,fail,no,21.84734394,yes,Financial Issues
+S1457,Rahul Naik,15,male,9,private unaided,OBC,urban,100,High,1.49,pass,no,18.34064362,yes,Household Work
+S0342,Sonal Kumar,16,female,10,private unaided,general,urban,100,High,2.33,pass,no,14.65126365,no,
+S1612,Anjali Das,16,male,10,private unaided,OBC,urban,77.6,Medium,2.4,pass,no,17.0372445,no,
+S0803,Priya Iyer,15,male,9,private aided,general,urban,62.4,Medium,0.29,pass,no,12.27806896,no,
+S1902,Vikram Iyer,14,female,8,private aided,SC,urban,96.7,Medium,0.62,pass,no,14.32097285,no,
+S1831,Sneha Sharma,15,male,9,private unaided,SC,rural,82.2,Low,6.28,pass,no,21.50259465,yes,Lack of Interest
+S1996,Riya Joseph,15,female,9,private aided,OBC,urban,78.8,Medium,1.41,pass,no,17.55211378,no,
+S0493,Aarav Patel,15,male,9,government,OBC,rural,67.4,Low,0.24,fail,no,25.79540122,yes,Child Labour
+S0817,Divya Gupta,15,male,9,private aided,ST,rural,70.6,High,10.53,pass,no,13.68355661,no,
+S1167,Sonal Kumar,15,female,9,private aided,OBC,urban,58.8,Low,2.77,pass,no,21.1663144,yes,Child Labour
+S1215,Maya Gupta,16,female,10,private aided,general,rural,55.8,Low,0.27,fail,no,28.1108262,yes,Financial Issues
+S1003,Aarav Joseph,16,male,10,private aided,OBC,rural,42.6,Medium,1.52,pass,no,30.83079725,yes,Child Labour
+S1842,Karan Patel,15,male,9,private unaided,OBC,urban,82.8,Low,0.77,pass,no,19.51830949,yes,Early Marriage
+S1121,Priya Naik,16,male,10,private aided,SC,rural,74.8,Low,4.66,fail,no,25.69156556,yes,Child Labour
+S0769,Manish Gupta,14,female,8,government,general,urban,76.9,Low,2.52,pass,yes,16.50256579,no,
+S1108,Manish Das,16,female,10,private aided,general,rural,74.6,Medium,7.97,pass,yes,14.06556392,no,
+S0649,Pooja Gupta,14,female,8,private aided,OBC,rural,100,Medium,8.13,pass,no,14.2569208,no,
+S0020,Riya Patel,14,female,8,government,general,urban,62.3,Medium,3.6,pass,yes,13.09810389,no,
+S0352,Sonal Joseph,14,female,8,private unaided,OBC,urban,63.9,Medium,1.54,pass,no,14.22994369,no,
+S0316,Sneha Joseph,16,male,10,private aided,general,urban,75.6,Medium,0.22,pass,no,11.97423643,no,
+S1065,Ishaan Iyer,14,male,8,private aided,general,urban,61.9,Medium,0.84,fail,no,19.02077932,yes,Household Work
+S1488,Siddharth Joseph,16,female,10,private aided,OBC,urban,83.4,Low,0.33,pass,yes,11.06345834,no,
+S1645,Riya Naik,14,male,8,private unaided,OBC,urban,83.2,Low,3.97,fail,no,25.0391314,yes,Early Marriage
+S1803,Karan Joseph,15,male,9,private unaided,SC,urban,77.2,Low,2.6,pass,no,14.94597023,no,
+S0791,Ishaan Gupta,14,male,8,government,SC,rural,83.1,Low,0.16,pass,no,11.13820322,no,
+S1002,Karan Kumar,15,female,9,private unaided,ST,urban,81,Medium,1.27,pass,yes,15.4110681,no,
+S0354,Anjali Kumar,15,female,9,private unaided,OBC,urban,97.5,Medium,0.64,pass,no,13.62036998,no,
+S0659,Arjun Iyer,14,female,8,private aided,general,urban,89.3,High,2.47,pass,no,12.02768756,no,
+S1429,Neha Singh,15,male,9,private unaided,OBC,rural,80,Low,2.31,pass,no,18.80954822,yes,Early Marriage
+S0626,Rahul Kumar,16,female,10,private aided,OBC,urban,59.6,High,2.65,fail,no,21.43424228,yes,Household Work
+S1399,Riya Gupta,14,male,8,private unaided,ST,urban,87.9,High,0.47,pass,no,13.21183944,no,
+S1040,Manish Singh,15,male,9,private unaided,general,urban,66.4,High,0.81,pass,yes,8.59285719,no,
+S1395,Karan Naik,15,female,9,private unaided,general,rural,80.8,High,5.43,pass,no,14.93665474,no,
+S1882,Divya Sharma,14,female,8,private aided,general,rural,72.1,High,1.52,pass,no,8.036033457,no,
+S1425,Divya Sharma,15,male,9,private aided,SC,urban,72.2,High,1.21,pass,yes,12.95520905,no,
+S0301,Neha Gupta,15,female,9,private unaided,OBC,urban,75.6,Low,0.79,pass,no,17.79298813,no,
+S0227,Siddharth Das,15,male,9,government,OBC,rural,79.1,Medium,1.48,pass,no,13.83735908,no,
+S0023,Priya Singh,15,female,9,government,OBC,rural,59.1,Low,13.97,pass,no,23.64809017,yes,Lack of Interest
+S1925,Kavya Kumar,16,male,10,private unaided,SC,rural,68.4,Medium,3.66,pass,no,13.48137286,no,
+S0192,Riya Iyer,16,male,10,private unaided,SC,urban,100,Low,0.6,pass,no,14.84699368,no,
+S0706,Neha Sharma,15,male,9,government,OBC,urban,73.2,Medium,1.19,pass,no,12.78846098,no,
+S0692,Aditya Kumar,14,male,8,private unaided,OBC,urban,91.4,Low,1.5,fail,no,22.16376354,yes,Other
+S1980,Vikram Das,16,male,10,private aided,general,urban,80.1,Medium,1.19,fail,no,19.9849926,yes,Other
+S0170,Sonal Singh,15,male,9,private aided,SC,urban,60.1,Medium,1.18,pass,yes,9.785249069,no,
+S0321,Divya Das,14,male,8,private unaided,ST,rural,81.9,High,7.1,pass,no,13.53125719,no,
+S0107,Aditya Reddy,16,male,10,government,SC,urban,75.2,Low,1.29,fail,no,22.30392146,yes,Early Marriage
+S0619,Arjun Iyer,14,female,8,private aided,general,urban,70.7,High,5.23,fail,yes,20.1196521,yes,Child Labour
+S0093,Divya Naik,15,male,9,private unaided,SC,urban,66.8,Low,0.26,pass,yes,17.3233223,no,
+S1657,Arjun Kumar,16,male,10,government,general,rural,85.5,Medium,18.46,pass,yes,20.94033983,yes,Child Labour
+S1919,Neha Kumar,15,male,9,private unaided,OBC,rural,80.2,Low,3.48,pass,yes,18.19126315,yes,Early Marriage
+S0520,Manish Patel,15,female,9,government,ST,urban,82.8,Medium,3.19,pass,no,15.27419084,no,
+S1707,Arjun Kumar,16,male,10,private aided,general,rural,89.4,Medium,6.94,fail,no,24.91908146,yes,Other
+S1156,Karan Das,14,female,8,private unaided,OBC,urban,81.1,High,1.1,pass,no,13.33251421,no,
+S1525,Pooja Das,15,male,9,private unaided,general,urban,82.5,Low,2.16,pass,yes,17.61487703,no,
+S0081,Kavya Naik,16,male,10,private unaided,ST,urban,64,Medium,4.14,pass,no,16.17709217,no,
+S0105,Ishaan Das,16,female,10,private aided,general,rural,74.1,High,8.9,pass,yes,14.31097925,no,
+S1455,Karan Sharma,15,male,9,private aided,OBC,urban,71.4,Low,2.36,pass,no,15.39753336,no,
+S0186,Kavya Gupta,15,female,9,government,SC,urban,84.8,Medium,3.49,pass,no,13.04790578,no,
+S0329,Ananya Reddy,14,female,8,private unaided,SC,urban,79.7,Medium,1.64,pass,yes,10.44641283,no,
+S0936,Maya Iyer,16,female,10,private unaided,SC,urban,87.4,Medium,3.55,pass,no,15.58265138,no,
+S0863,Ananya Kumar,16,female,10,private aided,OBC,urban,65.2,Low,0.09,pass,no,14.82813362,no,
+S1309,Anjali Joseph,15,female,9,private aided,general,urban,70.4,Low,1.08,fail,no,22.5239718,yes,Lack of Interest
+S0378,Sonal Singh,16,male,10,private aided,general,urban,74.3,Low,0.68,pass,no,15.31406272,no,
+S1093,Kavya Naik,15,female,9,private aided,general,urban,51.2,High,1.3,pass,no,19.60452906,yes,Child Labour
+S1064,Ishaan Das,16,female,10,private unaided,general,urban,55.1,Medium,1.75,pass,no,13.70498712,no,
+S0150,Aarav Gupta,16,male,10,private unaided,OBC,rural,67.2,Medium,5.02,pass,yes,14.38815859,no,
+S0089,Siddharth Gupta,15,male,9,private aided,OBC,rural,78.1,Medium,1.66,fail,no,20.86608441,yes,Lack of Interest
+S0323,Priya Kumar,16,male,10,private aided,general,urban,79.5,Low,4.18,pass,yes,16.25803166,no,
+S0465,Riya Sharma,15,male,9,private unaided,general,urban,69.8,Low,0.12,pass,no,14.68661485,no,
+S1317,Sneha Gupta,16,male,10,private aided,OBC,rural,68.3,Medium,1.64,fail,yes,27.18772074,yes,Financial Issues
+S1656,Aditya Naik,15,female,9,private unaided,general,urban,86.5,Medium,4.96,fail,no,26.3506627,yes,Early Marriage
+S0009,Priya Kumar,14,male,8,private unaided,general,urban,77.9,High,0.85,pass,yes,6.48015659,no,
+S0643,Siddharth Kumar,16,male,10,private aided,OBC,urban,88.3,Low,0.34,pass,yes,16.04860038,no,
+S0796,Arjun Naik,16,male,10,government,general,rural,93.7,Low,2.92,fail,no,21.28047819,yes,Lack of Interest
+S1225,Kavya Sharma,16,male,10,private unaided,OBC,rural,81,Medium,1.97,pass,yes,12.04145896,no,
+S1368,Aarav Singh,16,male,10,private unaided,SC,rural,61.2,Low,3.77,pass,no,17.12248625,no,
+S0194,Maya Kumar,16,female,10,private unaided,general,urban,84.5,Low,2.34,pass,yes,16.21095333,no,
+S0500,Aditya Kumar,14,female,8,government,general,urban,96.6,High,3.15,pass,no,11.62968468,no,
+S0657,Aarav Das,16,female,10,private aided,ST,rural,94.4,Medium,8.43,fail,no,24.39531864,yes,Lack of Interest
+S0700,Riya Patel,15,female,9,private unaided,SC,rural,90,Medium,0.4,pass,no,12.70674966,no,
+S0900,Sonal Gupta,16,male,10,private unaided,ST,urban,68.7,Medium,5.97,fail,no,26.02515388,yes,Child Labour
+S0441,Divya Das,15,male,9,private aided,ST,urban,68.1,High,1.03,pass,no,7.937833907,no,
+S1674,Manish Naik,16,female,10,private aided,general,urban,61.7,Low,0.32,pass,yes,13.47367367,no,
+S1647,Pooja Das,14,female,8,private aided,general,urban,76.2,Medium,2.24,pass,no,10.83245021,no,
+S0048,Sneha Naik,15,female,9,government,general,rural,71.4,Medium,2.84,pass,no,12.3157811,no,
+S1159,Arjun Patel,16,female,10,government,OBC,urban,66.7,Medium,1.49,pass,yes,14.36327224,no,
+S0404,Sonal Naik,15,male,9,private unaided,SC,urban,88.9,High,0.34,pass,no,13.17499616,no,
+S0451,Maya Naik,15,female,9,government,OBC,urban,74.1,High,0.31,pass,no,10.70228327,no,
+S0639,Arjun Reddy,16,female,10,government,ST,urban,86,Low,0.91,pass,no,16.96419159,no,
+S1270,Anjali Sharma,16,male,10,private aided,ST,urban,63.6,Medium,0.06,pass,no,10.85780207,no,
+S1125,Kavya Joseph,15,female,9,private unaided,SC,rural,67.5,High,0.95,pass,yes,15.74287305,no,
+S0228,Neha Patel,14,female,8,private unaided,SC,rural,97.5,Medium,6.72,pass,no,15.92860757,no,
+S1713,Arjun Gupta,16,female,10,government,OBC,urban,45.1,Medium,0.26,fail,yes,41.87021357,yes,Financial Issues
+S0273,Divya Das,15,female,9,private aided,ST,urban,66.6,High,3.1,pass,yes,11.55765333,no,
+S1617,Arjun Gupta,14,female,8,private aided,general,urban,79.9,Low,0.43,pass,no,13.02778956,no,
+S1589,Sneha Patel,16,female,10,private unaided,general,urban,73.6,High,0.92,fail,no,22.86976211,yes,Early Marriage
+S1566,Aditya Joseph,15,male,9,government,SC,urban,72.6,Medium,2.55,pass,yes,16.21367402,no,
+S0230,Maya Sharma,15,female,9,private unaided,general,urban,80.9,Medium,2.59,pass,no,13.45953249,no,
+S1095,Riya Singh,15,male,9,government,OBC,rural,99.9,Low,2.68,fail,no,22.62457325,yes,Other
+S1384,Anjali Iyer,14,female,8,private unaided,OBC,urban,91.6,Medium,0.42,pass,yes,16.66198074,no,
+S1669,Aditya Singh,15,female,9,private unaided,ST,rural,89.5,Medium,5.61,pass,no,17.56629389,no,
+S0381,Neha Iyer,15,female,9,private unaided,ST,urban,71.8,Medium,0.13,pass,no,15.44817199,no,
+S1094,Maya Singh,15,male,9,government,OBC,urban,84,Low,0.22,pass,yes,15.91289875,no,
+S1067,Rahul Gupta,15,female,9,private unaided,OBC,urban,71.3,Low,0.25,fail,yes,26.29272722,yes,Financial Issues
+S1297,Priya Patel,16,female,10,private aided,general,urban,54.3,Low,0.59,pass,yes,14.39436589,no,
+S0333,Kavya Joseph,15,male,9,government,general,rural,50.5,Low,2.48,pass,yes,21.94574436,yes,Other
+S0036,Riya Naik,14,female,8,private unaided,OBC,rural,86.2,Low,0.31,pass,yes,14.74354064,no,
+S0199,Kavya Das,16,female,10,government,OBC,urban,80,Medium,1.44,pass,no,16.01968527,no,
+S1506,Aditya Iyer,14,male,8,private unaided,OBC,urban,63.6,Low,1.36,pass,yes,15.31821992,no,
+S0320,Divya Singh,15,male,9,private unaided,general,rural,92.3,High,2.12,pass,no,10.16815014,no,
+S0587,Ananya Joseph,15,female,9,private unaided,general,rural,85.7,Medium,1.66,pass,yes,15.8837726,no,
+S0868,Sneha Iyer,15,female,9,private unaided,ST,urban,72.7,Low,0.85,pass,no,15.58789084,no,
+S0934,Riya Reddy,14,female,8,private unaided,OBC,rural,85.2,Low,4.76,pass,no,17.05015845,no,
+S0930,Aditya Das,14,male,8,government,general,urban,57.7,Medium,2.36,fail,no,24.23277797,yes,Early Marriage
+S1967,Pooja Singh,16,female,10,government,SC,urban,81.1,Medium,0.97,pass,no,10.94011575,no,
+S1165,Ishaan Patel,14,female,8,private unaided,general,urban,84.9,Medium,0.57,pass,no,13.93765379,no,
+S1621,Arjun Naik,16,female,10,private unaided,general,urban,50,Medium,0.15,pass,no,25.63936637,yes,Early Marriage
+S0978,Sneha Sharma,16,male,10,private unaided,OBC,rural,73.6,High,1.91,pass,no,14.88642307,no,
+S1914,Rahul Kumar,15,male,9,private unaided,SC,urban,92.9,Medium,0.13,pass,yes,15.22683538,no,
+S1015,Arjun Das,14,male,8,private aided,ST,urban,66.1,Low,0.96,pass,no,16.0302354,no,
+S1147,Divya Gupta,15,female,9,private aided,OBC,urban,82.6,Low,5.79,pass,no,17.538268,no,
+S0810,Arjun Patel,14,male,8,private unaided,general,rural,72,Low,5.96,pass,no,18.9169613,yes,Other
+S0328,Divya Sharma,16,female,10,government,general,rural,70.1,Low,0.71,pass,no,13.02707246,no,
+S0324,Vikram Joseph,14,female,8,government,general,urban,67.8,Medium,0.3,pass,no,11.21600944,no,
+S1444,Siddharth Patel,16,female,10,government,general,rural,100,Medium,2.24,pass,yes,17.8198204,no,
+S1529,Aarav Joseph,16,female,10,government,OBC,urban,78,Low,1.3,fail,no,24.59893357,yes,Financial Issues
+S1446,Karan Gupta,16,male,10,private unaided,OBC,urban,79.7,High,0.28,pass,no,10.9218688,no,
+S0504,Arjun Sharma,16,female,10,private aided,OBC,urban,79,Low,1.2,pass,no,15.86727153,no,
+S0869,Rahul Gupta,15,female,9,private unaided,general,rural,74,Low,3.65,pass,no,20.35080722,yes,Early Marriage
+S0392,Aditya Reddy,16,male,10,private unaided,OBC,urban,50.1,Medium,0.3,pass,yes,27.53694746,yes,Child Labour
+S0955,Priya Joseph,14,male,8,government,OBC,urban,85.1,Low,0.16,pass,no,15.16152635,no,
+S1785,Priya Gupta,16,female,10,private unaided,ST,urban,73.8,High,1.79,pass,yes,12.62962701,no,
+S1820,Siddharth Das,15,male,9,government,ST,rural,50.7,Low,0.34,pass,no,25.67825724,yes,Early Marriage
+S1588,Vikram Sharma,15,male,9,private unaided,general,rural,65,Low,6.91,pass,no,20.2688278,yes,Lack of Interest
+S1742,Aarav Joseph,14,male,8,private aided,OBC,rural,78.7,High,2.65,pass,no,10.80175463,no,
+S1008,Siddharth Gupta,16,male,10,private unaided,ST,urban,90.8,Low,1.82,pass,no,19.38008123,yes,Household Work
+S0671,Arjun Gupta,16,female,10,government,SC,rural,86.8,Medium,2.93,pass,no,10.26119422,no,
+S1164,Kavya Reddy,15,male,9,private unaided,OBC,rural,76.9,Medium,0.02,pass,no,17.23051329,no,
+S0553,Karan Kumar,16,female,10,government,SC,urban,60,Medium,3,pass,no,13.06151499,no,
+S0620,Aditya Iyer,14,male,8,government,OBC,urban,61.6,Medium,0.45,pass,yes,10.08750736,no,
+S0947,Arjun Reddy,15,male,9,private unaided,OBC,urban,77.3,Medium,0.31,pass,no,13.71844309,no,
+S1666,Arjun Patel,14,male,8,private unaided,SC,rural,61.2,Low,13.78,pass,no,19.8200972,yes,Other
+S0144,Ishaan Sharma,15,male,9,private unaided,OBC,urban,77.2,Low,0.47,pass,yes,18.39721502,yes,Child Labour
+S0140,Ishaan Reddy,16,female,10,government,SC,urban,83.2,Low,0.13,fail,no,25.04273661,yes,Lack of Interest
+S1893,Vikram Naik,16,female,10,private aided,OBC,urban,61.2,Low,0.18,fail,yes,20.65845386,yes,Lack of Interest
+S0233,Sonal Das,15,male,9,private aided,OBC,urban,89.2,Medium,6.55,pass,yes,18.01271664,no,
+S1234,Kavya Das,15,male,9,government,SC,urban,77.2,Medium,1.71,pass,yes,12.77468035,no,
+S1252,Arjun Sharma,14,male,8,private unaided,OBC,urban,80.7,Medium,2.22,pass,no,11.49021206,no,
+S0577,Aditya Reddy,15,male,9,private unaided,OBC,urban,72,High,0.05,pass,no,13.7938776,no,
+S1474,Manish Das,14,female,8,government,OBC,urban,82.4,Medium,0.65,pass,yes,11.85948159,no,
+S0650,Neha Patel,15,female,9,private unaided,general,urban,74.3,Low,1.27,pass,yes,15.07251256,no,
+S1908,Priya Das,15,female,9,private unaided,SC,rural,68.2,Medium,0.33,pass,no,16.1673,no,
+S0453,Arjun Singh,14,male,8,private unaided,SC,urban,79.6,Low,2.46,pass,no,10.61721674,no,
+S0793,Rahul Iyer,14,male,8,private unaided,OBC,rural,100,Medium,4.31,pass,yes,15.24125859,no,
+S1660,Priya Patel,14,male,8,private unaided,ST,rural,72.2,Medium,1.21,pass,yes,13.4746352,no,
+S0744,Anjali Joseph,14,female,8,private unaided,ST,urban,73.8,Low,3.16,pass,yes,17.29853547,no,
+S1570,Aarav Kumar,15,male,9,private aided,SC,urban,56.4,Medium,0.16,fail,yes,25.92673309,yes,Child Labour
+S1689,Aditya Patel,15,female,9,private aided,general,urban,93.2,High,0.05,pass,no,12.58174556,no,
+S1289,Arjun Joseph,16,female,10,private unaided,ST,rural,79.2,High,0,pass,yes,13.02117949,no,
+S0446,Maya Iyer,15,female,9,government,general,urban,96.2,Low,0.86,pass,no,15.88729578,no,
+S0797,Sneha Joseph,15,male,9,private aided,SC,urban,80.5,Low,1.08,fail,no,20.22555899,yes,Child Labour
+S0627,Ishaan Patel,15,male,9,private aided,general,urban,56.3,Medium,1.44,pass,no,17.51069727,no,
+S0884,Ishaan Kumar,15,male,9,private unaided,general,urban,96.3,High,1.96,pass,no,13.08091056,no,
+S0631,Divya Singh,14,male,8,private aided,OBC,rural,71.1,Low,7.44,pass,no,16.25648286,no,
+S0490,Riya Reddy,16,female,10,government,SC,urban,80.9,Medium,1.08,pass,no,13.09729538,no,
+S1124,Riya Singh,15,male,9,government,SC,urban,79.9,Low,0.67,pass,yes,17.66366613,no,
+S1796,Ananya Patel,15,female,9,private unaided,OBC,urban,85.7,Low,7.36,pass,no,22.53405917,yes,Household Work
+S1520,Divya Patel,15,female,9,private aided,SC,urban,82.3,Medium,9.07,pass,yes,15.58125253,no,
+S0197,Riya Patel,15,male,9,private unaided,ST,rural,86.7,Medium,1.73,pass,no,13.91614465,no,
+S1023,Neha Sharma,16,male,10,private unaided,general,urban,71.3,High,2.43,pass,no,9.754075774,no,
+S1255,Karan Gupta,15,female,9,government,ST,urban,60,Low,0.58,fail,yes,27.85261073,yes,Lack of Interest
+S0136,Karan Singh,15,female,9,private unaided,general,rural,52.6,High,3.57,fail,no,32.16857113,yes,Other
+S0347,Arjun Iyer,15,male,9,private aided,OBC,rural,87.5,High,0.47,pass,no,10.81976251,no,
+S0640,Neha Naik,15,female,9,private aided,OBC,rural,79.2,High,2.9,pass,no,9.137215859,no,
+S1451,Aarav Reddy,16,female,10,government,OBC,urban,64.3,Low,1.77,fail,yes,26.17765816,yes,Lack of Interest
+S1497,Divya Naik,14,female,8,government,ST,urban,70.6,Medium,3.58,pass,yes,15.15612729,no,
+S0680,Priya Patel,14,male,8,private unaided,OBC,rural,71.6,Medium,1.19,pass,no,14.47296651,no,
+S1033,Karan Naik,16,female,10,government,ST,urban,78.2,Medium,1.4,pass,no,14.73303079,no,
+S0860,Kavya Singh,16,male,10,private unaided,OBC,rural,99.1,Medium,3.7,pass,yes,10.27387797,no,
+S0088,Ananya Naik,14,female,8,private aided,general,rural,77.2,High,9.1,pass,no,13.44486205,no,
+S0552,Divya Das,14,female,8,private unaided,general,urban,79.2,Medium,0.05,pass,no,12.66624692,no,
+S0847,Rahul Patel,15,male,9,private unaided,OBC,rural,65.6,Low,12.69,pass,yes,25.43861047,yes,Household Work
+S1404,Rahul Gupta,16,female,10,private aided,OBC,urban,83.3,Low,0.84,pass,no,16.87417948,no,
+S1287,Kavya Reddy,15,female,9,private aided,OBC,rural,53.7,Low,2.22,pass,no,22.72924614,yes,Early Marriage
+S0725,Rahul Patel,15,male,9,private unaided,OBC,urban,77,High,0.15,pass,no,14.20375315,no,
+S0610,Anjali Kumar,16,male,10,government,SC,rural,56.1,Medium,0.95,pass,no,12.22728043,no,
+S1933,Aarav Gupta,16,male,10,government,general,urban,80.6,High,0.8,pass,no,9.798332832,no,
+S0622,Aarav Kumar,14,female,8,government,OBC,rural,88.9,High,0.56,pass,no,11.86901129,no,
+S0401,Divya Iyer,14,male,8,private unaided,OBC,urban,72.1,Medium,1.92,pass,no,13.34070339,no,
+S0148,Divya Kumar,14,male,8,private unaided,OBC,urban,85.4,Medium,0.29,pass,no,16.42923349,no,
+S1152,Sonal Gupta,14,male,8,private unaided,SC,rural,77.2,Low,3.92,pass,no,16.04468111,no,
+S0913,Riya Kumar,14,male,8,private aided,OBC,urban,80.2,High,0.93,fail,yes,21.40815866,yes,Financial Issues
+S0247,Riya Patel,14,male,8,private aided,SC,rural,93.6,Medium,2.94,pass,no,8.936914892,no,
+S0727,Ananya Naik,14,female,8,private unaided,ST,rural,66.2,High,4.37,pass,no,18.15839586,no,
+S1495,Siddharth Sharma,15,male,9,government,SC,rural,64.8,Medium,1.51,pass,yes,15.59972301,no,
+S0838,Ananya Das,14,female,8,government,OBC,urban,79.6,Medium,2.15,pass,no,15.27985051,no,
+S1880,Ananya Reddy,14,male,8,private aided,general,urban,73.2,Medium,1.22,pass,yes,9.591706238,no,
+S0317,Siddharth Singh,14,male,8,private unaided,OBC,urban,87.1,Low,0.44,pass,yes,12.83355615,no,
+S1130,Pooja Singh,15,male,9,private unaided,SC,urban,81.2,High,0.23,pass,no,12.18900956,no,
+S0607,Arjun Naik,16,male,10,private aided,general,rural,87.9,High,9.24,pass,no,13.61965729,no,
+S1528,Riya Das,16,female,10,private aided,general,urban,88.1,High,1.47,pass,no,10.40384913,no,
+S1308,Vikram Iyer,15,female,9,private aided,OBC,urban,57,Medium,1.88,fail,no,26.12577602,yes,Household Work
+S1671,Ananya Kumar,14,male,8,private aided,OBC,urban,63.6,Low,0.77,pass,no,19.6833158,yes,Financial Issues
+S1895,Aarav Das,16,male,10,private aided,OBC,rural,53.5,High,4.31,pass,no,20.87593038,yes,Health Issues
+S1131,Sneha Patel,14,female,8,government,SC,rural,84.6,Low,4.3,pass,yes,13.45586785,no,
+S1498,Divya Naik,15,female,9,private unaided,OBC,urban,58.1,Low,1.06,pass,no,21.66833094,yes,Other
+S1259,Maya Das,15,male,9,private unaided,SC,rural,100,High,0.5,pass,no,14.46890248,no,
+S0345,Aditya Naik,14,female,8,private aided,general,urban,75.9,High,2.16,pass,yes,11.10468165,no,
+S0386,Manish Kumar,15,female,9,private aided,general,urban,73.3,Low,0.32,pass,yes,12.8968625,no,
+S1126,Vikram Kumar,16,male,10,private unaided,SC,urban,85.3,Medium,4.74,pass,yes,16.1966333,no,
+S1969,Karan Joseph,14,female,8,private unaided,OBC,urban,72.8,High,0.65,pass,no,14.64683893,no,
+S0442,Manish Das,16,female,10,private unaided,OBC,urban,76.5,Medium,1.36,pass,yes,15.12291516,no,
+S1228,Kavya Naik,16,female,10,private aided,general,urban,59.9,High,0.51,pass,yes,10.25912735,no,
+S0755,Rahul Patel,16,female,10,government,general,rural,67.7,High,0.1,pass,no,8.716156384,no,
+S0582,Maya Patel,16,female,10,private aided,SC,rural,81.9,Medium,0.44,pass,no,10.33751389,no,
+S0256,Pooja Kumar,16,female,10,government,OBC,urban,83.6,Medium,2.3,pass,no,15.65159729,no,
+S0219,Kavya Naik,14,female,8,private aided,SC,urban,75.3,High,1.49,pass,no,9.279993015,no,
+S0933,Aarav Reddy,14,female,8,private aided,OBC,rural,75.8,Low,0.69,pass,no,14.60539926,no,
+S0162,Maya Gupta,16,female,10,private aided,general,urban,57.8,Medium,0.07,fail,yes,21.81569231,yes,Lack of Interest
+S1915,Divya Das,16,female,10,private aided,OBC,rural,100,High,7.06,pass,no,14.0326535,no,
+S1294,Karan Patel,14,female,8,private unaided,general,urban,62,Low,0,fail,no,22.09106607,yes,Lack of Interest
+S1545,Kavya Singh,16,female,10,private unaided,ST,rural,81.8,High,2.43,pass,no,11.57427192,no,
+S1890,Manish Sharma,14,male,8,private unaided,OBC,rural,73,Medium,2.82,pass,no,13.35998627,no,
+S1577,Sonal Singh,14,male,8,private aided,general,rural,65.8,High,4.48,pass,no,11.31001155,no,
+S1760,Maya Sharma,14,female,8,private unaided,OBC,rural,94.9,Low,1.07,fail,yes,25.36895152,yes,Lack of Interest
+S0778,Rahul Reddy,15,female,9,private unaided,OBC,urban,43.9,High,0.45,fail,no,41.13261544,yes,Early Marriage
+S0108,Sonal Singh,16,male,10,government,general,urban,92.4,Medium,1.02,pass,yes,9.405845804,no,
+S0879,Aarav Joseph,14,female,8,private aided,OBC,urban,69.4,Low,3.09,fail,no,25.2573685,yes,Child Labour
+S0802,Ishaan Patel,16,female,10,government,OBC,urban,63.3,Low,2.24,pass,yes,17.42574549,no,
+S0990,Ananya Das,15,female,9,private unaided,ST,urban,71.4,Medium,1.37,pass,no,14.87666463,no,
+S0688,Rahul Singh,14,male,8,private unaided,general,rural,59,Medium,0.45,fail,no,23.2041352,yes,Lack of Interest
+S0019,Aditya Joseph,15,female,9,government,general,urban,74.8,Medium,0.05,pass,no,13.32157145,no,
+S1716,Karan Patel,14,male,8,government,ST,urban,80.4,Medium,0.11,pass,no,12.46427312,no,
+S0506,Maya Iyer,15,female,9,private unaided,OBC,rural,65.4,Medium,1.2,pass,no,15.69597606,no,
+S1884,Aditya Sharma,14,female,8,government,OBC,urban,89.8,Low,0.76,pass,no,17.17397489,no,
+S0436,Aarav Das,16,female,10,private unaided,OBC,rural,58.1,High,1.76,fail,no,23.23677006,yes,Household Work
+S1326,Sneha Naik,14,female,8,government,general,urban,70.7,Low,2.55,pass,yes,16.01565205,no,
+S1198,Manish Naik,15,female,9,government,general,rural,63,Medium,7.22,pass,no,15.86943835,no,
+S0270,Maya Gupta,16,male,10,government,SC,urban,62.6,High,0.68,pass,no,10.82300206,no,
+S1344,Sonal Kumar,16,female,10,private unaided,OBC,rural,93.4,Low,6.13,fail,yes,26.08790516,yes,Household Work
+S1256,Neha Gupta,15,female,9,government,general,rural,82.3,Medium,7.54,pass,no,15.73513049,no,
+S0565,Maya Das,14,male,8,private aided,OBC,urban,69.6,Medium,0.02,pass,no,10.45241057,no,
+S0216,Pooja Singh,15,female,9,private unaided,SC,rural,79.8,Medium,8.12,pass,yes,18.41615833,yes,Lack of Interest
+S1439,Vikram Reddy,15,male,9,government,SC,urban,100,Medium,0.42,fail,yes,22.0723955,yes,Other
+S0893,Rahul Kumar,15,female,9,private aided,general,urban,92.9,Low,0.1,pass,no,12.55347349,no,
+S0660,Anjali Reddy,15,male,9,private aided,general,rural,60.3,Medium,5.75,pass,no,10.78132646,no,
+S1359,Pooja Reddy,16,female,10,private unaided,general,urban,74,Medium,0.47,pass,no,14.38623086,no,
+S0353,Sonal Singh,15,male,9,private unaided,OBC,urban,80,Medium,0.44,pass,no,18.36486422,yes,Child Labour
+S0569,Maya Singh,14,male,8,government,OBC,urban,84.4,Low,2.27,fail,no,26.02758323,yes,Early Marriage
+S1992,Aarav Joseph,16,female,10,private unaided,OBC,urban,65.3,Medium,0.66,pass,no,11.30366046,no,
+S0167,Ishaan Das,16,female,10,private aided,OBC,urban,75.8,Low,4.23,pass,no,18.77916303,yes,Financial Issues
+S1723,Siddharth Singh,15,female,9,private aided,OBC,urban,58.5,Low,0.17,fail,yes,24.0110209,yes,Migration
+S1800,Divya Naik,15,male,9,government,general,urban,67.6,Low,0.84,pass,yes,16.8785192,no,
+S0358,Ishaan Gupta,15,male,9,government,SC,urban,61.5,Low,1.42,pass,no,16.33906808,no,
+S1587,Arjun Iyer,16,female,10,private unaided,SC,urban,74,High,0.55,pass,no,11.43179865,no,
+S1596,Aarav Joseph,15,male,9,private aided,OBC,rural,85.1,Medium,2.69,pass,no,15.11515563,no,
+S1735,Aarav Naik,16,male,10,private aided,OBC,rural,77.4,High,4.53,fail,no,20.35768753,yes,Financial Issues
+S1079,Siddharth Patel,14,female,8,private aided,OBC,urban,73.9,Medium,0.26,fail,no,21.87876531,yes,Financial Issues
+S0032,Arjun Das,14,male,8,government,ST,urban,70.4,High,6.5,pass,yes,11.06298475,no,
+S1928,Aditya Joseph,14,male,8,private unaided,SC,urban,68.6,Medium,0.07,fail,yes,22.4932261,yes,Health Issues
+S0174,Manish Naik,15,male,9,private aided,ST,urban,67.5,High,0.58,pass,no,13.93754291,no,
+S0104,Kavya Joseph,15,female,9,private aided,OBC,urban,66,High,0.42,pass,yes,8.929044683,no,
+S1823,Sonal Singh,14,male,8,government,OBC,rural,87.1,Low,13.44,fail,no,35.35799063,yes,Early Marriage
+S1586,Maya Iyer,14,male,8,government,ST,urban,63,Medium,1,pass,no,10.23192145,no,
+S1684,Neha Gupta,14,female,8,private unaided,SC,rural,77.4,Medium,3.34,pass,no,16.95915301,no,
+S0238,Sneha Iyer,16,male,10,private unaided,OBC,urban,89.9,Low,0.48,pass,no,15.11317236,no,
+S0512,Neha Das,15,female,9,government,OBC,rural,68.6,Low,1.71,fail,yes,24.61023945,yes,Financial Issues
+S0673,Pooja Gupta,15,male,9,private aided,SC,rural,58.3,Medium,3.47,pass,no,19.90963568,yes,Financial Issues
+S0920,Vikram Kumar,15,male,9,private unaided,SC,urban,65.4,Low,0.6,pass,no,18.0984407,no,
+S1547,Aditya Singh,14,male,8,private aided,OBC,urban,71,Low,0.03,pass,no,15.42553798,no,
+S0926,Vikram Iyer,16,female,10,private unaided,general,urban,74.1,Medium,1.03,pass,no,15.1757831,no,
+S1869,Pooja Iyer,16,male,10,private unaided,OBC,rural,74.4,Low,3.52,pass,no,19.0139502,yes,Financial Issues
+S0734,Pooja Naik,14,male,8,government,OBC,rural,71.3,Low,7,pass,yes,17.72137716,no,
+S0406,Sneha Kumar,15,female,9,government,general,rural,71.3,High,0.36,pass,no,11.43883234,no,
+S0334,Aditya Reddy,16,female,10,private unaided,general,urban,62.9,Low,0.54,pass,no,14.44975205,no,
+S1605,Manish Joseph,16,male,10,private aided,ST,urban,78.5,Medium,0.7,pass,no,10.90170837,no,
+S1045,Sonal Joseph,16,female,10,private unaided,OBC,urban,73.8,Medium,1.52,pass,no,16.00556015,no,
+S1668,Siddharth Joseph,14,male,8,government,general,rural,39.1,Low,2.55,fail,no,46.98690073,yes,Financial Issues
+S1667,Ananya Singh,14,female,8,private aided,general,rural,76,Medium,1.13,pass,no,13.79755008,no,
+S1261,Divya Reddy,16,male,10,government,general,urban,83.9,High,7.5,pass,no,14.16469123,no,
+S0681,Siddharth Patel,14,male,8,private unaided,general,rural,63.1,High,6.5,fail,no,19.52393139,yes,Household Work
+S1396,Siddharth Iyer,14,male,8,government,SC,urban,60.1,Medium,2.01,fail,no,22.02500529,yes,Lack of Interest
+S1283,Ananya Gupta,15,female,9,private unaided,ST,rural,43.7,Medium,6.66,fail,no,46.26900777,yes,Lack of Interest
+S0421,Aditya Singh,14,female,8,private unaided,OBC,rural,77.1,Medium,16.64,pass,no,24.0453379,yes,Lack of Interest
+S1286,Manish Gupta,16,male,10,private aided,OBC,urban,62.1,Low,1.59,pass,no,13.29664172,no,
+S0183,Rahul Iyer,15,female,9,private unaided,SC,rural,81.6,Medium,7.82,pass,no,18.42630323,yes,Early Marriage
+S1223,Sneha Iyer,14,female,8,government,SC,rural,90.4,Low,3.45,fail,yes,23.97153433,yes,Household Work
+S0431,Priya Iyer,15,female,9,government,ST,urban,52.9,Medium,1.1,fail,yes,32.31576403,yes,Lack of Interest
+S1401,Vikram Naik,15,female,9,government,OBC,urban,78.6,Low,2.32,pass,no,18.4957108,yes,Household Work
+S1139,Aarav Naik,16,male,10,private unaided,OBC,urban,52.3,High,0.12,pass,no,23.66461249,yes,Financial Issues
+S0908,Aditya Patel,16,female,10,government,general,urban,75.7,Medium,1.92,pass,no,15.70072428,no,
+S1184,Manish Iyer,15,female,9,government,OBC,urban,60.4,Medium,0.08,pass,no,14.56601619,no,
+S0511,Ananya Patel,14,male,8,private unaided,OBC,urban,100,Medium,2.61,pass,no,12.93260667,no,
+S0073,Karan Kumar,14,male,8,private unaided,general,urban,88.7,Medium,0.41,pass,no,10.12735391,no,
+S0736,Kavya Joseph,14,male,8,private unaided,SC,rural,86.5,Low,1.44,pass,yes,16.02521247,no,
+S0024,Aditya Das,14,male,8,private aided,OBC,rural,77.4,Medium,5.97,pass,no,13.05543455,no,
+S0110,Divya Joseph,14,female,8,government,OBC,urban,64.7,High,0.04,pass,no,11.79875642,no,
+S0479,Pooja Sharma,14,male,8,government,general,rural,70,Medium,1.75,pass,no,8.097692527,no,
+S0279,Karan Singh,16,female,10,government,general,urban,56.8,Medium,0.93,pass,no,17.3201753,no,
+S0874,Anjali Iyer,15,male,9,private aided,OBC,urban,63.5,Low,0.73,pass,no,14.19935193,no,
+S1694,Karan Das,14,male,8,private unaided,SC,urban,73.1,Medium,6.16,fail,no,22.12842601,yes,Child Labour
+S1132,Divya Singh,16,female,10,government,general,rural,84.1,Low,5.81,pass,no,17.06673787,no,
+S0472,Siddharth Sharma,15,female,9,private aided,ST,urban,85.7,Medium,0.04,pass,yes,12.63752494,no,
+S1428,Neha Das,15,male,9,private unaided,ST,rural,71.2,Medium,7.28,pass,no,20.19215955,yes,Other
+S1243,Aditya Kumar,14,male,8,private aided,OBC,urban,55.8,Medium,0.86,pass,no,17.87836958,no,
+S0748,Sneha Sharma,14,female,8,private aided,general,rural,65.9,High,4.75,pass,yes,8.468765192,no,
+S0668,Siddharth Das,15,female,9,private unaided,ST,rural,59.1,Medium,0.3,pass,no,17.59954875,no,
+S0836,Maya Joseph,15,male,9,government,ST,rural,100,High,3.33,pass,no,14.41859887,no,
+S1324,Maya Patel,15,male,9,private aided,ST,rural,85.2,Low,0.1,pass,yes,14.97443338,no,
+S1176,Aarav Sharma,16,male,10,private unaided,OBC,urban,89.8,Medium,2.15,fail,no,23.97868814,yes,Lack of Interest
+S1584,Sonal Kumar,14,male,8,private unaided,ST,urban,78.6,Medium,1.06,pass,no,14.64388239,no,
+S1161,Sneha Singh,14,male,8,private aided,OBC,urban,65.1,Low,0,pass,no,13.51255684,no,
+S1187,Manish Reddy,16,male,10,private aided,OBC,rural,82.5,Medium,2.56,pass,no,13.62374236,no,
+S1032,Divya Patel,16,male,10,government,SC,urban,56.8,Low,0.79,fail,yes,28.95022589,yes,Migration
+S1447,Pooja Reddy,15,female,9,government,OBC,urban,43.4,Medium,3.07,pass,no,35.36448064,yes,Child Labour
+S1839,Vikram Kumar,16,female,10,private unaided,OBC,rural,83,Low,1.68,fail,no,25.86371716,yes,Lack of Interest
+S0035,Sneha Gupta,16,male,10,private unaided,SC,urban,87.4,Low,2.21,pass,no,18.65516801,yes,Financial Issues
+S1807,Arjun Gupta,14,female,8,private unaided,OBC,urban,85.8,Low,0.59,pass,no,16.21147757,no,
+S0414,Pooja Patel,14,female,8,private unaided,OBC,urban,95.4,Medium,4.45,pass,no,12.84070142,no,
+S0122,Aditya Naik,15,male,9,private aided,ST,urban,76.8,Low,6.92,fail,no,27.9477482,yes,Early Marriage
+S0834,Ananya Singh,14,male,8,private aided,OBC,rural,75.3,Low,3.13,pass,no,11.76265742,no,
+S1642,Aarav Joseph,15,male,9,private aided,OBC,urban,61.4,High,0.75,pass,yes,11.84269095,no,
+S0092,Arjun Joseph,16,male,10,private aided,OBC,urban,78.6,Medium,2.27,pass,no,10.7839071,no,
+S1378,Pooja Reddy,15,male,9,government,general,urban,71,Low,1.67,pass,no,10.6694923,no,
+S0761,Divya Iyer,16,female,10,private aided,OBC,urban,60.5,Medium,1.45,pass,no,12.30138305,no,
+S0368,Sonal Reddy,15,male,9,private unaided,SC,rural,88.1,High,2.04,pass,no,14.52246949,no,
+S1747,Maya Das,15,male,9,government,SC,rural,87.5,Low,11.73,pass,no,21.07066326,yes,Early Marriage
+S0979,Ananya Kumar,16,male,10,private aided,general,urban,68.6,Medium,2.02,pass,no,12.06366318,no,
+S1009,Anjali Patel,15,male,9,government,SC,urban,75.9,High,0.17,pass,no,10.15933468,no,
+S0313,Arjun Kumar,16,female,10,private unaided,OBC,urban,82.7,Medium,0.25,pass,no,15.03904934,no,
+S0766,Anjali Sharma,15,male,9,private unaided,OBC,urban,71,Medium,0.41,pass,yes,15.02289482,no,
+S1054,Neha Naik,14,male,8,private unaided,general,urban,62.7,Medium,1.96,pass,no,13.70450907,no,
+S1610,Rahul Iyer,15,female,9,private unaided,general,urban,68.5,High,0.5,pass,no,13.38205056,no,
+S1757,Pooja Das,16,female,10,private aided,OBC,rural,79.7,Medium,0.35,pass,no,11.31517997,no,
+S1137,Sneha Naik,14,female,8,private unaided,OBC,urban,65.5,Low,2.48,pass,no,17.27256995,no,
+S0274,Anjali Das,14,male,8,private unaided,SC,rural,77.6,Low,10.15,pass,no,21.01512059,yes,Lack of Interest
+S0542,Aditya Gupta,15,male,9,private unaided,general,rural,48.6,Medium,6.34,pass,no,28.47008952,yes,Household Work
+S1982,Karan Sharma,16,female,10,private unaided,ST,urban,45.1,High,0.22,pass,no,35.263801,yes,Early Marriage
+S1424,Ananya Singh,16,male,10,private aided,OBC,rural,78.9,Medium,2.82,pass,no,12.97364917,no,
+S0588,Vikram Naik,15,male,9,government,general,urban,82.6,Low,2.53,pass,no,18.84471946,yes,Child Labour
+S0949,Arjun Naik,14,male,8,private aided,SC,urban,77,Low,1.86,pass,yes,10.49882322,no,
+S1847,Neha Joseph,16,female,10,private unaided,OBC,rural,89,Low,12.65,fail,no,29.86446952,yes,Child Labour
+S0608,Aditya Gupta,15,female,9,private unaided,OBC,urban,74.5,Medium,0.82,pass,no,17.50165407,no,
+S0499,Sonal Reddy,16,male,10,private unaided,OBC,urban,93.6,High,0.14,fail,yes,22.45454325,yes,Child Labour
+S0210,Siddharth Sharma,15,female,9,private unaided,general,rural,73.1,Medium,2.71,pass,no,16.92255983,no,
+S0655,Aditya Patel,15,male,9,private unaided,OBC,urban,74.2,Low,3.07,pass,no,17.57829627,no,
+S1173,Neha Das,15,male,9,government,OBC,rural,45.7,Low,4.01,fail,no,44.23720168,yes,Household Work
+S1472,Sonal Naik,15,female,9,private unaided,SC,urban,77.5,Low,2.44,pass,no,16.244976,no,
+S1011,Rahul Singh,16,male,10,private unaided,general,urban,100,High,4.51,pass,yes,14.93971862,no,
+S0407,Divya Patel,14,male,8,private unaided,OBC,rural,78.9,Medium,2.19,fail,no,21.60073652,yes,Household Work
+S0516,Vikram Sharma,15,male,9,government,OBC,rural,88.3,Low,8.08,fail,yes,31.20597154,yes,Other
+S0284,Ishaan Iyer,16,male,10,government,general,rural,63.5,Medium,1.11,pass,no,11.07553527,no,
+S1677,Sonal Das,15,female,9,government,OBC,rural,79.2,High,3.03,fail,no,27.08321702,yes,Child Labour
+S0779,Sonal Singh,16,male,10,private aided,SC,rural,68.4,High,3.07,fail,no,21.4014666,yes,Household Work
+S0861,Maya Patel,16,female,10,private unaided,OBC,rural,87.3,Medium,1.26,pass,no,14.80691926,no,
+S0079,Sneha Gupta,15,female,9,private unaided,OBC,rural,56.4,Low,4.14,pass,no,23.78206003,yes,Lack of Interest
+S0510,Sneha Naik,15,female,9,private aided,OBC,urban,77.7,Medium,1.03,fail,no,24.30504201,yes,Financial Issues
+S1937,Priya Gupta,16,male,10,private aided,OBC,rural,59.5,Medium,0.25,pass,no,10.97795013,no,
+S0982,Arjun Gupta,16,male,10,private aided,OBC,urban,69.8,Low,3.62,pass,no,14.54682492,no,
+S1340,Kavya Singh,15,female,9,private unaided,general,urban,76.7,Low,0.51,pass,no,16.30795723,no,
+S0025,Sneha Patel,15,female,9,private aided,general,rural,83.9,Low,0.37,pass,no,12.24124874,no,
+S1260,Karan Gupta,16,male,10,private aided,OBC,rural,72,Low,1.36,pass,no,12.25810317,no,
+S1481,Arjun Sharma,14,male,8,private aided,general,urban,82.2,Medium,1.19,pass,yes,11.69546848,no,
+S1682,Kavya Sharma,14,female,8,private aided,general,rural,76.3,Low,5.28,pass,yes,18.85445208,yes,Child Labour
+S1070,Aditya Singh,16,male,10,government,ST,urban,91.7,Low,0.11,fail,no,23.85959235,yes,Financial Issues
+S0402,Ananya Kumar,15,male,9,private aided,SC,rural,70.5,Low,7.74,pass,no,17.47122951,no,
+S0762,Aarav Joseph,16,female,10,government,general,urban,82.2,High,1.58,pass,no,12.60984902,no,
+S0867,Rahul Kumar,15,male,9,private unaided,general,urban,61.3,Low,0.6,pass,no,18.74940222,yes,Other
+S0370,Pooja Das,15,female,9,private aided,general,urban,69.9,Medium,0.01,pass,yes,9.032865282,no,
+S0935,Aarav Gupta,16,female,10,private unaided,OBC,urban,67.3,Medium,2.92,pass,no,17.76429344,no,
+S1664,Rahul Joseph,15,female,9,government,OBC,urban,72.7,Medium,0.15,pass,no,13.52598268,no,
+S1637,Priya Das,15,female,9,private unaided,OBC,rural,74.5,Medium,1.08,pass,no,14.82718024,no,
+S0985,Pooja Singh,14,male,8,private aided,SC,urban,63.8,Low,2.65,pass,no,13.7022675,no,
+S1731,Karan Das,15,male,9,private aided,ST,urban,56.8,Medium,1.05,fail,no,29.35757528,yes,Financial Issues
+S1074,Sneha Patel,15,female,9,private unaided,OBC,urban,67.9,High,0.91,pass,yes,13.9300622,no,
+S0029,Manish Sharma,15,female,9,government,general,rural,69.5,Low,1.32,fail,no,27.682735,yes,Lack of Interest
+S0531,Manish Kumar,14,male,8,private unaided,SC,urban,82.3,Low,0.16,pass,no,17.268335,no,
+S1459,Maya Joseph,16,male,10,government,general,urban,78.4,Low,2.71,fail,no,22.89356731,yes,Early Marriage
+S0419,Aditya Patel,15,male,9,government,ST,urban,78.7,Medium,1.51,pass,no,14.65112323,no,
+S0332,Rahul Singh,15,male,9,private unaided,ST,rural,71.1,Low,6.78,pass,no,21.19058182,yes,Lack of Interest
+S1190,Karan Kumar,15,male,9,private aided,OBC,urban,62.1,Medium,0.52,pass,no,14.59154578,no,
+S0455,Arjun Iyer,14,female,8,private unaided,SC,urban,85,Low,0.43,pass,no,14.43145232,no,
+S0114,Siddharth Gupta,16,female,10,private unaided,general,urban,83.6,Medium,3.95,pass,no,16.00084412,no,
+S0175,Riya Singh,15,female,9,private unaided,OBC,urban,67.9,High,0.19,pass,no,12.56460494,no,
+S1372,Maya Gupta,15,male,9,private unaided,OBC,rural,79.1,Low,3.54,fail,no,26.97153178,yes,Financial Issues
+S1945,Kavya Iyer,14,male,8,government,OBC,urban,39.8,Medium,0.72,pass,no,32.03323506,yes,Lack of Interest
+S1123,Priya Gupta,15,male,9,private unaided,general,urban,65.7,Low,0.53,fail,no,26.35353806,yes,Early Marriage
+S0115,Vikram Das,14,female,8,private unaided,OBC,urban,80.7,High,4.97,fail,no,24.44770693,yes,Other
+S1802,Sneha Joseph,16,female,10,private aided,SC,urban,52.4,High,0.34,fail,no,30.36382111,yes,Other
+S1464,Kavya Iyer,16,female,10,private unaided,general,urban,72.6,Medium,3.21,pass,no,18.46035582,yes,Lack of Interest
+S0351,Vikram Reddy,16,female,10,private aided,OBC,rural,84.1,Low,5.09,fail,no,28.93355758,yes,Financial Issues
+S1936,Anjali Naik,14,female,8,government,OBC,urban,85.7,High,1.47,pass,no,11.26308624,no,
+S1790,Ishaan Joseph,14,male,8,private aided,OBC,urban,66,Low,0.41,pass,no,12.47332401,no,
+S1818,Vikram Gupta,16,male,10,private unaided,OBC,urban,90,Low,3.96,fail,yes,24.77482577,yes,Other
+S1508,Aarav Naik,16,male,10,private unaided,OBC,urban,60.2,Medium,2.26,fail,no,26.09982359,yes,Early Marriage
+S0586,Sneha Naik,15,male,9,government,OBC,urban,67.2,Medium,3.07,pass,no,15.70045972,no,
+S1873,Rahul Singh,16,male,10,private unaided,ST,rural,88.2,Low,0.17,pass,no,16.27981387,no,
+S1811,Aditya Iyer,14,male,8,private unaided,general,urban,55.1,High,2.2,fail,no,26.16951831,yes,Financial Issues
+S1114,Riya Joseph,15,male,9,private unaided,OBC,urban,77.7,Medium,0.79,fail,no,28.25470384,yes,Other
+S1452,Anjali Singh,14,male,8,government,general,rural,70.1,Medium,0.92,pass,no,7.353535762,no,
+S0711,Ishaan Naik,16,female,10,private unaided,general,rural,81.8,Medium,1.28,pass,yes,12.49834771,no,
+S1339,Kavya Patel,14,male,8,private aided,ST,rural,70.6,High,3.18,fail,no,18.51910045,yes,Early Marriage
+S1214,Rahul Kumar,14,male,8,private aided,OBC,rural,77.9,Medium,2.45,pass,no,11.71447349,no,
+S0277,Manish Singh,15,female,9,private unaided,SC,urban,68.6,Medium,0.69,pass,no,15.25895155,no,
+S1563,Sonal Naik,14,female,8,private unaided,OBC,rural,78,Medium,14.5,pass,yes,25.39672789,yes,Migration
+S1027,Anjali Naik,14,female,8,government,OBC,rural,77.6,Low,0.48,fail,no,23.45694017,yes,Other
+S0190,Sneha Iyer,15,female,9,private unaided,OBC,rural,73.4,Low,3.41,pass,yes,19.83211961,yes,Lack of Interest
+S0264,Karan Naik,15,female,9,government,SC,urban,63.7,High,0.64,pass,no,12.58654211,no,
+S1559,Neha Singh,16,female,10,government,SC,rural,61.4,Medium,7.95,pass,yes,15.94021123,no,
+S0718,Aarav Reddy,16,male,10,private aided,general,urban,56.3,Medium,1.58,pass,no,14.19053739,no,
+S1578,Sneha Reddy,15,female,9,private aided,OBC,urban,59.4,Low,0.1,fail,no,27.51767902,yes,Financial Issues
+S1712,Arjun Patel,14,male,8,private aided,general,urban,80.4,Medium,0.05,pass,no,7.942789947,no,
+S0593,Vikram Patel,16,male,10,private aided,OBC,rural,67.2,Medium,8.22,pass,no,16.75875146,no,
+S0560,Neha Reddy,15,female,9,private aided,OBC,rural,83.5,Low,2.63,pass,no,13.96707718,no,
+S0177,Siddharth Joseph,16,male,10,government,OBC,rural,85.8,Low,5.31,fail,no,27.35202839,yes,Household Work
+S1597,Kavya Iyer,15,female,9,private unaided,OBC,urban,74.4,High,0.99,pass,yes,19.99565086,yes,Early Marriage
+S0435,Divya Reddy,16,female,10,private unaided,SC,urban,67.7,Low,0.51,fail,no,28.60289159,yes,Other
+S0703,Neha Singh,14,male,8,private aided,SC,rural,82.6,Low,0.98,pass,no,10.8658757,no,
+S0876,Siddharth Iyer,15,female,9,government,general,urban,93.5,Low,0.67,pass,no,14.08634482,no,
+S1896,Kavya Das,15,female,9,private aided,OBC,rural,58.7,Low,2.33,pass,no,15.5941132,no,
+S0993,Maya Singh,16,female,10,government,general,urban,86.4,High,3.34,pass,no,11.45304856,no,
+S1450,Ishaan Gupta,15,male,9,private aided,OBC,urban,76,High,0.19,pass,yes,11.70381962,no,
+S1837,Sonal Kumar,16,female,10,private unaided,SC,urban,72.1,High,1.96,pass,no,12.02717092,no,
+S0556,Riya Joseph,16,female,10,private unaided,general,urban,80.5,Low,2.79,pass,no,16.58768418,no,
+S1314,Ishaan Naik,15,male,9,government,ST,rural,96.5,Medium,4.74,pass,no,15.22133878,no,
+S0788,Aarav Naik,15,female,9,government,SC,urban,55.6,Medium,2.31,pass,no,20.69979547,yes,Child Labour
+S1462,Manish Singh,15,female,9,government,OBC,urban,89.7,Medium,2.35,fail,no,23.83647288,yes,Early Marriage
+S0885,Aarav Kumar,16,male,10,private unaided,OBC,urban,67.8,High,1.41,pass,no,12.61480259,no,
+S0125,Arjun Singh,14,male,8,private unaided,SC,urban,88,High,0.67,fail,yes,23.13541499,yes,Other
+S1603,Aditya Patel,15,male,9,private aided,OBC,urban,97.8,Medium,1.01,pass,no,14.33070496,no,
+S1254,Siddharth Kumar,14,female,8,private unaided,OBC,urban,75,Low,0.66,fail,no,26.65066068,yes,Financial Issues
+S0176,Ishaan Iyer,15,male,9,private unaided,general,urban,85.2,Low,1.79,pass,no,12.09171227,no,
+S0064,Arjun Naik,15,male,9,private unaided,SC,urban,79.8,Low,1.82,pass,no,17.1736898,no,
+S0522,Pooja Reddy,14,male,8,private unaided,general,rural,76.8,Medium,5.44,fail,no,23.44028091,yes,Early Marriage
+S0090,Kavya Das,14,male,8,private unaided,ST,rural,84.4,Medium,1.72,pass,yes,12.91198478,no,
+S1226,Ishaan Reddy,14,female,8,private aided,OBC,rural,88.7,High,4.49,pass,yes,6.490592374,no,
+S0702,Sneha Naik,15,male,9,private unaided,SC,rural,100,Low,0.74,fail,no,27.56488683,yes,Child Labour
+S0204,Vikram Iyer,15,female,9,private unaided,ST,urban,77.8,Low,6.47,fail,no,34.21615208,yes,Lack of Interest
+S0959,Ananya Patel,16,male,10,private unaided,OBC,urban,89.6,Medium,0.65,pass,no,12.86177573,no,
+S1235,Sonal Kumar,14,female,8,government,general,rural,72.7,Low,6.58,pass,no,11.7173942,no,
+S0235,Siddharth Singh,14,male,8,private aided,general,urban,54.4,Medium,5.26,pass,no,19.78812549,yes,Child Labour
+S1708,Kavya Singh,15,female,9,private unaided,OBC,urban,69.4,Low,0.73,pass,yes,16.92996116,no,
+S1931,Arjun Naik,14,female,8,private unaided,OBC,urban,78,Medium,2.62,pass,no,10.75338642,no,
+S1080,Neha Gupta,16,female,10,private aided,ST,rural,70.6,Medium,0.09,pass,no,12.57952844,no,
+S0159,Ishaan Gupta,15,male,9,private aided,OBC,urban,36.1,Low,0.29,fail,yes,53.8660185,yes,Child Labour
+S1775,Anjali Singh,14,female,8,private unaided,ST,rural,73.7,High,1.65,pass,no,13.29117687,no,
+S1833,Anjali Joseph,14,male,8,government,OBC,rural,79.4,Medium,1.4,pass,no,14.6920315,no,
+S0954,Kavya Gupta,14,female,8,private unaided,OBC,urban,74.7,Medium,0.29,pass,yes,14.65523399,no,
+S0289,Neha Singh,14,female,8,private aided,OBC,urban,95.2,High,2.34,pass,yes,14.11177912,no,
+S1175,Sneha Naik,15,male,9,private unaided,OBC,rural,86.6,Low,13.53,pass,no,28.15334,yes,Household Work
+S0818,Neha Das,15,male,9,private aided,SC,urban,64.9,Low,0.38,pass,yes,13.7859164,no,
+S0308,Neha Joseph,14,male,8,private aided,general,rural,84,Medium,1.31,fail,no,17.15732299,no,
+S0209,Aditya Gupta,15,female,9,government,general,rural,85.3,High,0.47,pass,no,9.505971255,no,
+S1783,Arjun Sharma,15,male,9,government,OBC,rural,61.1,Medium,4.55,pass,yes,14.95493178,no,
+S0403,Karan Sharma,16,female,10,government,OBC,rural,70.7,Low,4.41,pass,no,16.51011159,no,
+S0223,Sneha Patel,16,female,10,private aided,OBC,urban,100,Medium,0.49,pass,yes,8.881710243,no,
+S0921,Siddharth Kumar,14,female,8,private aided,OBC,urban,76.5,Medium,0.34,pass,no,13.84560575,no,
+S1321,Sonal Reddy,15,male,9,government,ST,urban,74.9,Medium,0.72,pass,no,12.26598771,no,
+S1272,Neha Joseph,16,female,10,government,OBC,urban,83.2,High,1.31,pass,no,12.7184805,no,
+S1242,Sneha Iyer,15,male,9,government,general,rural,82.1,Low,0.88,fail,yes,20.44998766,yes,Other
+S1484,Pooja Patel,16,female,10,private aided,ST,urban,92.5,Medium,2.09,pass,yes,11.33056931,no,
+S1956,Sonal Naik,14,male,8,private unaided,general,rural,62.3,Low,1.77,pass,no,13.72848489,no,
+S0360,Kavya Iyer,15,female,9,private aided,OBC,urban,83.7,High,3.84,pass,no,13.46411712,no,
+S1414,Anjali Iyer,15,male,9,government,OBC,urban,71.6,Low,0.31,fail,no,27.27448984,yes,Other
+S1016,Ananya Kumar,15,female,9,private unaided,OBC,urban,59.2,Medium,0.07,pass,no,17.08029853,no,
+S0648,Aditya Naik,15,female,9,private unaided,OBC,urban,80.9,High,1.72,pass,no,13.70158319,no,
+S0049,Pooja Reddy,14,male,8,private unaided,general,urban,72.4,Medium,0.79,pass,yes,16.12362419,no,
+S1052,Divya Singh,16,male,10,private unaided,SC,urban,52.4,High,0.07,fail,no,29.30464784,yes,Lack of Interest
+S0713,Ishaan Kumar,14,female,8,private unaided,SC,urban,68,Low,0.39,pass,no,15.96579412,no,
+S1573,Riya Naik,15,male,9,private unaided,general,urban,74.3,Medium,0.49,pass,yes,13.3965415,no,
+S0314,Divya Kumar,15,female,9,private aided,general,urban,55.1,Low,0.98,pass,no,24.02523454,yes,Child Labour
+S1320,Siddharth Iyer,15,female,9,government,SC,urban,84.3,Low,1.24,fail,no,25.85973617,yes,Early Marriage
+S1377,Rahul Sharma,16,female,10,government,OBC,rural,88.5,Medium,0.84,pass,no,14.74709424,no,
+S0604,Ananya Naik,16,female,10,private unaided,general,urban,93.9,Medium,0.7,fail,no,20.91517859,yes,Lack of Interest
+S1222,Manish Kumar,14,male,8,private aided,OBC,urban,67.6,Medium,0.23,pass,no,13.05325965,no,
+S0882,Ananya Singh,14,male,8,private aided,SC,urban,68.6,Low,0.99,pass,no,14.53572768,no,
+S0109,Siddharth Sharma,14,male,8,private aided,general,urban,82.5,Medium,0.49,pass,no,10.59069712,no,
+S1434,Sonal Naik,14,female,8,government,general,urban,71.5,Low,0,pass,yes,12.68873961,no,
+S1162,Maya Patel,14,male,8,private unaided,general,urban,88.5,Medium,1.07,pass,no,12.11621384,no,
+S1257,Ishaan Kumar,16,male,10,private aided,OBC,rural,69.4,Medium,2.24,pass,no,13.90697671,no,
+S0895,Maya Sharma,14,male,8,private unaided,OBC,urban,45.9,Low,0.64,fail,no,42.61548916,yes,Lack of Interest
+S1059,Riya Joseph,14,male,8,private aided,OBC,rural,91.7,Low,6.91,pass,no,19.77989001,yes,Lack of Interest
+S0501,Arjun Iyer,14,female,8,government,OBC,rural,67.6,Low,8.78,pass,yes,16.97860936,no,
+S0157,Riya Patel,15,male,9,private unaided,SC,urban,80.3,Low,0.96,fail,no,23.35418095,yes,Financial Issues
+S0102,Priya Singh,15,male,9,private aided,general,rural,80,Low,3.36,pass,no,15.79428059,no,
+S1163,Anjali Gupta,15,male,9,private unaided,OBC,urban,71.1,High,2.74,pass,no,20.67074399,yes,Child Labour
+S1454,Neha Iyer,16,male,10,government,OBC,urban,72.2,Low,1.06,pass,yes,15.66154964,no,
+S0865,Aarav Reddy,14,female,8,private unaided,SC,rural,83.4,Medium,6.22,pass,no,15.58030114,no,
+S1727,Vikram Singh,15,male,9,private aided,SC,urban,60.6,Medium,0.26,pass,no,11.52383747,no,
+S0804,Priya Naik,15,male,9,private unaided,SC,urban,81.4,Medium,0.16,pass,yes,14.09786365,no,
+S1244,Anjali Naik,14,male,8,government,OBC,urban,80.5,Low,1.35,fail,no,19.66125649,yes,Lack of Interest
+S1953,Pooja Joseph,15,male,9,government,OBC,urban,69.5,Low,0.28,pass,yes,13.91555994,no,
+S0530,Kavya Das,14,male,8,private unaided,SC,urban,93.9,Low,0.63,pass,yes,11.1047189,no,
+S0249,Rahul Naik,15,male,9,private unaided,general,rural,99.7,High,8.37,pass,yes,14.43743462,no,
+S0807,Ananya Iyer,16,male,10,private unaided,general,urban,87,Low,1.47,pass,no,15.34680714,no,
+S1824,Priya Singh,14,female,8,government,OBC,urban,59.9,Low,0.08,fail,no,19.01913509,yes,Early Marriage
+S1730,Riya Joseph,15,male,9,private aided,general,urban,68.6,Low,3.17,pass,yes,16.75115508,no,
+S0457,Anjali Naik,14,female,8,private aided,general,urban,80.2,Medium,0.3,pass,yes,10.37526171,no,
+S1619,Aarav Gupta,15,male,9,private aided,OBC,urban,81.4,Low,2.08,pass,no,15.8687462,no,
+S1301,Priya Naik,16,male,10,private unaided,OBC,urban,67.8,Medium,1.34,pass,no,16.81713543,no,
+S0647,Pooja Kumar,15,male,9,private unaided,OBC,urban,85.4,Medium,4.34,pass,no,18.54131445,yes,Lack of Interest
+S0182,Anjali Iyer,14,female,8,private aided,ST,urban,76.4,Low,2.25,pass,yes,14.25588574,no,
+S0129,Priya Joseph,15,female,9,private unaided,ST,urban,81.2,Medium,2.4,pass,no,17.04738943,no,
+S1518,Sonal Reddy,16,male,10,private aided,SC,urban,78.8,Low,1.29,pass,yes,13.1846611,no,
+S1435,Ananya Kumar,16,female,10,private aided,OBC,urban,86.7,Medium,1.09,pass,no,13.28919384,no,
+S0562,Siddharth Kumar,15,male,9,private aided,SC,urban,96.6,Low,1.01,pass,no,14.51064883,no,
+S0246,Ishaan Singh,15,female,9,private unaided,OBC,urban,90.3,Medium,1.67,pass,yes,15.02024235,no,
+S0063,Rahul Gupta,16,male,10,government,SC,urban,73.1,Low,1.1,fail,yes,20.93839238,yes,Child Labour
+S0914,Maya Patel,14,female,8,private unaided,OBC,urban,85.8,Low,0.8,pass,yes,17.2653615,no,
+S1522,Sneha Joseph,14,female,8,private unaided,SC,urban,72.1,High,0.67,pass,yes,12.55358215,no,
+S0502,Aarav Joseph,15,female,9,private unaided,OBC,urban,70.3,Low,4.67,pass,no,21.26472354,yes,Child Labour
+S0526,Arjun Sharma,16,male,10,private unaided,OBC,urban,75.6,Low,0.45,pass,no,15.30876178,no,
+S1778,Riya Patel,15,female,9,private unaided,general,rural,70.5,Low,2.01,pass,no,16.34610606,no,
+S1993,Neha Kumar,15,female,9,government,ST,urban,79,High,0.45,pass,no,16.79174707,no,
+S1389,Manish Gupta,15,male,9,private unaided,general,urban,74.2,Medium,1.98,pass,no,15.00366514,no,
+S0083,Vikram Naik,16,male,10,private unaided,OBC,urban,65.6,Medium,3.88,pass,yes,15.29975544,no,
+S1312,Sonal Joseph,15,female,9,private unaided,OBC,urban,72.8,High,1.79,pass,yes,12.55466485,no,
+S1213,Aditya Gupta,15,female,9,private aided,SC,rural,77.1,High,6.06,pass,no,12.71988763,no,
+S0956,Rahul Joseph,16,male,10,private unaided,OBC,urban,81.6,High,0.41,pass,no,12.55693543,no,
+S1160,Aditya Naik,14,female,8,private aided,OBC,urban,70.1,Medium,0.08,pass,no,12.71194552,no,
+S0780,Rahul Patel,16,female,10,private unaided,general,urban,79.7,High,0.36,pass,no,11.86484797,no,
+S1535,Ishaan Singh,16,male,10,private unaided,general,rural,79.4,Low,0.95,pass,no,13.98903695,no,
+S1850,Priya Iyer,14,female,8,private unaided,general,urban,75.4,High,0.72,pass,no,11.56418721,no,
+S1755,Riya Gupta,14,female,8,government,general,urban,61.1,Low,0.28,pass,yes,11.2000586,no,
+S1194,Sonal Reddy,15,female,9,private unaided,OBC,urban,94.7,Medium,0.33,pass,yes,14.0757474,no,
+S1897,Manish Gupta,14,female,8,private unaided,SC,urban,68.7,Low,2.52,pass,yes,15.77830215,no,
+S1632,Kavya Reddy,14,male,8,private aided,general,urban,49.4,High,3.62,fail,no,28.33190246,yes,Lack of Interest
+S1018,Ishaan Kumar,15,female,9,government,general,rural,66.7,Low,1.61,pass,no,14.41763646,no,
+S1107,Aarav Singh,16,female,10,government,OBC,urban,79.5,Medium,0.99,pass,no,16.20792154,no,
+S1791,Maya Joseph,16,female,10,private unaided,SC,urban,86.7,Medium,1.68,pass,yes,13.7990214,no,
+S0545,Vikram Kumar,15,male,9,private unaided,OBC,urban,59.6,High,4.52,pass,no,17.17766129,no,
+S0433,Aarav Singh,14,male,8,private unaided,SC,urban,81.2,High,0.13,pass,no,12.53429831,no,
+S0566,Siddharth Reddy,14,female,8,private aided,OBC,rural,52.3,Low,0.3,fail,yes,29.69038694,yes,Child Labour
+S1979,Aditya Naik,15,male,9,government,general,urban,65.5,Low,0.81,fail,no,26.16701658,yes,Lack of Interest
+S1051,Manish Patel,14,female,8,private unaided,OBC,urban,73.5,Low,1.29,pass,no,14.53971681,no,
+S0896,Siddharth Naik,15,male,9,private aided,general,urban,85.6,High,3.45,pass,no,15.51342081,no,
+S0492,Aarav Iyer,15,female,9,private aided,general,urban,68.6,Medium,0.31,pass,yes,11.60579942,no,
+S0130,Siddharth Joseph,14,female,8,private unaided,OBC,urban,100,High,1.57,pass,no,16.15042957,no,
+S0003,Aarav Kumar,16,male,10,private aided,ST,urban,72.2,Low,0.09,pass,no,14.18508587,no,
+S1929,Priya Joseph,15,female,9,private unaided,OBC,urban,80.1,Low,1.33,pass,no,19.01354581,yes,Lack of Interest
+S1638,Ishaan Kumar,14,female,8,government,SC,rural,69.9,Medium,0.2,pass,yes,10.98741463,no,
+S0674,Arjun Gupta,15,female,9,private aided,general,urban,55.3,Low,1.14,pass,yes,21.41341122,yes,Financial Issues
+S0013,Ananya Singh,16,female,10,private aided,OBC,urban,92.6,High,0.33,fail,no,20.70614938,yes,Early Marriage
+S1816,Manish Iyer,16,male,10,private aided,general,urban,63.1,Low,0.07,pass,no,15.06988066,no,
+S0503,Vikram Das,16,male,10,private unaided,general,urban,78.4,Medium,1.6,pass,no,15.73439188,no,
+S1490,Arjun Singh,15,female,9,government,OBC,urban,80.6,Low,2.13,pass,yes,16.10235282,no,
+S1192,Aditya Iyer,16,male,10,government,SC,urban,64.2,High,0.57,pass,no,9.821811486,no,
+S0473,Riya Gupta,15,female,9,private unaided,OBC,rural,76,High,11.19,pass,yes,19.40168724,yes,Financial Issues
+S0844,Neha Singh,14,male,8,private unaided,SC,urban,79.7,Low,0.31,pass,no,12.80759986,no,
+S0967,Anjali Das,16,male,10,private unaided,SC,urban,85.5,Medium,1.78,pass,no,12.94258925,no,
+S0056,Divya Reddy,16,female,10,private aided,OBC,urban,86.6,High,3.4,pass,no,12.25957246,no,
+S1591,Priya Joseph,16,female,10,private unaided,OBC,urban,97,Medium,2.25,pass,no,17.41592463,no,
+S1241,Anjali Patel,14,male,8,private aided,SC,rural,69.8,High,12.94,fail,no,25.2137661,yes,Financial Issues
+S0362,Vikram Naik,16,male,10,private unaided,general,urban,80.7,Low,1.4,pass,no,14.50631047,no,
+S1265,Manish Naik,15,male,9,government,general,urban,52.6,Medium,2.32,fail,no,32.5772126,yes,Child Labour
+S1738,Sonal Gupta,14,female,8,government,OBC,rural,81.6,Medium,7.16,pass,yes,16.95937602,no,
+S0259,Aditya Gupta,16,female,10,private unaided,OBC,rural,54.6,High,2.46,fail,no,27.69300353,yes,Lack of Interest
+S0758,Siddharth Reddy,16,male,10,government,OBC,urban,81.4,Medium,0.85,pass,yes,9.068585134,no,
+S0217,Maya Iyer,14,female,8,private unaided,general,urban,77.7,Medium,0.11,pass,no,14.21964971,no,
+S0374,Anjali Joseph,16,female,10,private unaided,ST,rural,59.5,Medium,2.41,pass,no,15.82096725,no,
+S0283,Siddharth Patel,16,female,10,private aided,SC,urban,73.5,High,1.14,pass,yes,13.40930752,no,
+S1983,Pooja Iyer,16,male,10,private unaided,general,urban,63.4,Medium,0.21,pass,no,9.86472102,no,
+S0941,Karan Naik,14,male,8,government,general,urban,75.3,Medium,5.12,pass,yes,14.73540496,no,
+S1918,Kavya Iyer,16,male,10,private unaided,general,urban,73.8,Medium,3.12,pass,no,14.48546834,no,
+S1083,Sonal Das,16,male,10,government,general,urban,83.4,High,1.39,pass,no,10.93044637,no,
+S0300,Riya Patel,14,male,8,private aided,SC,urban,69.2,Medium,0.5,pass,no,8.635686366,no,
+S0475,Aditya Kumar,15,female,9,private unaided,SC,urban,68.8,Medium,0.98,pass,no,19.03507622,yes,Financial Issues
+S1010,Priya Kumar,15,male,9,private unaided,general,urban,55.8,Low,0.73,pass,no,21.56660467,yes,Financial Issues
+S0931,Neha Joseph,14,male,8,government,ST,urban,97.5,Low,2.4,pass,no,14.32214955,no,
+S1267,Priya Das,15,female,9,private unaided,SC,urban,51.4,Medium,1.6,fail,no,35.21338904,yes,Early Marriage
+S0615,Ananya Singh,14,female,8,private aided,OBC,urban,74.7,Medium,0.43,pass,no,14.18075301,no,
+S1043,Arjun Joseph,16,female,10,government,OBC,urban,77,Medium,1.7,pass,no,13.11491149,no,
+S1502,Pooja Iyer,14,female,8,private unaided,OBC,rural,85.3,High,1.23,pass,no,10.64493971,no,
+S0188,Kavya Reddy,14,female,8,government,OBC,urban,75.3,Medium,3.39,pass,no,15.42655981,no,
+S1325,Arjun Reddy,14,female,8,private unaided,OBC,urban,56.8,High,1.83,fail,no,25.32523953,yes,Lack of Interest
+S0220,Riya Das,14,female,8,government,OBC,rural,81,Medium,4.76,pass,no,13.08659377,no,
+S1183,Neha Singh,15,male,9,private aided,OBC,urban,68.4,Low,0.69,pass,no,14.28223642,no,
+S1997,Aditya Das,15,female,9,government,SC,urban,61.7,Low,0.45,pass,yes,13.97447097,no,
+S1995,Kavya Joseph,16,male,10,private unaided,general,urban,91.5,Medium,1.99,pass,no,12.06008619,no,
+S1989,Sonal Das,16,female,10,government,SC,rural,73.8,Medium,3.23,pass,yes,15.63589751,no,
+S1789,Ananya Joseph,16,male,10,private unaided,ST,rural,63,Medium,2.12,fail,no,19.11819554,yes,Financial Issues
+S1583,Priya Naik,15,male,9,private aided,general,urban,70.7,Low,1.3,pass,no,15.3890151,no,
+S0126,Ananya Reddy,15,male,9,private aided,SC,rural,87.6,Low,1.39,pass,yes,14.71656408,no,
+S0996,Sonal Patel,15,male,9,private unaided,OBC,urban,73,Medium,0.05,pass,yes,15.01786105,no,
+S0387,Anjali Das,15,female,9,government,OBC,urban,74.6,Low,1.25,pass,no,17.95830624,no,
+S1663,Manish Gupta,15,female,9,private unaided,OBC,urban,82.7,Medium,0.1,pass,no,16.69192946,no,
+S1720,Riya Iyer,15,female,9,private aided,SC,urban,77.7,Low,1.2,pass,no,17.36783937,no,
+S1202,Priya Singh,14,male,8,private unaided,OBC,rural,84.4,Medium,2.5,fail,yes,23.83994291,yes,Child Labour
+S0135,Anjali Kumar,15,female,9,private aided,OBC,rural,100,Medium,1.35,pass,no,16.81078148,no,
+S1258,Sonal Kumar,15,female,9,private aided,general,urban,78.2,High,0.04,pass,no,7.245879859,no,
+S0547,Riya Gupta,16,female,10,private aided,OBC,rural,82.8,Low,2.18,pass,yes,11.95755628,no,
+S1515,Sonal Joseph,14,male,8,private aided,SC,urban,83.1,Low,3.29,pass,no,14.48287889,no,
+S1402,Pooja Joseph,15,male,9,government,ST,urban,83.7,Low,0.91,pass,no,12.81740254,no,
+S0293,Maya Iyer,14,male,8,government,OBC,urban,62.6,High,0.5,pass,no,13.03172334,no,
+S0043,Rahul Das,15,female,9,government,general,urban,79.3,Medium,2.15,pass,no,11.99324232,no,
+S0004,Anjali Singh,16,female,10,private unaided,ST,urban,72.2,Medium,3.02,pass,no,15.5081564,no,
+S1806,Siddharth Singh,15,male,9,private unaided,ST,rural,66.9,Medium,1.17,pass,no,14.2023094,no,
+S1741,Kavya Joseph,14,male,8,government,OBC,urban,72.8,High,2.79,pass,no,14.86948893,no,
+S1628,Kavya Kumar,14,female,8,private aided,SC,rural,69,High,30.89,pass,no,26.99135897,yes,Child Labour
+S0995,Priya Patel,16,male,10,government,general,urban,73.7,Medium,2.37,pass,no,12.49310017,no,
+S0813,Sneha Gupta,16,female,10,private aided,general,rural,67.3,Medium,15.64,pass,no,18.18273813,yes,Lack of Interest
+S1433,Ananya Singh,15,male,9,government,SC,rural,70,Low,0.72,pass,no,14.43991507,no,
+S1776,Sneha Das,15,female,9,private aided,OBC,urban,64.2,Low,3.07,pass,yes,14.39820862,no,
+S0852,Sneha Naik,16,male,10,government,ST,urban,70.2,Low,1.35,pass,no,15.75376421,no,
+S0410,Ishaan Naik,16,female,10,private aided,SC,urban,87.6,Low,0.72,pass,no,15.41967935,no,
+S1857,Arjun Reddy,15,male,9,private unaided,general,rural,90.3,Low,1.58,pass,no,14.94493663,no,
+S1527,Arjun Kumar,16,female,10,government,OBC,urban,79.6,Low,1.24,pass,no,13.40682097,no,
+S1581,Aditya Sharma,16,male,10,private unaided,general,rural,74.6,Low,1.44,pass,no,10.94955367,no,
+S1417,Rahul Reddy,14,male,8,private aided,general,urban,71,Medium,0.56,pass,yes,12.9434957,no,
+S1276,Kavya Kumar,15,female,9,private aided,OBC,urban,59,Medium,4.39,pass,no,15.78275336,no,
+S0091,Ananya Naik,14,male,8,private aided,OBC,urban,81.3,Medium,3.27,pass,no,11.68999827,no,
+S0380,Anjali Das,16,female,10,private unaided,general,rural,88.5,Medium,4.36,pass,no,15.98769331,no,
+S0138,Vikram Patel,14,female,8,private unaided,OBC,rural,88.1,Medium,2.95,pass,no,16.79893701,no,
+S1328,Neha Joseph,14,male,8,private unaided,general,urban,75.6,Low,1.05,pass,yes,16.92782877,no,
+S1809,Maya Singh,15,male,9,private unaided,OBC,rural,95,Low,4.59,pass,no,19.72776671,yes,Migration
+S0986,Kavya Patel,16,female,10,private aided,general,rural,88,Low,1.32,fail,no,23.17448595,yes,Lack of Interest
+S1891,Karan Naik,16,female,10,private unaided,OBC,rural,80.5,High,24.39,pass,no,28.59533168,yes,Lack of Interest
+S1607,Siddharth Reddy,14,male,8,private unaided,SC,rural,77.6,High,0.82,pass,no,11.78802143,no,
+S1828,Vikram Naik,16,male,10,private aided,OBC,urban,87.7,Medium,0.78,fail,yes,19.87845574,yes,Child Labour
+S1568,Arjun Patel,15,female,9,private aided,general,urban,66,Medium,0.36,fail,no,20.59368912,yes,Lack of Interest
+S0065,Divya Singh,15,male,9,private unaided,OBC,rural,78.1,Medium,13.13,pass,no,25.11752572,yes,Household Work
+S0037,Maya Singh,16,female,10,private aided,OBC,urban,64.9,High,2.98,pass,no,14.97475867,no,
+S0427,Divya Joseph,14,male,8,private aided,general,urban,87.3,High,0.35,pass,no,11.28512571,no,
+S1354,Manish Gupta,15,female,9,private unaided,general,rural,74.4,Medium,2.93,pass,no,13.10101515,no,
+S0833,Rahul Singh,16,female,10,private unaided,ST,urban,89.9,Medium,1.98,pass,yes,13.26544173,no,
+S0214,Aditya Das,14,male,8,government,OBC,rural,65.1,Low,3.5,pass,no,17.85701586,no,
+S0206,Priya Das,15,male,9,private aided,OBC,urban,58.1,Low,4.41,fail,no,29.33144204,yes,Early Marriage
+S0846,Neha Das,16,male,10,private aided,general,urban,67.7,Low,0.01,pass,no,13.74157703,no,
+S0137,Karan Iyer,15,male,9,private unaided,ST,urban,69.3,Medium,0.2,pass,no,15.83671849,no,
+S0196,Siddharth Iyer,14,female,8,government,OBC,rural,64.2,Low,3.19,pass,no,12.71573574,no,
+S1875,Neha Das,16,male,10,government,ST,rural,61.9,Medium,1.47,pass,no,9.989599401,no,
+S1787,Aarav Kumar,15,male,9,private aided,general,rural,59.2,High,8.69,fail,yes,22.91632901,yes,Child Labour
+S0261,Ananya Kumar,16,female,10,government,ST,rural,50.2,Low,4.01,fail,no,33.88700319,yes,Financial Issues
+S1421,Anjali Das,14,male,8,government,OBC,urban,80.8,High,0.55,pass,no,7.935925854,no,
+S0240,Rahul Naik,16,female,10,private aided,SC,rural,75.6,Medium,11.58,pass,no,17.31666965,no,
+S0001,Ananya Sharma,16,male,10,private aided,general,rural,81,Medium,5.27,pass,yes,8.731844511,no,
+S0546,Pooja Iyer,16,female,10,government,OBC,urban,85.5,Medium,0.25,pass,no,12.94455793,no,
+S0426,Sneha Naik,15,male,9,private unaided,SC,urban,63.3,Low,1.21,pass,no,15.276689,no,
+S0816,Priya Gupta,14,male,8,government,general,rural,81.1,Medium,4.27,pass,no,12.35854167,no,
+S0385,Anjali Singh,15,female,9,private unaided,SC,urban,77.4,Low,0.34,pass,yes,16.75512135,no,
+S1341,Divya Joseph,15,female,9,private aided,OBC,rural,62.6,Low,3.88,fail,no,24.64955999,yes,Other
+S1199,Vikram Singh,15,male,9,private unaided,OBC,urban,72.3,Medium,1.02,pass,no,15.59016694,no,
+S1934,Sonal Joseph,16,male,10,private unaided,general,rural,91.2,Medium,12.68,pass,no,19.7146841,yes,Early Marriage
+S0195,Anjali Iyer,16,female,10,private aided,OBC,urban,74.9,Low,0.09,pass,no,17.16171542,no,
+S1885,Arjun Singh,15,female,9,private unaided,ST,rural,71.6,Medium,2.13,pass,no,16.61165043,no,
+S1859,Aditya Gupta,14,female,8,private aided,general,rural,95.1,Medium,4.59,pass,yes,10.77562643,no,
+S0112,Aditya Das,16,male,10,private unaided,general,urban,80.8,Medium,4.62,pass,yes,12.10626369,no,
+S1105,Vikram Patel,14,male,8,government,OBC,urban,82.5,Low,4.32,pass,no,16.83416723,no,
+S0116,Riya Singh,15,male,9,private unaided,general,rural,74.1,Low,7.67,pass,no,20.32937464,yes,Early Marriage
+S1057,Neha Singh,16,female,10,private unaided,OBC,urban,60.7,Medium,0.55,pass,no,14.71567703,no,
+S1879,Sneha Reddy,14,female,8,private aided,SC,urban,58.6,Low,1.81,pass,no,16.13011491,no,
+S0075,Vikram Patel,14,female,8,private unaided,SC,rural,91.8,Medium,4.02,pass,no,11.87639697,no,
+S0146,Karan Sharma,14,female,8,private unaided,SC,urban,73.6,Low,4.93,pass,no,17.6625586,no,
+S0205,Vikram Gupta,14,female,8,private unaided,general,rural,57.6,High,6.7,fail,no,26.80471692,yes,Early Marriage
+S1579,Sneha Patel,14,male,8,private unaided,general,urban,82.1,High,0.24,fail,no,20.27926823,yes,Child Labour
+S1795,Vikram Sharma,14,male,8,private unaided,general,urban,60.6,Low,0.13,pass,no,9.630222186,no,
+S0977,Anjali Singh,16,female,10,private unaided,OBC,urban,88.3,Medium,1.19,pass,yes,15.30003068,no,
+S1926,Sonal Iyer,16,female,10,private unaided,SC,urban,73.2,Medium,3.49,pass,no,17.74196671,no,
+S0319,Kavya Singh,14,female,8,private aided,SC,urban,81.4,Medium,0.96,pass,no,9.531263362,no,
+S0151,Sonal Gupta,16,male,10,government,OBC,rural,59.9,Medium,12.39,fail,yes,27.72324988,yes,Lack of Interest
+S1779,Vikram Reddy,15,female,9,private aided,OBC,rural,60.2,Medium,3.39,pass,yes,15.99634121,no,
+S0269,Aarav Gupta,16,female,10,private unaided,general,urban,73.7,Medium,0.35,pass,yes,12.57021394,no,
+S1082,Anjali Patel,16,female,10,private aided,general,rural,94.2,Medium,9.21,pass,no,9.54748802,no,
+S0117,Ishaan Patel,16,female,10,government,SC,rural,64.8,High,7.62,pass,no,16.68091496,no,
+S1092,Maya Reddy,15,male,9,private unaided,OBC,urban,67.5,Medium,0.63,pass,no,19.06060009,yes,Migration
+S1504,Arjun Das,14,male,8,private unaided,general,urban,81.6,Low,0.47,pass,no,13.87091651,no,
+S0759,Arjun Sharma,16,male,10,government,OBC,urban,75.8,Medium,0.87,pass,no,13.56141131,no,
+S0568,Siddharth Singh,15,female,9,private unaided,ST,urban,45.9,Medium,0.52,fail,no,41.20737807,yes,Lack of Interest
+S1562,Divya Singh,16,female,10,private unaided,OBC,rural,65.3,Low,6.49,pass,yes,20.58271749,yes,Household Work
+S1193,Aarav Singh,16,female,10,private unaided,general,urban,60.7,Medium,1.87,fail,no,22.84929037,yes,Financial Issues
+S0981,Rahul Das,14,female,8,private unaided,ST,rural,83.5,Medium,1.38,pass,no,14.86291783,no,
+S0851,Pooja Iyer,14,female,8,private aided,SC,rural,95.7,High,8.69,pass,no,14.31365114,no,
+S1641,Aditya Gupta,15,male,9,private aided,general,rural,70,Medium,6.47,pass,no,11.2388539,no,
+S1363,Sneha Patel,14,male,8,private aided,OBC,rural,68.4,Low,3.66,pass,yes,17.07131458,no,
+S1768,Neha Sharma,16,male,10,private unaided,OBC,urban,80.3,High,1.85,pass,no,11.16321575,no,
+S0641,Sneha Patel,15,male,9,private aided,SC,urban,100,Low,0.23,pass,no,10.01414026,no,
+S0969,Vikram Sharma,15,female,9,private aided,OBC,urban,63,Low,0.05,pass,no,17.07280024,no,
+S1643,Vikram Kumar,14,male,8,government,ST,rural,68.6,Medium,5.93,pass,yes,15.96688111,no,
+S1375,Sneha Reddy,16,female,10,private unaided,OBC,rural,56.6,Medium,2.39,fail,no,25.58287716,yes,Early Marriage
+S1111,Ishaan Joseph,15,male,9,private unaided,general,urban,67.9,Medium,1.07,pass,no,15.72883485,no,
+S0193,Maya Singh,15,female,9,private unaided,SC,urban,88.9,Medium,2.35,pass,no,12.30586991,no,
+S0946,Ishaan Naik,15,female,9,government,general,urban,100,Low,3.31,fail,no,23.2476212,yes,Child Labour
+S1695,Neha Naik,16,male,10,private aided,OBC,urban,52.1,High,0.08,pass,no,21.61674654,yes,Lack of Interest
+S0623,Divya Sharma,14,male,8,government,general,rural,74.4,Medium,1.08,pass,no,9.979422877,no,
+S0394,Karan Singh,16,male,10,private unaided,OBC,urban,65.7,Medium,0.79,pass,no,14.9803725,no,
+S0172,Ishaan Das,15,male,9,private unaided,general,urban,82.1,Low,3.54,pass,no,18.93947517,yes,Lack of Interest
+S1116,Ananya Reddy,14,male,8,private aided,SC,urban,82.7,Medium,4.69,pass,no,13.43513215,no,
+S1560,Manish Singh,14,female,8,private unaided,OBC,urban,82.5,Low,3.26,pass,no,15.09752087,no,
+S0349,Pooja Kumar,14,male,8,government,OBC,urban,71.8,Medium,2.39,pass,no,16.52213905,no,
+S1353,Sonal Sharma,14,female,8,private aided,general,urban,79.1,Low,0.1,pass,no,11.21693653,no,
+S0722,Manish Singh,15,female,9,private unaided,SC,rural,80,Low,0.25,pass,no,16.59743856,no,
+S1601,Sneha Das,15,female,9,private aided,OBC,rural,93.8,Low,0.54,pass,no,14.03542603,no,
+S0008,Riya Gupta,15,male,9,government,OBC,rural,81.5,Low,0.81,pass,no,14.22247205,no,
+S1740,Anjali Naik,16,female,10,private unaided,OBC,urban,76.7,Medium,0.71,pass,no,12.83957567,no,
+S1812,Sneha Gupta,15,male,9,private aided,general,rural,68.7,High,1.03,pass,no,7.473106663,no,
+S0738,Sneha Sharma,15,female,9,private unaided,OBC,urban,59,Medium,4.15,pass,no,18.87938136,yes,Lack of Interest
+S1987,Sneha Das,15,female,9,government,OBC,rural,53,High,3.6,fail,no,35.58837787,yes,Household Work
+S1911,Pooja Naik,16,female,10,private unaided,SC,rural,74.1,Low,2.27,fail,no,21.27734987,yes,Household Work
+S0202,Aditya Sharma,15,female,9,private unaided,general,urban,68.9,Low,2.59,pass,yes,13.86615372,no,
+S0145,Maya Kumar,14,male,8,government,OBC,urban,65.5,Medium,0.04,pass,yes,13.64025614,no,
+S1620,Manish Das,15,male,9,private unaided,SC,urban,89.7,High,0.25,pass,no,11.60965208,no,
+S0971,Karan Reddy,16,male,10,private unaided,ST,rural,81.2,Low,8.2,pass,yes,21.53025635,yes,Other
+S0958,Sneha Das,15,female,9,private unaided,SC,rural,63.9,Medium,5.53,pass,no,20.08362836,yes,Early Marriage
+S0382,Priya Reddy,16,female,10,private unaided,SC,urban,61.7,Medium,8.65,pass,no,19.41662401,yes,Child Labour
+S1917,Sneha Das,16,male,10,government,OBC,urban,77.3,Medium,0.2,fail,yes,24.20088962,yes,Lack of Interest
+S1288,Maya Kumar,16,female,10,private unaided,SC,urban,78.8,Low,0.06,pass,no,15.63738988,no,
+S0815,Karan Sharma,14,female,8,private aided,OBC,urban,93.3,Low,2.51,pass,no,14.11102881,no,
+S0417,Riya Das,15,male,9,private unaided,general,urban,76.4,High,0.83,pass,no,12.15360937,no,
+S0080,Ananya Iyer,16,female,10,private aided,SC,urban,75.8,Low,0.29,pass,no,15.11237142,no,
+S1618,Divya Patel,16,male,10,government,SC,rural,71.3,Medium,1.22,pass,yes,8.834828903,no,
+S0016,Manish Joseph,15,male,9,private unaided,SC,urban,76.3,Low,0.28,fail,no,27.62603511,yes,Financial Issues
+S0699,Aditya Singh,15,female,9,government,general,rural,71.5,Medium,4.41,pass,no,15.11506846,no,
+S0119,Vikram Joseph,15,male,9,private unaided,ST,urban,77.6,Medium,4.13,pass,no,14.84196138,no,
+S0448,Sneha Sharma,14,male,8,private aided,SC,rural,68.3,Low,4.75,pass,yes,14.73759302,no,
+S1553,Sneha Reddy,14,male,8,private aided,OBC,urban,77.9,Medium,0.49,pass,no,9.58405545,no,
+S0966,Neha Singh,16,male,10,private unaided,general,urban,71.9,Low,2.72,pass,yes,13.68633987,no,
+S1342,Vikram Joseph,15,female,9,private unaided,ST,rural,58.8,Medium,1.63,pass,no,17.04831038,no,
+S0677,Ishaan Kumar,16,male,10,private unaided,OBC,rural,84.1,Medium,1.12,pass,yes,10.58023709,no,
+S1692,Aarav Kumar,15,female,9,government,OBC,urban,75.9,Medium,1.26,pass,no,15.17939073,no,
+S1626,Sonal Singh,15,male,9,government,ST,urban,49.6,Medium,0.25,pass,no,25.71139559,yes,Child Labour
+S0315,Sneha Patel,15,female,9,private aided,OBC,urban,67.2,Medium,0.62,pass,no,14.70177447,no,
+S0723,Manish Joseph,16,female,10,private unaided,general,urban,81.7,Medium,0.29,pass,no,11.42712484,no,
+S0480,Sonal Joseph,16,male,10,private aided,OBC,urban,71.6,Medium,0.51,pass,no,6.277842681,no,
+S1030,Sneha Joseph,16,female,10,private unaided,general,rural,75.3,Medium,4.85,pass,no,16.32800556,no,
+S1430,Pooja Patel,15,male,9,private unaided,OBC,urban,82.3,Low,1.41,pass,no,18.00158944,no,
+S1652,Karan Kumar,14,female,8,government,OBC,urban,77.6,Low,1.7,pass,no,17.02447222,no,
+S1050,Divya Naik,16,female,10,government,general,rural,76.3,Medium,2.19,pass,no,14.1873869,no,
+S0814,Manish Joseph,16,male,10,private aided,SC,urban,86.1,Low,1.38,pass,no,13.74281403,no,
+S1480,Siddharth Iyer,16,male,10,government,ST,rural,61.3,Medium,0.02,pass,no,11.73886991,no,
+S0551,Anjali Kumar,15,male,9,government,OBC,urban,72.1,Medium,0.36,pass,no,13.94072085,no,
+S0452,Priya Joseph,15,female,9,private unaided,ST,urban,82.4,Low,1.17,pass,no,19.13713455,yes,Other
+S0118,Aarav Joseph,16,female,10,private aided,general,rural,56.8,Low,1.52,pass,yes,18.34663076,yes,Other
+S1883,Siddharth Naik,14,male,8,private aided,ST,rural,62.7,Low,4.5,pass,no,14.53591767,no,
+S1523,Anjali Sharma,16,female,10,private unaided,OBC,rural,79,Medium,1.5,pass,no,14.63257491,no,
+S0975,Pooja Naik,16,female,10,private unaided,OBC,urban,83.1,Low,0.18,pass,no,16.2517864,no,
+S0124,Ishaan Patel,15,female,9,private unaided,OBC,urban,61.3,Low,2.03,pass,no,18.96751402,yes,Child Labour
+S0732,Priya Kumar,16,female,10,private unaided,OBC,urban,76.7,Low,1.47,pass,no,17.53847191,no,
+S0905,Vikram Singh,16,male,10,government,OBC,urban,66.2,High,2.85,pass,yes,9.456975502,no,
+S1335,Kavya Kumar,14,male,8,private unaided,general,rural,87.7,High,1.15,pass,yes,10.89499175,no,
+S1352,Neha Kumar,15,male,9,private aided,general,rural,78.1,High,1.29,pass,yes,12.48049138,no,
+S0099,Siddharth Naik,16,male,10,government,SC,urban,63.3,Low,0.59,pass,no,14.49354762,no,
+S0042,Pooja Iyer,15,male,9,private aided,OBC,urban,91.3,Medium,0.96,pass,no,16.31888174,no,
+S0425,Ishaan Patel,15,female,9,government,OBC,rural,77.4,Low,1.28,fail,yes,26.75420641,yes,Child Labour
+S1609,Rahul Iyer,14,male,8,private unaided,OBC,urban,67.7,Low,2.62,pass,no,16.73808643,no,
+S0782,Aditya Sharma,14,female,8,private unaided,general,urban,82,Medium,1.19,pass,yes,11.57285586,no,
+S0011,Anjali Naik,15,female,9,government,general,rural,62.8,Medium,1.38,pass,no,14.79477164,no,
+S0768,Manish Singh,15,female,9,private unaided,general,urban,71.4,Low,0.1,pass,no,16.09547047,no,
+S1178,Riya Gupta,15,female,9,private unaided,OBC,rural,77.4,Low,0.45,fail,no,26.62023969,yes,Early Marriage
+S0539,Maya Naik,15,male,9,private aided,OBC,rural,93.8,Low,4.6,pass,no,17.38303871,no,
+S0318,Anjali Naik,14,male,8,private aided,general,urban,68.1,High,1.72,pass,no,9.697522879,no,
+S1932,Neha Singh,16,female,10,private aided,OBC,rural,91.6,Low,3.99,pass,no,17.53430173,no,
+S0829,Arjun Kumar,16,male,10,private unaided,ST,rural,77.2,Medium,16.71,pass,no,20.94230257,yes,Child Labour
+S1888,Aditya Gupta,15,female,9,private aided,general,urban,70.9,Medium,5.23,fail,no,23.12153721,yes,Financial Issues
+S1117,Aditya Joseph,14,female,8,government,OBC,urban,72.6,Low,2.89,pass,no,17.3886123,no,
+S1770,Ishaan Sharma,14,female,8,government,OBC,urban,71.8,Low,1.2,pass,no,15.49060608,no,
+S1994,Karan Joseph,14,female,8,private unaided,general,urban,92.4,Low,1.78,pass,no,16.15595616,no,
+S0952,Arjun Gupta,16,female,10,government,OBC,rural,73.6,Low,1.77,pass,no,15.8708108,no,
+S0131,Karan Joseph,15,male,9,private unaided,ST,rural,86.4,Low,8.83,fail,no,31.55418937,yes,Migration
+S1172,Aarav Gupta,15,male,9,private unaided,OBC,rural,73.8,Low,4.65,pass,no,13.29914853,no,
+S1174,Rahul Gupta,14,male,8,private aided,OBC,urban,73.4,Medium,1.83,pass,no,11.47104784,no,
+S1714,Siddharth Das,14,male,8,private unaided,OBC,urban,67.1,Low,1.6,pass,no,15.21418939,no,
+S1062,Vikram Reddy,15,male,9,private unaided,general,urban,84.7,Low,1.31,pass,no,15.81670057,no,
+S0018,Riya Reddy,14,male,8,private unaided,OBC,urban,71.5,Medium,0.87,pass,no,16.49596748,no,
+S1726,Vikram Joseph,14,female,8,private unaided,OBC,urban,64.7,Medium,0.11,pass,no,14.17392809,no,
+S0864,Karan Das,14,female,8,private aided,general,urban,75,High,0.61,pass,no,5.416876564,no,
+S1777,Riya Iyer,16,female,10,private unaided,OBC,urban,40.1,Medium,0.61,fail,no,46.41847833,yes,Financial Issues
+S0580,Divya Kumar,14,female,8,government,SC,urban,71.6,Medium,1.75,pass,yes,15.14378484,no,
+S1230,Aditya Das,15,female,9,private aided,SC,urban,74.1,Medium,0.1,pass,no,11.35300091,no,
+S1403,Manish Iyer,14,female,8,private unaided,general,urban,58.9,Medium,1.83,fail,no,23.17660294,yes,Financial Issues
+S1220,Ishaan Gupta,16,female,10,private unaided,SC,urban,77.8,High,0.12,pass,no,12.36076248,no,
+S0887,Neha Iyer,16,female,10,private aided,general,urban,84.2,Medium,4.71,pass,no,10.56212886,no,
+S0307,Maya Sharma,14,female,8,government,SC,rural,76.2,High,3.39,fail,no,19.88010126,yes,Child Labour
+S1675,Siddharth Patel,16,female,10,private unaided,ST,urban,68.7,Medium,0.84,pass,no,15.15442593,no,
+S0712,Anjali Naik,14,male,8,government,OBC,urban,94.5,Low,0.12,pass,no,14.80912041,no,
+S0127,Ananya Das,15,female,9,private unaided,SC,rural,81.2,High,8.07,pass,yes,16.05290774,no,
+S0226,Aditya Patel,16,female,10,private aided,ST,rural,68.7,Medium,0.32,pass,no,10.86986061,no,
+S0940,Vikram Joseph,15,female,9,government,general,rural,80.1,Medium,3.82,fail,no,22.42472273,yes,Lack of Interest
+S1744,Aditya Gupta,16,female,10,government,OBC,urban,76.7,High,0.59,pass,no,13.32164883,no,
+S0614,Aditya Kumar,16,female,10,government,OBC,urban,78.1,Medium,0.41,pass,no,12.40323319,no,
+S1441,Karan Naik,16,male,10,private unaided,OBC,urban,58.5,High,0.37,fail,no,22.15725489,yes,Child Labour
+S1625,Neha Das,16,female,10,private aided,general,urban,48.1,Medium,2.14,pass,no,25.76422623,yes,Early Marriage
+S0705,Sneha Kumar,16,male,10,private unaided,general,urban,75.5,Low,1.4,pass,no,14.50658795,no,
+S1877,Karan Naik,14,female,8,private unaided,SC,urban,94.1,Low,0.68,pass,no,14.18590049,no,
+S0161,Kavya Reddy,14,female,8,private unaided,SC,urban,94.6,Low,1.51,pass,no,18.08127482,no,
+S0899,Maya Singh,16,female,10,private aided,SC,urban,56.2,Low,1.97,fail,no,30.49134404,yes,Lack of Interest
+S1860,Ishaan Patel,14,male,8,private unaided,general,urban,63.7,High,0.57,pass,no,12.44434786,no,
+S1001,Maya Patel,14,male,8,private unaided,ST,rural,86.7,Medium,8.45,pass,no,16.86122315,no,
+S1746,Sonal Kumar,14,female,8,private unaided,ST,urban,80,Low,0.64,pass,no,16.09159962,no,
+S1533,Pooja Iyer,14,male,8,government,SC,urban,81,Medium,3.95,pass,no,13.28598785,no,
+S1307,Manish Iyer,14,male,8,private unaided,OBC,rural,82.8,Low,1.41,pass,no,14.64440911,no,
+S0870,Anjali Reddy,14,male,8,private aided,OBC,urban,73.5,Medium,2,pass,no,14.44173929,no,
+S0667,Pooja Sharma,15,female,9,private aided,SC,rural,67.3,Low,1.03,fail,no,19.48408759,yes,Financial Issues
+S1773,Ishaan Sharma,16,female,10,government,general,rural,66.5,Low,6.8,pass,yes,15.29448511,no,
+S1416,Anjali Iyer,16,female,10,private unaided,SC,urban,79.1,Medium,1.73,pass,no,17.39351109,no,
+S0143,Pooja Patel,16,male,10,government,general,urban,50.7,High,2.38,pass,no,20.49450792,yes,Early Marriage
+S1558,Priya Singh,15,male,9,government,SC,urban,69.6,Medium,1.4,pass,no,18.96876325,yes,Child Labour
+S1922,Kavya Naik,15,female,9,private unaided,OBC,urban,99.6,Medium,4.51,pass,no,22.02947992,yes,Household Work
+S1120,Maya Das,14,female,8,private aided,general,urban,39.7,Low,3.91,pass,no,36.74578465,yes,Financial Issues
+S1379,Karan Patel,14,female,8,private unaided,OBC,urban,74.7,Medium,0.15,pass,no,17.1089642,no,
+S0010,Vikram Das,15,female,9,government,general,urban,52,Medium,0.52,fail,no,33.95118444,yes,Early Marriage
+S1500,Siddharth Reddy,16,female,10,private unaided,OBC,rural,93.2,Medium,4.31,pass,no,15.69337004,no,
+S1058,Divya Kumar,16,male,10,private unaided,general,rural,86,Medium,6.22,pass,no,10.94214534,no,
+S1299,Aarav Joseph,14,male,8,private unaided,SC,rural,69.4,Low,1.85,pass,yes,16.12205219,no,
+S1426,Kavya Kumar,16,male,10,private unaided,OBC,rural,64.8,Medium,2.8,pass,no,10.28915798,no,
+S0496,Pooja Reddy,16,female,10,private aided,general,urban,68.2,Medium,0.25,fail,no,20.3866141,yes,Early Marriage
+S0704,Vikram Reddy,15,female,9,government,general,urban,80,Medium,0.15,pass,yes,15.58899164,no,
+S0609,Pooja Kumar,16,male,10,private unaided,general,rural,82.8,Low,9.74,pass,no,18.55670849,yes,Early Marriage
+S1736,Priya Patel,15,female,9,private aided,OBC,rural,94.6,Medium,2.24,pass,yes,16.614837,no,
+S1293,Karan Das,16,male,10,private unaided,general,urban,62,Low,0.39,pass,no,9.727577361,no,
+S1613,Siddharth Gupta,14,female,8,private unaided,SC,urban,66.4,Low,1.22,pass,no,14.87486076,no,
+S0866,Manish Gupta,15,female,9,private unaided,OBC,urban,86.5,Low,1.09,pass,no,14.26730448,no,
+S0670,Priya Gupta,16,female,10,private unaided,general,rural,87.1,High,2.49,fail,no,23.50102538,yes,Lack of Interest
+S0031,Riya Patel,15,female,9,private aided,OBC,urban,78.9,High,0.12,pass,no,13.0645075,no,
+S1149,Siddharth Iyer,14,male,8,private unaided,general,rural,91.3,Low,0.52,pass,no,14.59453934,no,
+S0632,Riya Reddy,14,female,8,private unaided,general,urban,99.9,Low,2.46,pass,no,16.3449516,no,
+S0763,Manish Reddy,16,female,10,private unaided,SC,urban,72.4,Medium,0.09,pass,yes,11.2490078,no,
+S0416,Ananya Sharma,14,female,8,private unaided,OBC,urban,79.8,Low,1,pass,no,19.13128892,yes,Lack of Interest
+S1047,Divya Patel,15,male,9,private unaided,SC,rural,86.4,Medium,5.15,fail,yes,25.70807896,yes,Child Labour
+S1089,Rahul Sharma,15,female,9,private unaided,SC,urban,82.7,Medium,0.87,pass,no,15.32068724,no,
+S1191,Maya Patel,14,male,8,private aided,general,urban,79.5,Low,2.01,pass,no,15.96467822,no,
+S1748,Vikram Patel,16,male,10,private aided,OBC,rural,82,Low,2.04,pass,yes,13.64866311,no,
+S1516,Aarav Reddy,15,male,9,private unaided,ST,rural,71.4,Low,1.57,pass,no,17.57036735,no,
+S0086,Sonal Iyer,15,male,9,private aided,OBC,urban,60.2,Low,1.22,pass,yes,17.09761122,no,
+S1910,Sneha Patel,14,male,8,private unaided,general,urban,76.7,Low,0.53,pass,no,12.37180787,no,
+S1952,Vikram Singh,15,female,9,private unaided,SC,urban,59,Medium,0.07,pass,no,18.17556155,yes,Lack of Interest
+S1349,Neha Das,14,male,8,private unaided,general,urban,88.4,Medium,0.33,pass,no,9.693192897,no,
+S1709,Ishaan Das,16,male,10,government,OBC,rural,52.6,Low,10.79,fail,no,38.34884279,yes,Financial Issues
+S0801,Sonal Singh,15,male,9,private unaided,ST,rural,58.8,Medium,1.72,fail,yes,26.33042573,yes,Financial Issues
+S1496,Pooja Kumar,14,male,8,government,OBC,rural,67.2,Low,1.11,pass,no,13.44264208,no,
+S1397,Anjali Reddy,16,male,10,private unaided,SC,rural,65.8,Medium,1.86,pass,yes,13.84641169,no,
+S0221,Vikram Sharma,14,male,8,private aided,OBC,rural,100,High,3.51,pass,yes,8.113862894,no,
+S0139,Anjali Kumar,15,male,9,private aided,OBC,urban,66.4,High,1.46,pass,yes,15.56238942,no,
+S0525,Kavya Naik,16,female,10,private unaided,OBC,rural,77.3,Medium,4,pass,no,15.27330612,no,
+S0989,Vikram Joseph,15,male,9,government,SC,rural,74.8,High,1.43,pass,no,8.465827861,no,
+S1855,Pooja Joseph,15,female,9,private aided,general,urban,92,Low,3.1,fail,no,24.69943196,yes,Household Work
+S1249,Kavya Das,15,female,9,private unaided,SC,rural,96.7,Low,1.14,pass,no,14.54310299,no,
+S0696,Sneha Iyer,15,male,9,private unaided,ST,rural,67,Medium,2.12,pass,no,15.20696449,no,
+S0842,Karan Singh,16,female,10,government,OBC,rural,64.8,High,0.91,pass,no,8.68096492,no,
+S1835,Manish Kumar,15,female,9,government,SC,rural,64.4,High,4.34,pass,yes,11.79258974,no,
+S1304,Ishaan Gupta,15,male,9,private unaided,general,urban,65.3,Low,0.27,pass,no,17.70962619,no,
+S0245,Aditya Das,14,female,8,private unaided,general,rural,56.6,Low,0.48,fail,no,24.9312826,yes,Child Labour
+S0945,Sonal Sharma,14,male,8,private unaided,OBC,rural,89.2,Low,5.08,fail,no,22.45864516,yes,Child Labour
+S1347,Vikram Naik,15,female,9,private unaided,SC,urban,73.1,Low,4.34,pass,no,19.07024647,yes,Lack of Interest
+S0932,Neha Iyer,14,female,8,private unaided,general,urban,88,Low,0.76,pass,no,11.41648808,no,
+S1799,Karan Iyer,15,male,9,private aided,general,rural,100,High,2.12,pass,no,11.45714021,no,
+S1688,Manish Reddy,15,female,9,private aided,general,urban,76.1,High,0.94,pass,no,9.92913474,no,
+S0714,Kavya Singh,16,female,10,government,SC,urban,62.8,High,0.66,pass,no,7.054936439,no,
+S0487,Aditya Reddy,15,female,9,private unaided,general,urban,61.5,Medium,7.09,pass,no,18.91351776,yes,Lack of Interest
+S1338,Pooja Joseph,15,male,9,private aided,general,rural,78.1,High,0.05,pass,no,7.441431067,no,
+S1582,Arjun Singh,14,male,8,private unaided,OBC,rural,64.8,Medium,3.32,pass,no,14.8424554,no,
+S0482,Aditya Patel,15,male,9,private unaided,OBC,urban,65.8,Low,0.03,pass,no,19.38140637,yes,Financial Issues
+S1916,Aditya Joseph,14,male,8,private unaided,OBC,rural,70.1,Medium,6.12,fail,no,25.6715042,yes,Lack of Interest
+S1943,Ananya Gupta,16,female,10,private unaided,OBC,urban,69.3,Medium,0.08,pass,no,14.04090741,no,
+S0218,Rahul Gupta,14,female,8,private aided,OBC,rural,75.2,Low,3.23,pass,no,14.29285832,no,
+S1627,Priya Iyer,16,female,10,private unaided,OBC,urban,42,Low,1.36,pass,yes,39.10331861,yes,Financial Issues
+S0571,Ananya Naik,16,male,10,private aided,OBC,urban,63.4,Medium,0.42,pass,yes,12.51735331,no,
+S1554,Kavya Iyer,16,female,10,private aided,general,urban,61.2,Low,3.81,pass,yes,14.82815844,no,
+S1984,Rahul Sharma,14,female,8,private aided,general,rural,94.5,High,0.69,pass,no,8.056628481,no,
+S0411,Vikram Kumar,14,female,8,government,OBC,urban,56.3,Low,1.47,pass,no,18.45554699,yes,Migration
+S1196,Sneha Reddy,16,female,10,private aided,OBC,urban,82.2,Medium,0.09,pass,no,12.49962659,no,
+S1271,Divya Joseph,16,female,10,government,general,rural,70.1,Medium,12.02,pass,yes,17.33670356,no,
+S0280,Pooja Kumar,14,female,8,private unaided,general,rural,91.4,Medium,5.5,pass,no,12.00405015,no,
+S1970,Aarav Joseph,15,female,9,government,OBC,rural,70.7,High,6.1,pass,no,15.08092243,no,
+S0651,Karan Singh,14,male,8,private unaided,general,rural,88.3,Medium,0.97,pass,no,11.75307063,no,
+S0379,Sneha Singh,16,male,10,private aided,SC,urban,97.2,Medium,0.02,pass,no,12.63700793,no,
+S0585,Arjun Naik,16,male,10,private unaided,OBC,urban,75.7,High,1.85,pass,yes,15.34260737,no,
+S0012,Maya Patel,14,male,8,private aided,SC,rural,78.8,High,1.83,pass,no,9.951321954,no,
+S1007,Rahul Iyer,15,female,9,government,OBC,rural,94.3,Medium,3.58,fail,no,22.85761687,yes,Child Labour
+S1825,Aarav Das,15,male,9,private unaided,general,rural,77.2,Medium,3.32,pass,no,16.25947118,no,
+S0498,Divya Iyer,14,male,8,government,ST,urban,82.6,Medium,1.15,pass,yes,12.00250233,no,
+S0923,Neha Patel,15,male,9,private unaided,OBC,rural,71.5,Medium,16.8,pass,yes,24.00766054,yes,Household Work
+S1981,Arjun Sharma,15,male,9,private aided,general,rural,81,Low,22.65,fail,no,35.31916124,yes,Migration
+S1292,Siddharth Iyer,14,male,8,government,general,rural,75.4,Medium,1.03,pass,yes,11.02995132,no,
+S1357,Rahul Joseph,14,male,8,government,OBC,rural,52.8,Medium,2.03,pass,no,19.97149472,yes,Financial Issues
+S0468,Karan Das,14,male,8,private aided,OBC,urban,64.3,Medium,0.57,pass,yes,8.844634726,no,
+S0459,Ishaan Naik,16,male,10,private aided,SC,urban,62,Low,3.87,pass,no,13.20201375,no,
+S0149,Manish Das,15,female,9,private unaided,OBC,urban,69.3,Medium,1.2,fail,no,23.93735816,yes,Lack of Interest
+S1237,Aarav Reddy,16,male,10,private unaided,general,rural,48.5,Medium,0.18,fail,no,33.62679088,yes,Early Marriage
+S1415,Neha Sharma,15,male,9,government,OBC,rural,84.5,Medium,6.73,pass,no,16.69908848,no,
+S0166,Sneha Kumar,15,female,9,private aided,general,urban,80.5,Low,1.54,pass,no,14.96132599,no,
+S0171,Arjun Naik,15,male,9,private aided,SC,urban,73.2,High,4.87,pass,no,13.12793039,no,
+S1102,Aarav Singh,14,male,8,private aided,OBC,urban,80.6,Low,3.06,pass,no,19.49585735,yes,Household Work
+S1572,Aarav Sharma,16,male,10,private aided,OBC,urban,72.1,Medium,2.14,pass,no,11.56673144,no,
+S0575,Maya Patel,16,female,10,private aided,general,urban,72.3,High,0.59,pass,no,8.13359793,no,
+S1144,Divya Kumar,16,female,10,private unaided,OBC,urban,65.8,Medium,0.49,pass,no,17.08914033,no,
+S1715,Siddharth Sharma,14,female,8,private aided,OBC,urban,75.7,Medium,1.88,pass,no,10.40627519,no,
+S0532,Karan Gupta,15,male,9,private unaided,OBC,urban,77.2,Medium,4.15,pass,no,17.49136206,no,
+S0911,Pooja Kumar,16,female,10,private unaided,general,urban,62.1,Medium,0.27,pass,no,11.45196733,no,
+S1721,Divya Singh,14,female,8,government,SC,rural,88.9,Medium,6.74,pass,no,14.17439751,no,
+S1870,Vikram Patel,14,female,8,private unaided,OBC,urban,63.2,Medium,1.17,pass,no,14.46984828,no,
+S1868,Arjun Gupta,15,female,9,private aided,SC,urban,62.8,Low,0.33,pass,no,13.06718453,no,
+S1290,Arjun Iyer,14,female,8,government,OBC,urban,69.2,Medium,0.81,pass,no,12.55270283,no,
+S1541,Divya Joseph,14,female,8,private unaided,general,urban,98.6,High,1.79,pass,no,11.79378061,no,
+S0883,Manish Sharma,16,female,10,government,general,urban,74.7,Medium,0.86,pass,yes,13.71288455,no,
+S1644,Ananya Joseph,16,female,10,private aided,OBC,urban,79.3,High,0.41,pass,no,10.62220975,no,
+S1887,Sonal Naik,14,female,8,private unaided,OBC,rural,68.8,Low,3.51,pass,no,16.25211112,no,
+S1852,Sonal Iyer,15,female,9,government,ST,rural,93,High,0.4,pass,no,12.10254631,no,
+S1316,Maya Singh,16,female,10,private aided,OBC,rural,80.1,Low,6.58,fail,no,25.55373686,yes,Household Work
+S1186,Vikram Singh,15,female,9,private aided,general,urban,92.4,Medium,2.85,pass,yes,15.36298956,no,
+S1580,Priya Naik,15,female,9,private unaided,general,urban,68.3,High,0.63,pass,no,14.33517105,no,
+S0646,Riya Iyer,16,male,10,private unaided,SC,urban,98,Low,0.29,pass,no,16.16635881,no,
+S0267,Pooja Kumar,16,female,10,private aided,OBC,urban,68.6,Medium,0.29,pass,yes,11.62420188,no,
+S1832,Ishaan Reddy,16,male,10,private aided,OBC,rural,78.6,Low,4.51,pass,no,15.80239196,no,
+S1485,Karan Patel,16,female,10,private aided,OBC,urban,76,Medium,0.23,pass,no,15.63576999,no,
+S1025,Rahul Naik,15,male,9,private aided,OBC,urban,52.5,Low,4.03,pass,no,25.73521082,yes,Early Marriage
+S1701,Manish Joseph,14,male,8,private aided,OBC,urban,73.9,Medium,0.65,pass,no,10.10463521,no,
+S0951,Arjun Gupta,16,male,10,private aided,ST,urban,90.8,Medium,0.92,pass,no,10.9738646,no,
+S0232,Neha Gupta,15,male,9,government,OBC,rural,97,Low,8.04,pass,no,18.97289614,yes,Lack of Interest
+S1732,Kavya Iyer,14,female,8,government,general,urban,78.9,Low,1.97,pass,no,14.56365326,no,
+S1899,Sneha Kumar,16,female,10,private aided,general,urban,79.8,Medium,0.25,pass,no,14.00918419,no,
+S1408,Arjun Naik,15,male,9,private unaided,general,urban,85.3,Medium,0.03,pass,yes,11.6083763,no,
+S0853,Kavya Gupta,16,male,10,private unaided,general,rural,58,Low,4.76,fail,no,27.27555153,yes,Lack of Interest
+S1991,Manish Reddy,16,male,10,private aided,OBC,urban,83.1,Low,0.04,pass,yes,12.94351805,no,
+S0731,Kavya Iyer,16,female,10,government,SC,urban,89.6,Low,1.1,pass,no,12.95181452,no,
+S1212,Arjun Sharma,15,male,9,private unaided,OBC,urban,75.6,Low,0.04,pass,no,17.97309638,no,
+S1704,Arjun Gupta,15,male,9,private unaided,general,urban,87.5,High,0.13,pass,no,11.050605,no,
+S0746,Vikram Singh,15,male,9,government,OBC,rural,78.9,Low,1.45,pass,yes,14.53495311,no,
+S0106,Rahul Joseph,16,male,10,private unaided,ST,rural,79.1,Low,3.99,fail,no,30.06906208,yes,Child Labour
+S0476,Ananya Kumar,16,female,10,private unaided,OBC,urban,91.9,Medium,1.48,fail,no,25.74225692,yes,Early Marriage
+S0808,Rahul Patel,14,male,8,private aided,SC,rural,65.9,Low,1.92,fail,yes,20.4527755,yes,Early Marriage
+S1021,Vikram Reddy,16,female,10,private aided,OBC,rural,76,High,0.02,pass,no,8.963284621,no,
+S0339,Riya Joseph,15,male,9,private aided,general,urban,57.3,Low,0.22,fail,no,24.42211899,yes,Lack of Interest
+S0794,Sonal Kumar,14,female,8,private unaided,general,urban,67.7,High,3.38,pass,no,9.813646473,no,
+S0937,Riya Singh,14,female,8,private aided,OBC,rural,71,Low,0.81,pass,no,14.62684197,no,
+S0156,Arjun Kumar,16,male,10,private aided,SC,urban,66.5,High,0.19,pass,no,9.842894096,no,
+S0618,Ishaan Singh,16,female,10,private aided,SC,urban,40.8,High,1.35,fail,no,42.77873776,yes,Lack of Interest
+S1332,Rahul Reddy,15,male,9,private unaided,OBC,urban,88.2,High,3.01,pass,no,15.10764365,no,
+S1449,Kavya Patel,16,female,10,private unaided,general,urban,62.8,Medium,1.4,pass,no,9.698713655,no,
+S0822,Neha Iyer,16,female,10,government,OBC,urban,71.7,Medium,1.56,pass,no,14.87801237,no,
+S0730,Arjun Kumar,15,male,9,private unaided,OBC,urban,71.2,Medium,3.93,pass,no,19.75420312,yes,Early Marriage
+S1871,Maya Naik,16,female,10,private unaided,SC,rural,77.4,Medium,3.14,fail,no,23.37880801,yes,Lack of Interest
+S1036,Sonal Patel,15,female,9,government,SC,urban,76.8,Low,0.09,pass,no,13.5443151,no,
+S1351,Divya Patel,16,female,10,private unaided,OBC,rural,70,Medium,1.3,pass,no,15.71903698,no,
+S1923,Sonal Das,14,female,8,private aided,SC,urban,66.9,Medium,0.87,pass,no,11.30539858,no,
+S0054,Siddharth Iyer,15,male,9,private unaided,SC,urban,78.9,High,0.31,pass,no,15.79996962,no,
+S1020,Maya Sharma,14,female,8,private unaided,SC,rural,74,Medium,1.32,pass,no,12.17308942,no,
+S0994,Anjali Das,14,male,8,private aided,OBC,rural,95.5,High,0.82,pass,yes,9.927218594,no,
+S1386,Pooja Kumar,14,female,8,private unaided,OBC,rural,78.2,Low,8.4,pass,no,17.58985855,no,
+S0767,Manish Gupta,15,male,9,private aided,SC,urban,67.6,High,1.77,fail,yes,21.47225273,yes,Early Marriage
+S0983,Anjali Gupta,15,male,9,private aided,general,rural,83.9,Medium,0.07,pass,no,11.52536624,no,
+S1038,Vikram Das,14,male,8,private aided,OBC,rural,85.8,Low,0.73,fail,no,23.18048188,yes,Early Marriage
+S1407,Rahul Singh,16,male,10,government,OBC,urban,68.4,Medium,0.88,pass,yes,11.94050337,no,
+S1005,Maya Das,16,female,10,government,OBC,urban,81.1,Medium,3.35,pass,yes,13.58470848,no,
+S0518,Ishaan Sharma,14,male,8,private unaided,OBC,urban,81.1,Medium,1.71,pass,no,12.96654313,no,
+S0907,Riya Sharma,16,male,10,government,general,rural,62.8,Medium,7.87,fail,no,25.74919365,yes,Early Marriage
+S0824,Manish Gupta,15,female,9,government,ST,rural,68,Medium,2.81,pass,no,19.42013931,yes,Migration
+S0603,Rahul Reddy,15,female,9,private unaided,OBC,urban,69.2,Medium,0.64,pass,no,17.48707337,no,
+S1756,Arjun Joseph,14,male,8,government,general,rural,71.6,High,2.17,pass,no,7.494518327,no,
+S0096,Riya Joseph,16,female,10,government,SC,urban,66.4,High,0.26,pass,yes,9.943748861,no,
+S1900,Aarav Gupta,15,female,9,private aided,general,rural,76.6,High,0.97,fail,no,18.41577508,yes,Lack of Interest
+S1456,Aditya Reddy,16,male,10,private aided,OBC,rural,74.4,Medium,0.29,pass,no,10.94094073,no,
+S0916,Aarav Reddy,15,male,9,private unaided,general,rural,99.7,Medium,2.87,pass,no,15.54674296,no,
+S0484,Riya Singh,15,male,9,private unaided,OBC,rural,77.8,Low,4.55,pass,no,19.13697347,yes,Other
+S1343,Rahul Singh,16,male,10,government,OBC,urban,67.4,Low,0.11,pass,no,10.73898962,no,
+S1313,Vikram Naik,14,male,8,government,OBC,urban,71.2,Medium,3.81,pass,no,14.41783305,no,
+S1564,Sonal Reddy,15,male,9,private unaided,OBC,rural,84.8,Low,0.94,fail,yes,25.8350952,yes,Other
+S1148,Riya Reddy,14,male,8,private unaided,general,urban,60.1,Low,1.39,pass,no,11.49358947,no,
+S1539,Rahul Reddy,16,female,10,private aided,OBC,urban,98.4,High,1.7,pass,no,9.286083238,no,
+S0645,Manish Naik,16,male,10,private unaided,OBC,rural,67.5,Low,3.04,fail,no,20.45873532,yes,Lack of Interest
+S0695,Ishaan Das,14,male,8,private unaided,general,urban,66.6,Low,1.42,pass,no,15.38797292,no,
+S1248,Siddharth Gupta,14,male,8,government,general,urban,75.2,Medium,0.26,pass,yes,9.99120927,no,
+S0346,Priya Singh,14,female,8,private unaided,general,rural,69.3,Medium,8.37,pass,no,17.3312793,no,
+S0418,Arjun Das,15,female,9,private unaided,OBC,rural,76.8,Medium,0.09,pass,no,13.29946052,no,
+S1322,Ananya Sharma,16,female,10,private aided,general,rural,83,Low,0.27,fail,no,19.58304055,yes,Other
+S1858,Divya Naik,14,female,8,private unaided,general,urban,79.1,Low,0.55,pass,yes,13.43284802,no,
+S1986,Arjun Naik,15,female,9,government,OBC,rural,60.9,High,0.99,fail,no,24.74892394,yes,Early Marriage
+S0153,Siddharth Sharma,16,male,10,private unaided,SC,rural,100,Low,2.18,pass,no,14.50886597,no,
+S0271,Aarav Joseph,15,male,9,private unaided,OBC,urban,98.6,Medium,0.06,pass,no,14.1457696,no,
+S0237,Priya Gupta,15,female,9,private unaided,OBC,urban,73.6,Medium,0.8,pass,no,17.7023316,no,
+S0464,Kavya Joseph,14,female,8,private aided,OBC,rural,68.8,Low,3.63,fail,no,25.92033599,yes,Lack of Interest
+S1004,Maya Naik,15,male,9,private unaided,OBC,urban,83.1,Medium,0.86,pass,no,16.68632837,no,
+S0288,Sonal Reddy,14,female,8,private aided,OBC,urban,62,Medium,3.32,pass,no,12.52242202,no,
+S1550,Ishaan Sharma,16,male,10,private unaided,OBC,urban,85.2,Medium,2.44,pass,no,15.27023547,no,
+S0517,Arjun Kumar,14,male,8,private unaided,OBC,rural,84.8,Medium,1.79,fail,no,24.56801256,yes,Other
+S0753,Karan Das,14,female,8,private unaided,OBC,urban,75.1,High,0.76,pass,no,11.94595004,no,
+S1946,Divya Das,14,male,8,government,ST,urban,99.6,Medium,2.74,pass,yes,15.79294188,no,
+S1088,Divya Reddy,14,male,8,government,SC,urban,76.7,Low,1.17,fail,no,22.9092349,yes,Other
+S0461,Divya Sharma,14,female,8,private aided,OBC,urban,74.5,Medium,2.97,fail,no,22.57386532,yes,Child Labour
+S1142,Aditya Kumar,14,male,8,government,ST,urban,86.3,Medium,0.11,pass,no,10.61960865,no,
+S1514,Sonal Das,16,female,10,government,ST,rural,56.2,High,4.4,pass,no,20.46515661,yes,Child Labour
+S1958,Ananya Gupta,15,male,9,private aided,SC,urban,49.7,Medium,0.01,pass,no,26.47303729,yes,Household Work
+S1336,Anjali Naik,15,female,9,private aided,ST,urban,82.4,High,1.47,pass,no,14.2039355,no,
+S0444,Arjun Patel,15,female,9,private unaided,OBC,urban,66.6,Medium,0.12,fail,no,24.48140439,yes,Lack of Interest
+S0697,Manish Das,14,male,8,private aided,SC,urban,60.1,High,2.27,pass,no,12.8626868,no,
+S1636,Ishaan Iyer,16,female,10,private aided,general,urban,95.7,Low,0.26,pass,no,16.06833926,no,
+S1318,Divya Singh,14,female,8,private unaided,general,rural,61.8,Medium,15.36,pass,no,23.4862318,yes,Household Work
+S1284,Riya Reddy,16,male,10,private unaided,ST,urban,77.4,Medium,2.71,pass,no,12.95846948,no,
+S0806,Ishaan Kumar,14,male,8,private unaided,general,rural,83.6,High,0.08,pass,no,11.15844072,no,
+S1567,Siddharth Patel,16,male,10,private unaided,OBC,urban,72.5,High,0.11,pass,no,9.754802588,no,
+S1724,Sonal Patel,14,female,8,government,SC,rural,66.5,Low,1.75,pass,yes,11.47446045,no,
+S0185,Siddharth Joseph,15,female,9,private aided,general,rural,84.9,High,0.44,pass,no,9.972834475,no,
+S1830,Karan Naik,16,female,10,private aided,general,urban,66.2,Medium,1.12,pass,no,14.49104967,no,
+S0395,Sonal Singh,16,male,10,private unaided,ST,rural,86.2,Medium,0.11,pass,no,11.7560134,no,
+S0250,Sonal Kumar,15,male,9,private aided,OBC,urban,96.1,High,0.77,pass,no,13.03092501,no,
+S0302,Aarav Singh,14,female,8,private unaided,SC,rural,65,High,16.15,pass,no,20.73740156,yes,Lack of Interest
+S0044,Divya Singh,14,male,8,private aided,general,urban,67.3,High,1.24,pass,no,11.10826667,no,
+S0597,Ananya Naik,15,male,9,government,OBC,urban,95.7,Low,0.39,pass,no,15.96319254,no,
+S0686,Priya Sharma,14,male,8,private aided,OBC,urban,72.3,Medium,1.71,pass,no,12.21953868,no,
+S0634,Aditya Gupta,15,female,9,government,OBC,urban,77.9,Low,0.18,fail,no,24.12591313,yes,Other
+S1491,Aditya Patel,16,male,10,private unaided,general,urban,95.4,Low,3.3,pass,no,17.48611763,no,
+S1706,Sneha Iyer,15,male,9,private aided,OBC,urban,41,Low,0.38,fail,yes,51.52318046,yes,Financial Issues
+S0084,Rahul Joseph,15,female,9,government,general,rural,71.1,Medium,8.39,fail,no,26.82412223,yes,Child Labour
+S0359,Priya Joseph,14,female,8,private unaided,OBC,urban,76.3,Medium,1.79,pass,no,17.04294358,no,
+S1133,Sneha Singh,14,male,8,private aided,general,rural,79.2,Low,0.37,pass,no,9.579726394,no,
+S0787,Vikram Das,16,male,10,private aided,SC,rural,58.5,Medium,2.46,pass,no,15.40836373,no,
+S1659,Neha Singh,16,male,10,private aided,OBC,urban,67.8,Medium,0.88,pass,no,11.82741094,no,
+S0856,Vikram Iyer,16,male,10,government,ST,urban,90.2,High,0.15,pass,yes,11.89233833,no,
+S1805,Neha Reddy,16,female,10,private aided,OBC,urban,63.6,Medium,2.17,pass,no,9.93791721,no,
+S1955,Sneha Iyer,16,female,10,private unaided,SC,rural,75.6,Medium,1.13,pass,yes,13.07378798,no,
+S0398,Aditya Sharma,16,female,10,government,OBC,urban,61.5,Low,0.16,pass,yes,13.07743638,no,
+S1968,Neha Das,14,male,8,private aided,general,urban,98.2,Low,3.83,pass,no,12.52491711,no,
+S1557,Aarav Joseph,16,female,10,government,OBC,urban,74.1,Low,0.13,pass,no,13.76670412,no,
+S1264,Ishaan Patel,16,male,10,government,ST,urban,90.9,Medium,2.11,pass,no,10.7671287,no,
+S0251,Neha Joseph,14,male,8,private unaided,general,rural,82.7,High,4.87,fail,no,19.88642497,yes,Early Marriage
+S0305,Vikram Joseph,16,female,10,government,ST,urban,68.1,Low,0.28,pass,yes,12.57001934,no,
+S0652,Aarav Naik,15,female,9,private unaided,OBC,urban,89.2,High,1.61,pass,no,14.56336945,no,
+S1510,Rahul Kumar,16,male,10,private aided,general,rural,82,Low,4.8,pass,yes,11.44787057,no,
+S0325,Priya Sharma,16,female,10,private unaided,OBC,urban,76,Low,1.28,pass,no,13.95259888,no,
+S1509,Arjun Gupta,16,female,10,private unaided,general,rural,66.6,High,0.37,pass,no,10.20151184,no,
+S1026,Priya Iyer,16,male,10,private aided,general,urban,76.4,Medium,0.76,pass,no,11.96923357,no,
+S1673,Aarav Patel,16,female,10,private aided,OBC,rural,88.6,Medium,1.27,pass,no,11.55430415,no,
+S0290,Divya Das,15,female,9,private unaided,SC,urban,85.6,Medium,1.04,pass,no,13.13051374,no,
+S1482,Ananya Patel,16,female,10,private unaided,general,urban,83,Medium,0.1,pass,yes,17.2987238,no,
+S1623,Vikram Reddy,16,male,10,private unaided,SC,urban,63.8,Medium,0.41,pass,yes,10.49282403,no,
+S0179,Manish Kumar,15,female,9,private aided,ST,rural,65.1,Low,5.56,pass,no,13.94902427,no,
+S0046,Arjun Reddy,14,female,8,private unaided,general,urban,93.8,High,0.84,pass,no,10.99904748,no,
+S2000,Neha Naik,16,male,10,government,general,urban,100,Medium,0.01,pass,no,11.53335428,no,
+S1705,Rahul Das,16,male,10,private aided,SC,urban,56.8,Medium,2.76,fail,no,22.09199016,yes,Migration
+S1974,Aditya Naik,14,female,8,private unaided,general,rural,74.3,Low,6.42,pass,no,17.42808675,no,
+S0544,Neha Gupta,15,female,9,private aided,SC,rural,83.5,High,4.56,pass,yes,13.00621049,no,
+S1848,Aarav Singh,14,female,8,private unaided,general,rural,76.6,Medium,3.34,pass,no,12.75935349,no,
+S0880,Manish Joseph,14,male,8,private aided,ST,rural,55.9,High,7.38,pass,no,16.97488451,no,
+S1099,Kavya Sharma,14,male,8,private aided,SC,urban,69.4,Low,0.97,pass,no,13.22312776,no,
+S0154,Neha Naik,16,male,10,government,OBC,urban,87.4,High,0.43,pass,no,13.81240536,no,
+S1205,Aditya Reddy,15,male,9,private unaided,OBC,rural,83.6,Medium,2.95,pass,no,15.2891554,no,
+S1431,Vikram Naik,16,female,10,private unaided,OBC,urban,80.7,Low,0.3,pass,no,17.55968472,no,
+S1595,Priya Patel,15,male,9,government,OBC,urban,71.7,Low,0.33,pass,no,17.54122273,no,
+S1355,Sonal Patel,14,female,8,private aided,OBC,urban,72.2,Medium,2.01,pass,no,13.69168728,no,
+S0047,Manish Das,15,female,9,government,OBC,rural,76,Medium,1.51,pass,no,13.10812903,no,
+S1200,Neha Sharma,16,male,10,government,ST,rural,63.1,Low,2.07,pass,yes,13.07822951,no,
+S1113,Arjun Kumar,14,male,8,government,OBC,urban,87.7,Medium,5.92,pass,no,14.01866636,no,
+S1876,Siddharth Iyer,16,female,10,private aided,SC,urban,85,Medium,1.43,pass,no,8.760060768,no,
+S1140,Maya Naik,15,male,9,government,SC,rural,77.6,High,2.78,pass,no,13.97179585,no,
+S1840,Aditya Kumar,16,female,10,private unaided,SC,urban,98.3,High,0.22,pass,no,12.68068382,no,
+S0663,Karan Iyer,16,female,10,private aided,general,rural,72.9,High,1.57,pass,no,13.30529487,no,
+S1754,Aarav Joseph,14,male,8,government,ST,rural,81.9,Low,3.16,pass,no,12.54267565,no,
+S0160,Sneha Naik,15,female,9,private aided,SC,rural,62.7,Low,2.28,pass,no,11.75280875,no,
+S0278,Pooja Patel,15,male,9,government,OBC,urban,68.1,Medium,0.99,pass,no,13.38740591,no,
+S1834,Vikram Reddy,15,male,9,private unaided,general,urban,76.8,High,0,pass,no,9.424942069,no,
+S1739,Sonal Reddy,15,female,9,private aided,general,urban,89.4,Medium,0.85,pass,yes,9.767682374,no,
+S0537,Sonal Patel,16,female,10,private unaided,general,rural,68.3,High,5.68,pass,no,11.86075915,no,
+S0519,Vikram Patel,16,male,10,private unaided,OBC,rural,91.6,Medium,0.69,pass,no,10.38883041,no,
+S0275,Anjali Patel,15,female,9,government,ST,urban,73.7,High,2.46,pass,no,16.28978219,no,
+S1542,Riya Patel,16,female,10,private unaided,OBC,rural,75,Low,4.18,pass,no,17.46616134,no,
+S0155,Arjun Patel,15,female,9,private aided,general,urban,90.2,Low,0.02,pass,no,15.11013372,no,
+S0200,Ishaan Patel,16,male,10,government,ST,urban,68.2,Medium,0.16,pass,no,10.44955077,no,
+S0292,Maya Gupta,15,male,9,government,general,rural,64.7,Low,5.47,pass,no,18.38845938,yes,Lack of Interest
+S1207,Maya Naik,14,male,8,private aided,ST,urban,83.1,Medium,0.19,fail,yes,17.12400281,no,
+S1044,Divya Gupta,15,male,9,government,ST,urban,80.3,Low,0.67,pass,no,18.03454768,no,
+S0601,Riya Das,16,female,10,government,general,urban,71.9,Medium,3.04,pass,yes,14.65433248,no,
+S1217,Riya Naik,15,male,9,government,OBC,urban,73.8,High,2.06,pass,no,13.91636589,no,
+S0072,Anjali Sharma,15,female,9,government,general,urban,78.6,Medium,1.01,pass,yes,11.36021457,no,
+S1681,Kavya Joseph,14,male,8,private unaided,OBC,urban,85.9,Medium,0.63,pass,no,14.34366475,no,
+S0894,Maya Iyer,15,female,9,private unaided,OBC,urban,71.7,Low,1,pass,no,18.84977391,yes,Child Labour
+S1966,Pooja Das,15,female,9,government,OBC,urban,72.4,Low,2.4,pass,no,14.88425878,no,
+S0739,Aditya Sharma,16,female,10,government,OBC,urban,53,Medium,0.76,pass,no,18.53788667,yes,Early Marriage
+S1078,Manish Patel,14,male,8,private unaided,OBC,urban,75.1,Low,0.06,pass,no,14.30738997,no,
+S0266,Priya Sharma,14,female,8,private unaided,general,rural,86.5,Low,0.76,pass,yes,11.63793888,no,
+S1761,Ishaan Naik,14,female,8,government,OBC,rural,80.9,Medium,10.44,pass,no,16.70062131,no,
+S1762,Sonal Iyer,14,male,8,private aided,OBC,rural,70.7,High,2.18,pass,no,10.33738192,no,
+S0396,Sonal Das,14,male,8,private unaided,OBC,urban,90.3,Low,0.38,pass,no,13.01993853,no,
+S0399,Aditya Naik,16,male,10,private unaided,general,urban,68.7,Low,1.59,pass,no,19.17219347,yes,Household Work
+S0082,Anjali Reddy,16,male,10,private aided,OBC,urban,93.6,High,0.22,pass,no,11.11563679,no,
+S1536,Aarav Patel,15,male,9,government,SC,urban,49.8,High,8.15,pass,no,27.55283066,yes,Migration
+S0672,Sonal Gupta,15,male,9,private aided,OBC,urban,71.1,Medium,0.98,pass,no,15.07780428,no,
+S1206,Vikram Patel,16,female,10,private unaided,ST,urban,83.6,Medium,5.6,pass,yes,18.25380697,yes,Lack of Interest
+S0644,Karan Naik,15,female,9,private unaided,OBC,urban,62.5,Medium,1.68,pass,yes,13.92670394,no,
+S1938,Anjali Gupta,15,male,9,government,OBC,urban,78.5,Medium,1.39,pass,yes,16.72724597,no,
+S1227,Anjali Sharma,14,male,8,government,general,rural,65.3,Medium,9.98,pass,no,15.89616772,no,
+S1781,Rahul Iyer,14,male,8,private unaided,general,urban,67.7,Low,0.24,pass,no,12.15051837,no,
+S1513,Arjun Patel,14,male,8,private aided,OBC,urban,79.2,Medium,0.06,pass,no,11.44879173,no,
+S0724,Neha Reddy,16,male,10,private unaided,OBC,rural,75.9,High,4.68,pass,no,12.72482422,no,
+S0466,Ishaan Naik,16,male,10,private unaided,SC,urban,71.3,Low,1.79,pass,no,15.74781751,no,
+S0527,Ishaan Patel,16,male,10,private aided,ST,urban,82.7,High,2.27,pass,no,12.27932205,no,
+S0901,Aarav Kumar,15,female,9,private aided,general,urban,84.5,Medium,0.33,pass,no,14.98330302,no,
+S1512,Arjun Kumar,16,female,10,private aided,OBC,urban,51.4,Low,0.45,pass,no,24.43024667,yes,Other
+S0840,Priya Reddy,15,male,9,private unaided,general,urban,60.3,High,0.42,fail,no,20.636549,yes,Other
+S0984,Vikram Iyer,14,female,8,private unaided,OBC,urban,82.4,Medium,4.94,pass,no,16.30729987,no,
+S1766,Maya Patel,14,female,8,private unaided,general,rural,74.5,Low,2.03,pass,no,15.84857589,no,
+S0729,Ananya Gupta,15,male,9,government,OBC,urban,61.9,Medium,7.34,pass,yes,20.57276209,yes,Household Work
+S1063,Aditya Gupta,14,female,8,private aided,SC,urban,90.7,Low,1.83,pass,no,16.54005515,no,
+S1053,Priya Patel,14,female,8,private aided,OBC,urban,76.9,High,0.63,pass,no,10.43767059,no,
+S0538,Priya Naik,14,male,8,government,OBC,rural,79.5,Medium,0.1,pass,no,14.05100857,no,
+S0960,Ananya Naik,15,female,9,private unaided,SC,urban,93.3,Medium,2.76,pass,yes,15.0348074,no,
+S1971,Ishaan Gupta,14,female,8,government,OBC,urban,75.5,Medium,0.38,pass,no,10.86530296,no,
+S0085,Aarav Singh,16,female,10,private unaided,OBC,rural,84.8,Medium,6.8,pass,no,17.48253464,no,
+S0617,Anjali Das,16,female,10,private unaided,general,rural,84.3,Medium,1.78,pass,no,9.832393564,no,
+S1345,Anjali Joseph,14,female,8,private unaided,general,rural,68.6,Low,4.63,pass,no,17.6698225,no,
+S1477,Ishaan Gupta,15,female,9,government,SC,urban,85.8,High,1.85,pass,no,11.08772841,no,
+S1614,Arjun Iyer,14,male,8,government,OBC,rural,72.2,Medium,7.46,pass,no,15.32477197,no,
+S1278,Pooja Singh,14,female,8,private unaided,general,urban,86.1,Low,0.97,pass,no,12.35932715,no,
+S1881,Arjun Naik,15,female,9,private unaided,OBC,rural,83.5,Medium,0.08,pass,no,16.87386594,no,
+S0987,Arjun Reddy,14,male,8,government,OBC,rural,79.4,High,0.41,fail,no,17.11561256,no,
+S1927,Aditya Kumar,15,male,9,private aided,OBC,urban,59.5,Medium,0.88,fail,no,27.49767451,yes,Other
+S0265,Maya Singh,15,female,9,private unaided,OBC,urban,74.2,Medium,1.65,pass,yes,16.24464061,no,
+S0872,Sneha Das,16,male,10,government,OBC,urban,97.2,Medium,2.31,pass,no,11.1704301,no,
+S1817,Aarav Joseph,15,female,9,private unaided,ST,urban,64.8,High,0.98,pass,no,12.15350693,no,
+S0789,Aditya Das,16,female,10,private unaided,SC,urban,67,Low,1.75,pass,no,20.39668529,yes,Household Work
+S1153,Aditya Singh,14,female,8,private unaided,OBC,rural,77.5,Low,0.42,pass,no,19.01586949,yes,Early Marriage
+S0998,Divya Patel,14,male,8,private aided,general,urban,88.9,Low,2.67,pass,no,14.83069823,no,
+S0988,Siddharth Sharma,14,female,8,private aided,OBC,urban,97.1,High,0.42,pass,yes,14.89239015,no,
+S0845,Karan Gupta,16,female,10,government,OBC,urban,89.4,Medium,1.21,pass,no,15.53611212,no,
+S1385,Siddharth Joseph,15,female,9,private unaided,general,urban,69,Medium,0.33,pass,no,16.41336629,no,
+S1128,Aditya Gupta,15,female,9,private unaided,SC,rural,81.2,Low,0.06,fail,no,24.53316085,yes,Financial Issues
+S0633,Ananya Patel,16,male,10,government,general,rural,87.4,Low,0.35,fail,no,26.15815157,yes,Other
+S1049,Anjali Iyer,15,male,9,private aided,general,urban,61.3,Medium,0.02,pass,no,14.93213279,no,
+S1635,Maya Kumar,15,female,9,government,general,rural,50,High,2.74,fail,yes,32.25804779,yes,Lack of Interest
+S0438,Neha Kumar,15,male,9,private unaided,OBC,urban,87.6,Medium,0.97,pass,yes,15.08947252,no,
+S1725,Priya Das,15,male,9,private unaided,OBC,rural,95.8,Medium,1.61,fail,no,23.86425035,yes,Lack of Interest
+S1804,Ishaan Iyer,15,male,9,government,SC,rural,80.1,Medium,3.25,pass,no,12.59010433,no,
+S1782,Aditya Kumar,14,male,8,private unaided,general,urban,80.5,Medium,0.47,pass,no,10.83607631,no,
+S1440,Karan Kumar,16,male,10,private unaided,general,rural,80.2,High,0.09,fail,no,20.83754345,yes,Household Work
+S0809,Sneha Kumar,14,female,8,government,OBC,rural,71.1,Medium,1.43,fail,no,22.76120153,yes,Lack of Interest
+S1867,Sneha Patel,16,female,10,private unaided,OBC,rural,100,Low,7.59,pass,no,20.27180545,yes,Early Marriage
+S1048,Divya Sharma,14,male,8,private aided,general,urban,78.4,Medium,0.19,pass,no,11.53895499,no,
+S0689,Manish Joseph,14,female,8,private aided,OBC,rural,55.9,Low,4.94,pass,no,20.65421536,yes,Migration
+S1964,Ishaan Naik,15,female,9,private unaided,OBC,rural,83,Medium,2,pass,yes,17.90307673,no,
+S1640,Ishaan Kumar,16,female,10,private unaided,ST,urban,79,Medium,0.49,pass,yes,12.56143042,no,
+S1771,Sneha Gupta,16,female,10,private unaided,general,urban,73.8,Medium,2.68,pass,no,14.45478703,no,
+S1188,Sonal Patel,16,male,10,private unaided,general,urban,61.3,Medium,3.18,pass,no,14.74961004,no,
+S1972,Maya Das,15,male,9,private unaided,ST,urban,75.6,High,0.76,pass,yes,12.68273253,no,
+S0991,Pooja Patel,15,female,9,private aided,OBC,rural,62.4,Medium,5.44,pass,no,17.45442378,no,
+S0600,Riya Singh,15,male,9,government,OBC,rural,76.4,Medium,4.56,pass,no,14.49215343,no,
+S1951,Riya Gupta,14,male,8,private unaided,OBC,urban,77.1,Medium,1.56,pass,no,13.31876572,no,
+S1717,Kavya Joseph,16,female,10,private unaided,ST,rural,63.4,Low,1.42,pass,no,18.88351685,yes,Other
+S1521,Siddharth Gupta,14,female,8,government,SC,rural,62.8,High,0.09,pass,yes,10.20569019,no,
+S0344,Rahul Das,14,female,8,private unaided,OBC,rural,64.8,Low,5.45,fail,no,29.0410982,yes,Lack of Interest
+S0439,Ishaan Joseph,16,male,10,private aided,general,rural,80.9,Low,5.28,pass,no,10.46702446,no,
+S0820,Rahul Reddy,15,female,9,private unaided,OBC,rural,51.4,Low,3.8,fail,no,39.3206767,yes,Household Work
+S0965,Neha Kumar,15,male,9,private aided,general,rural,78.4,Low,1.03,pass,no,14.36468348,no,
+S1753,Ishaan Sharma,15,male,9,private unaided,OBC,rural,59.5,High,1.47,pass,no,14.87393177,no,
+S1279,Maya Naik,16,female,10,private unaided,OBC,rural,57.6,Medium,1.34,pass,no,19.10971178,yes,Lack of Interest
+S1650,Aditya Joseph,15,female,9,private unaided,SC,rural,74.2,Low,4.41,pass,yes,20.83750042,yes,Financial Issues
+S0579,Sonal Kumar,16,male,10,private aided,SC,rural,63,Low,1.26,fail,no,24.74673032,yes,Other
+S1076,Ananya Gupta,16,female,10,private unaided,OBC,rural,80.1,Low,0.11,pass,no,16.56664262,no,
+S1479,Maya Reddy,14,female,8,private aided,SC,rural,82.8,Low,0.99,fail,yes,24.20600125,yes,Early Marriage
+S0535,Karan Singh,15,male,9,private unaided,general,urban,76.6,Medium,0.64,pass,yes,16.31311107,no,
+S0548,Arjun Joseph,15,male,9,private unaided,OBC,urban,73.8,Medium,1.53,pass,yes,14.81032591,no,
+S1963,Manish Singh,15,female,9,government,OBC,urban,93.4,Medium,0.57,pass,no,15.80116363,no,
+S1141,Siddharth Joseph,15,male,9,private unaided,ST,rural,82.9,High,0.21,fail,yes,21.59425556,yes,Early Marriage
+S1356,Sneha Iyer,14,female,8,government,SC,urban,63.9,Medium,1.83,pass,yes,11.00093006,no,
+S1334,Vikram Iyer,15,male,9,government,ST,urban,64.6,High,3.08,pass,yes,16.91704133,no,
+S1154,Ishaan Sharma,16,female,10,private aided,OBC,urban,69.1,High,1.88,pass,yes,11.20976301,no,
+S1939,Priya Das,15,female,9,private aided,OBC,rural,76.7,Medium,0.39,fail,no,22.52648033,yes,Household Work
+S0187,Neha Gupta,16,female,10,private aided,general,rural,90.7,Low,1.54,pass,no,11.34463865,no,
+S1765,Maya Gupta,14,female,8,private aided,OBC,rural,73.9,Low,3.55,pass,no,15.09258924,no,
+S0709,Ishaan Naik,16,male,10,private aided,general,urban,65.4,Low,0.84,pass,no,13.87302977,no,
+S0858,Sneha Iyer,16,female,10,private unaided,general,urban,100,High,0.1,pass,no,11.18784866,no,
+S1077,Priya Iyer,15,female,9,private unaided,SC,rural,81.6,Medium,1.94,pass,no,12.72412531,no,
+S1275,Aarav Sharma,15,male,9,government,OBC,rural,64.2,Low,3.37,pass,no,19.71901723,yes,Financial Issues
+S1866,Manish Joseph,16,male,10,private aided,general,urban,75,High,0.31,pass,yes,6.477783571,no,
+S1072,Aditya Kumar,16,male,10,government,OBC,rural,65.3,Medium,3.72,pass,no,16.20503851,no,
+S1135,Aditya Iyer,14,female,8,government,OBC,urban,73,Medium,0.78,pass,no,9.930791476,no,
+S0918,Karan Sharma,15,male,9,private unaided,OBC,rural,91.5,Low,6.17,pass,no,23.11963372,yes,Financial Issues
+S1469,Ananya Kumar,16,female,10,private aided,general,urban,85.2,Low,5.17,pass,no,15.18015104,no,
+S0942,Priya Singh,16,female,10,government,OBC,rural,91.9,High,2.16,fail,no,24.50075418,yes,Lack of Interest
+S1814,Neha Joseph,15,female,9,government,OBC,rural,84.1,Medium,5.5,fail,no,25.54274785,yes,Child Labour
+S0268,Pooja Reddy,15,male,9,private aided,general,urban,65.5,Medium,0.14,pass,no,12.27258951,no,
+S1851,Sneha Kumar,15,male,9,government,OBC,urban,56.3,Medium,0.41,pass,no,16.83292004,no,
+S1977,Ishaan Das,16,male,10,private aided,OBC,rural,80.2,Low,8.05,pass,no,20.46412067,yes,Child Labour
+S0540,Manish Patel,15,female,9,private aided,OBC,urban,74.2,Low,0.89,pass,no,17.02711695,no,
+S1412,Anjali Sharma,16,male,10,private unaided,ST,urban,92.3,Medium,0.45,pass,no,12.64857751,no,
+S0458,Siddharth Kumar,16,female,10,private aided,general,urban,77.5,Low,1.26,pass,no,10.39487389,no,
+S1633,Kavya Joseph,16,male,10,government,OBC,rural,81.1,Medium,0.21,pass,no,10.83812112,no,
+S1846,Siddharth Patel,14,female,8,private unaided,OBC,urban,91.3,Medium,0.02,pass,no,14.58498172,no,
+S0590,Priya Joseph,15,female,9,private unaided,SC,rural,77.4,Low,1.55,pass,no,18.20330571,yes,Household Work
+S0454,Kavya Naik,14,female,8,government,OBC,rural,82.3,Medium,4.3,pass,no,13.0702309,no,
+S0638,Karan Gupta,15,male,9,private unaided,SC,rural,74,High,2.83,pass,no,15.07510162,no,
+S0060,Arjun Naik,14,female,8,private unaided,SC,rural,78.1,Medium,2.86,pass,no,15.05763956,no,
+S0904,Manish Singh,14,male,8,private unaided,OBC,urban,74.6,Low,0.65,pass,yes,13.07374329,no,
+S1179,Aditya Patel,16,male,10,private unaided,general,urban,82.4,Medium,0.07,pass,no,9.79975783,no,
+S1035,Rahul Patel,15,female,9,private unaided,general,rural,69.2,High,1.19,pass,no,12.24468646,no,
+S0002,Karan Reddy,14,female,8,private unaided,SC,rural,73.3,Medium,3.65,pass,no,14.67543878,no,
+S0549,Neha Gupta,16,male,10,government,OBC,rural,56.7,Low,6.2,pass,no,24.43214578,yes,Lack of Interest
+S1410,Riya Sharma,14,female,8,private unaided,general,rural,52,Low,1.01,fail,no,33.97409489,yes,Household Work
+S1685,Anjali Iyer,16,male,10,private unaided,OBC,urban,83.8,Low,0.77,pass,yes,16.47182874,no,
+S1432,Priya Singh,15,female,9,private unaided,SC,rural,63.9,Medium,1.78,pass,no,18.98959561,yes,Other
+S1844,Riya Das,16,female,10,private aided,SC,urban,83.7,Medium,0,pass,no,12.91610856,no,
+S0462,Sneha Sharma,16,female,10,private aided,OBC,urban,83.2,Medium,2.79,pass,no,12.76575178,no,
+S0469,Aarav Joseph,16,female,10,private aided,SC,rural,92.4,Medium,1.54,pass,no,8.070314537,no,
+S0208,Riya Reddy,16,male,10,private aided,general,rural,72.4,Low,3.27,pass,no,13.18981599,no,
+S1909,Pooja Patel,15,female,9,private aided,OBC,rural,85.3,Low,0.76,fail,no,27.68636694,yes,Lack of Interest
+S0799,Priya Gupta,16,female,10,private aided,OBC,rural,70.6,Low,0.3,pass,no,13.33185631,no,
+S1530,Neha Singh,16,male,10,private unaided,OBC,urban,87.5,Medium,7.01,pass,no,15.71749101,no,
+S1526,Siddharth Reddy,15,female,9,private aided,SC,urban,90.9,Low,0.06,pass,yes,18.2421438,yes,Migration
+S0059,Anjali Patel,16,female,10,private aided,OBC,rural,78.6,Low,0.03,pass,yes,13.30981343,no,
+S0369,Anjali Naik,16,male,10,private unaided,general,rural,73.1,Low,6.5,pass,no,16.45714699,no,
+S1549,Karan Patel,14,male,8,private unaided,SC,urban,93.6,Medium,2.73,fail,yes,23.68465029,yes,Household Work
+S1920,Manish Kumar,14,male,8,private unaided,general,urban,44.6,Medium,4.12,fail,no,40.50160437,yes,Child Labour
+S0694,Vikram Patel,14,female,8,private unaided,ST,rural,81.5,Medium,8.62,pass,yes,22.11444628,yes,Lack of Interest
+S0854,Vikram Gupta,16,female,10,government,SC,rural,53.9,Medium,0.01,pass,yes,17.80611422,no,
+S1571,Riya Patel,16,female,10,private unaided,general,rural,71.9,High,14.46,pass,no,20.70432891,yes,Lack of Interest
+S1103,Sonal Singh,15,female,9,private unaided,general,urban,78.7,Medium,0.2,pass,no,13.73940669,no,
+S0071,Anjali Joseph,16,female,10,private unaided,OBC,urban,72.7,High,0.23,fail,no,25.38353403,yes,Lack of Interest
+S0690,Ananya Iyer,15,female,9,private aided,OBC,urban,80.3,Medium,0.99,pass,no,16.04137763,no,
+S1594,Sonal Patel,15,male,9,private unaided,OBC,urban,51.9,High,6.83,fail,no,36.64523154,yes,Lack of Interest
+S0784,Arjun Naik,15,male,9,government,OBC,urban,73.1,Low,1,pass,no,17.45650413,no,
+S1127,Sonal Singh,16,male,10,private unaided,general,rural,86.4,High,1.4,pass,no,10.42739811,no,
+S1061,Aditya Patel,14,female,8,private unaided,general,urban,73.4,Medium,0.58,pass,no,12.60972788,no,
+S0180,Sonal Naik,16,male,10,government,OBC,rural,68.3,High,6.58,pass,no,14.48812749,no,
+S1697,Aditya Iyer,16,female,10,private unaided,OBC,urban,70,Medium,0.39,pass,no,12.55243473,no,
+S0255,Kavya Iyer,16,male,10,private aided,OBC,rural,71.8,Low,2.89,pass,no,16.09395117,no,
+S1711,Ishaan Naik,16,female,10,government,general,urban,77.3,Medium,1.14,pass,no,13.91617171,no,
+S1759,Manish Kumar,16,male,10,private unaided,OBC,urban,87.6,Medium,0.27,pass,yes,12.20180964,no,
+S1348,Priya Singh,14,male,8,government,general,rural,68.4,Medium,4.11,pass,no,9.780471382,no,
+S0141,Rahul Gupta,15,female,9,private unaided,SC,rural,75.5,Medium,3.11,pass,yes,18.260394,yes,Lack of Interest
+S0929,Riya Joseph,16,female,10,private aided,SC,rural,76.4,High,1.35,pass,no,8.769692083,no,
+S1231,Riya Iyer,15,female,9,government,general,urban,65,High,0.22,pass,no,17.09243549,no,
+S1371,Pooja Kumar,16,female,10,private unaided,OBC,urban,81.6,Medium,0.34,pass,no,15.34878787,no,
+S1034,Aditya Das,14,male,8,private unaided,general,urban,81.1,Low,0.56,fail,no,24.72382971,yes,Child Labour
+S1253,Siddharth Gupta,16,male,10,government,general,urban,71.2,Low,0.01,pass,no,10.77794268,no,
+S0423,Ananya Reddy,15,female,9,private aided,general,urban,68.5,Low,0.03,pass,no,15.28048198,no,
+S0147,Riya Reddy,15,female,9,private unaided,general,rural,81.1,Medium,2.1,pass,no,17.04034393,no,
+S1110,Sonal Iyer,15,male,9,private unaided,general,rural,90.1,Medium,0.91,pass,no,12.65336856,no,
+S0224,Neha Naik,15,female,9,private aided,OBC,rural,65.3,Medium,0.83,pass,no,11.49111234,no,
+S1298,Manish Das,14,female,8,private unaided,OBC,urban,66.9,High,1.87,pass,yes,18.97001942,yes,Early Marriage
+S0637,Arjun Patel,16,male,10,private unaided,OBC,urban,83.8,Medium,0.57,pass,no,14.7835977,no,
+S0508,Neha Singh,16,female,10,private aided,general,rural,96.5,Medium,0.99,fail,no,19.40253568,yes,Lack of Interest
+S1965,Vikram Patel,15,female,9,private unaided,OBC,rural,71.1,High,0.79,pass,no,12.24487543,no,
+S1592,Aarav Kumar,14,female,8,government,SC,rural,84.8,Medium,7.93,pass,no,15.95495962,no,
+S0570,Priya Patel,15,female,9,private unaided,general,urban,80.1,Low,0.06,pass,yes,16.7012067,no,
+S1238,Divya Das,14,female,8,private unaided,OBC,rural,93.4,Low,0.72,fail,no,23.38224352,yes,Early Marriage
+S0760,Riya Reddy,14,female,8,private unaided,OBC,rural,51.3,Low,0.17,fail,no,36.25887006,yes,Financial Issues
+S0687,Kavya Sharma,15,female,9,private unaided,OBC,urban,76.3,Medium,1.85,pass,no,13.47620445,no,
+S0716,Ananya Das,14,female,8,private unaided,SC,rural,65.8,Low,6.44,pass,no,19.67281997,yes,Lack of Interest
+S1075,Sneha Patel,14,female,8,government,ST,urban,65.3,Medium,1,pass,no,14.34213981,no,
+S1210,Sonal Patel,15,female,9,government,general,rural,93.6,Medium,1.86,fail,no,22.93440414,yes,Financial Issues
+S0244,Aarav Patel,14,female,8,private unaided,OBC,urban,81.2,Medium,1.67,pass,no,15.37618671,no,
+S1767,Ananya Naik,16,female,10,private aided,ST,urban,75.5,Low,0.48,pass,no,14.18456183,no,
+S1300,Kavya Joseph,15,female,9,private unaided,OBC,rural,80.5,Medium,9.29,pass,no,20.72175361,yes,Early Marriage
+S0389,Manish Gupta,15,female,9,private unaided,general,rural,71.9,Low,2.97,pass,yes,16.23805143,no,
+S0798,Neha Joseph,16,female,10,government,SC,urban,66.9,Medium,1.71,pass,no,12.97098694,no,
+S1201,Siddharth Singh,16,male,10,private unaided,OBC,urban,100,Medium,0.01,pass,no,12.58648666,no,
+S0225,Karan Iyer,15,female,9,private aided,general,rural,49.5,Medium,1.31,pass,no,21.48482398,yes,Child Labour
+S0678,Rahul Reddy,16,female,10,private aided,SC,urban,78.4,Medium,3.93,pass,yes,16.51914587,no,
+S0564,Aditya Iyer,15,female,9,private aided,OBC,rural,66.8,Medium,6.39,pass,no,13.50397966,no,
+S1388,Ananya Patel,14,male,8,government,OBC,urban,66.7,Medium,0.43,pass,no,11.59674429,no,
+S1973,Neha Sharma,16,female,10,private unaided,SC,urban,78.9,Low,0.3,fail,yes,26.26726467,yes,Other
+S0898,Ananya Sharma,15,female,9,private unaided,general,rural,81.2,High,0.21,pass,no,11.580855,no,
+S1646,Rahul Sharma,14,male,8,private unaided,general,urban,97.2,Low,0.73,pass,no,15.83934442,no,
+S1333,Priya Naik,15,male,9,government,OBC,urban,69.3,Low,0.51,pass,no,14.61245609,no,
+S0523,Maya Gupta,15,female,9,private aided,general,urban,79.4,Medium,2.68,pass,no,13.13176668,no,
+S0924,Aarav Gupta,15,female,9,government,general,urban,56.2,High,2.22,fail,no,27.85512935,yes,Lack of Interest
+S0165,Karan Kumar,16,female,10,private unaided,OBC,urban,63.2,High,0.11,pass,no,12.75310186,no,
+S0098,Pooja Gupta,16,female,10,private aided,OBC,rural,80.7,Medium,1.02,fail,no,21.76359514,yes,Lack of Interest
+S0890,Maya Iyer,16,female,10,private unaided,general,urban,72.6,Medium,0.43,pass,yes,14.06846042,no,
+S1380,Rahul Singh,15,female,9,private unaided,OBC,rural,72.9,Medium,2.07,pass,no,19.53674844,yes,Household Work
+S0062,Karan Singh,16,male,10,private unaided,OBC,rural,70,Low,0.62,fail,yes,26.49127509,yes,Migration
+S1598,Manish Joseph,14,female,8,private aided,OBC,urban,95.4,Medium,2.73,pass,yes,11.88355071,no,
+S0263,Karan Iyer,15,male,9,government,OBC,rural,79.4,Low,0.8,pass,no,14.96436562,no,
+S0756,Anjali Reddy,14,female,8,private unaided,general,urban,72.8,Medium,0.22,pass,yes,11.35283784,no,
+S0326,Ananya Patel,15,male,9,private aided,OBC,urban,73.1,Medium,2.77,pass,no,14.7194387,no,
+S0341,Ishaan Das,14,male,8,private unaided,OBC,urban,82.6,Medium,3.36,pass,no,14.57989449,no,
+S1418,Aditya Reddy,15,male,9,private unaided,general,urban,67.7,Medium,0.43,pass,no,13.74590807,no,
+S0101,Ishaan Patel,15,male,9,private unaided,ST,urban,86.6,Medium,1.61,pass,no,15.91472696,no,
+S1944,Sneha Patel,15,male,9,private aided,OBC,rural,59.9,Medium,2.03,pass,no,12.88464976,no,
+S1975,Sonal Patel,16,female,10,private aided,OBC,rural,89.6,Low,2.18,pass,yes,14.59949795,no,
