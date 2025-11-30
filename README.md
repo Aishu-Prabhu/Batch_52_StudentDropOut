@@ -38,8 +38,6 @@ python main.py
 
 🌟 Future Enhancements
 
-Integrate a web dashboard (Flask/Django)
-
 Add real-time prediction
 
 Automated intervention alerts to teachers/parents
