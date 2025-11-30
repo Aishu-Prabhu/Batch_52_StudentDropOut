@@ -13,22 +13,29 @@ st.set_page_config(page_title="Student Dropout Dashboard", layout="wide")
 # Load dataset with caching
 # -------------------------------
 @st.cache_data
-def load_data(file_path):
+def load_data(file):
     try:
-        df = pd.read_csv(file_path)
+        df = pd.read_csv(file)
         return df
-    except FileNotFoundError:
-        st.error(f"CSV file not found at {file_path}")
+    except Exception as e:
+        st.error(f"Error loading CSV file: {e}")
         return pd.DataFrame()
 
 # -------------------------------
-# Load data
+# Load data (via upload on MAIN screen)
 # -------------------------------
-csv_path = Path(r"C:\Users\Aishu\Desktop\Capstone\student_dropout_dataset.csv")
-df = load_data(csv_path)
+st.markdown("### 📂 Upload Dataset")
+uploaded_file = st.file_uploader("Upload CSV file", type=["csv"])
+
+if uploaded_file is None:
+    st.info("Please upload a CSV dataset to proceed.")
+    st.stop()
+
+df = load_data(uploaded_file)
 
 if df.empty:
     st.stop()
+
 
 # Normalize column names
 df.columns = [c.strip().replace(" ", "_").capitalize() for c in df.columns]
